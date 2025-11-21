@@ -1,0 +1,165 @@
+INFO: Classes for registry class minetweaker.mods.ic2.ClassRegistry not found, skipping
+INFO: Loaded class registry: NEI mod support
+ERROR: system: AutoSpawner is already defined in that package
+INFO: Loaded class registry: MFR mod support
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: 
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command exnihilo
+INFO: Adding minetweaker command gases
+INFO: Adding minetweaker command mekanism
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command thermalexpansion
+INFO: Adding minetweaker command mfr
+INFO: Adding recipe for 蕴魔秘银粉
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for 机器框架(基础)
+INFO: Adding recipe for SAG磨粉机
+INFO: Adding recipe for 富集仓
+INFO: Adding recipe for 沙砾
+INFO: Adding recipe for 轻型工程块
+INFO: Adding recipe for 高炉砖
+INFO: Adding recipe for 焦炉砖
+INFO: Adding recipe for 工厂机械块
+INFO: Adding recipe for 水泥
+INFO: Adding furnace recipe for <minecraft:leather>
+INFO: Adding furnace recipe for <minecraft:rotten_flesh>
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:sand> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <EnderIO:blockReinforcedObsidian> (1 entries)
+INFO: Adding recipe for 陨石
+INFO: Adding recipe for 玻璃瓶装天然气
+INFO: Adding recipe for 日晷
+INFO: Adding recipe for 末影蛋糕
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: tried to remove command: thermalexpansion failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: materials failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: mekanism failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: gases failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: exnihilo failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: appeng failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: Removing recipe for 末影蛋糕
+INFO: Removing recipe for 日晷
+INFO: Removing recipe for 玻璃瓶装天然气
+INFO: Removing recipe for 陨石
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <EnderIO:blockReinforcedObsidian> (1 entries)
+INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <minecraft:sand> (1 entries)
+INFO: Removing furnace recipe for <minecraft:rotten_flesh>
+INFO: Removing furnace recipe for <minecraft:leather>
+INFO: Removing recipe for 水泥
+INFO: Removing recipe for 工厂机械块
+INFO: Removing recipe for 焦炉砖
+INFO: Removing recipe for 高炉砖
+INFO: Removing recipe for 轻型工程块
+INFO: Removing recipe for 沙砾
+INFO: Removing recipe for 富集仓
+INFO: Removing recipe for SAG磨粉机
+INFO: Removing recipe for 机器框架(基础)
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for 蕴魔秘银粉
+INFO: tried to remove command: mfr failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: thermalexpansion failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: materials failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: mekanism failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: gases failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: exnihilo failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: appeng failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: minetweaker failed. THIS IS NOT AN ERROR!
+INFO: Adding command minetweaker
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: Adding recipe for 蕴魔秘银粉
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for 机器框架(基础)
+INFO: Adding recipe for SAG磨粉机
+INFO: Adding recipe for 富集仓
+INFO: Adding recipe for 沙砾
+INFO: Adding recipe for 轻型工程块
+INFO: Adding recipe for 高炉砖
+INFO: Adding recipe for 焦炉砖
+INFO: Adding recipe for 工厂机械块
+INFO: Adding recipe for 水泥
+INFO: Adding furnace recipe for <minecraft:leather>
+INFO: Adding furnace recipe for <minecraft:rotten_flesh>
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <minecraft:sand> (1 entries)
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <EnderIO:blockReinforcedObsidian> (1 entries)
+INFO: Adding recipe for 陨石
+INFO: Adding recipe for 玻璃瓶装天然气
+INFO: Adding recipe for 日晷
+INFO: Adding recipe for 末影蛋糕
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 

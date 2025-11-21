@@ -1,0 +1,8 @@
+#Wed May 07 02:37:11 CST 2025
+shadowDistance=128.0
+SHADOW_FILTER=false
+shadowMapResolution=512
+AO=false
+LIGHT_SHAFT=false
+SHADOW_COLOR=false
+SHADOW=false

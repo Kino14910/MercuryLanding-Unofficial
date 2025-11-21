@@ -1,0 +1,164 @@
+5.1.0
+
+
+>properties
+recipe=ggg,gdg,ggg,g,gold_ingot,d,dropper
+
+>drops
+/========== TOOLS & ARMOR ==========
+
+/all wood, stone and gold tools
+group(ID=wooden_sword;ID=wooden_shovel;ID=wooden_pickaxe;ID=wooden_axe;ID=wooden_hoe)
+group(ID=stone_sword;ID=stone_shovel;ID=stone_pickaxe;ID=stone_axe;ID=stone_hoe)
+group(ID=golden_sword;ID=golden_shovel;ID=golden_pickaxe;ID=golden_axe;ID=golden_hoe)
+/2-3 iron tools
+group(ID=iron_shovel;ID=iron_pickaxe;ID=iron_axe;ID=iron_sword;ID=iron_hoe)
+/1-2 diamond tools
+group(ID=diamond_sword;ID=diamond_shovel;ID=diamond_pickaxe;ID=diamond_axe;ID=diamond_hoe)
+/all leather and gold armor
+group(ID=leather_helmet;ID=leather_chestplate;ID=leather_leggings;ID=leather_boots)
+group(ID=golden_helmet;ID=golden_chestplate;ID=golden_leggings;ID=golden_boots;ID=golden_horse_armor)
+/2-3 chain and iron armor
+group(ID=chainmail_helmet;ID=chainmail_chestplate;ID=chainmail_leggings;ID=chainmail_boots)
+group(ID=iron_helmet;ID=iron_chestplate;ID=iron_leggings;ID=iron_boots;ID=iron_horse_armor)
+/1-2 diamond armor
+group(ID=diamond_helmet;ID=diamond_chestplate;ID=diamond_leggings;ID=diamond_boots;ID=diamond_horse_armor)
+/all horse armor
+group(ID=iron_horse_armor;ID=golden_horse_armor;ID=diamond_horse_armor)
+/bow and arrows
+group(ID=bow;ID=arrow)
+
+/========== BLOCKS ==========
+
+group(ID=sponge)
+group(ID=tnt)
+group(ID=obsidian)
+group(ID=enchanting_table)
+group(ID=end_portal_frame)
+group(ID=dragon_egg)
+group(ID=ender_chest)
+group(ID=beacon)
+group(ID=dropper)
+group(ID=hay_block)
+
+/========= ITEMS ==========
+
+group(ID=gold_ingot)
+group(ID=stick)
+group(ID=painting)
+group(ID=saddle)
+group(ID=cake)
+group(ID=rotten_flesh)
+group(ID=nether_star)
+
+/========== GROUPS ==========
+
+/bookshelves and books
+group(ID=bookshelf;ID=book)
+/pumpkins and jack o'lanterns
+group(ID=pumpkin;ID=lit_pumpkin)
+/golden apples
+group(ID=golden_apple;ID=golden_apple)
+/buckets
+group(ID=bucket;ID=water_bucket;ID=lava_bucket;ID=milk_bucket)
+/meat (raw and cooked)
+group(ID=porkchop;ID=cooked_porkchop;ID=fish;ID=cooked_fish;ID=beef;ID=cooked_beef;ID=chicken;ID=cooked_chicken)
+/vegetable food (carrots, potatoes, pumpkin pie)
+group(ID=carrot;ID=golden_carrot;ID=potato;ID=baked_potato;ID=poisonous_potato;ID=beef;ID=cooked_beef;ID=pumpkin_pie)
+/ender pearls and eyes 
+group(ID=ender_pearl;ID=ender_eye)
+/potions
+group(ID=potion)
+/spawn eggs
+group(ID=spawn_egg)
+/heads
+group(ID=skull)
+/jukebox music discs
+group(ID=jukebox)
+/brewing
+group(ID=ender_pearl;ID=blaze_rod;ID=ghast_tear;ID=gold_nugget;ID=nether_wart;ID=spider_eye;ID=fermented_spider_eye;ID=blaze_powder;ID=magma_cream;ID=ender_eye;ID=382)
+/redstone
+group(ID=dispenser;ID=noteblock;ID=sticky_piston;ID=piston;ID=tnt;ID=lever;ID=stone_pressure_plate;ID=wooden_pressure_plate;ID=redstone_torch;ID=stone_button;ID=trapdoor;ID=fence_gate;ID=redstone_lamp;ID=tripwire_hook;ID=wooden_button;ID=light_weighted_pressure_plate;ID=heavy_weighted_pressure_plate;ID=daylight_detector;ID=hopper;ID=dropper;ID=wooden_door;ID=iron_door;ID=redstone;ID=repeater;ID=comparator)
+/colorful
+group(ID=wool;ID=stained_hardened_clay;ID=dye)
+/iron, gold, diamond, emerald with fireworks
+group(ID=iron_ingot;ID=gold_ingot;ID=diamond;ID=emerald;type=entity,ID=fireworks)
+/quartz
+group(ID=stone_slab;ID=quartz_ore;ID=quartz_block;ID=quartz_block;ID=quartz_block;ID=quartz_stairs;ID=quartz;type=particle,ID=2002)
+/fish
+group(ID=fishing_rod)
+/message with mushroom
+group(type=command,ID="/tell #playerName Listen to me, #playerName. You are in grave danger. You need to run. Now. Take this mushroom, it is your only hope.",commandSender="PlayerInDistress";ID=red_mushroom,NBTTag=(display=(Name="#cOnly Hope")))
+/random jokes
+group(ID=clock,NBTTag=(display=(Name="You're wasting your time"));ID=fish,NBTTag=(display=(Name="I'm funny"));ID=fish,NBTTag=(display=(Name="Oooooh!")))
+/flowers
+group(ID=red_flower)
+
+/========== ENTITIES ==========
+
+/passive mobs
+group(type=entity,ID=Pig;type=entity,ID=Cow;type=entity,ID=Chicken;type=entity,ID=Sheep;type=entity,ID=Squid)
+/colored sheep
+group(type=entity,ID=Sheep,NBTTag=(CustomName="#cM#6r. #eR#aa#2i#bn#3b#5o#dw",CustomNameVisible=true))
+/lucky eggs
+group(type=entity,ID=luckyegg)
+/lightning creeper
+group(type=difficulty,ID=hard;type=entity,ID=Creeper;type=entity,ID=lightning)
+/giant
+group(type=difficulty,ID=hard;type=entity,ID=Giant)
+/wither
+group(type=difficulty,ID=hard;type=entity,ID=WitherBoss)
+/ghast
+group(type=difficulty,ID=hard;type=entity,ID=Ghast)
+/bob the decked zombie
+group(type=difficulty,ID=hard;type=entity,ID=Zombie,NBTTag=(Equipment=[(id=diamond_sword,Count=1,Damage=0,tag=(ench=#luckySwordEnchantments)),(id=diamond_helmet,Count=1,Damage=0,tag=(ench=#luckyHelmetEnchantments)),(id=diamond_chestplate,Count=1,Damage=0,tag=(ench=#luckyChestplateEnchantments)),(id=diamond_leggings,Count=1,Damage=0,tag=(ench=#luckyLeggingsEnchantments)),(id=diamond_boots,Count=1,Damage=0,tag=(ench=#luckyBootsEnchantments))],CustomName="#e#lBob",CustomNameVisible=true))
+/stacked villager and pigs
+type=entity,ID=Villager,NBTTag=(Riding=(id=Pig,Riding=(id=Pig,Riding=(id=Pig,Riding=(id=Pig,Riding=(id=Pig,Riding=(id=Pig,Riding=(id=Pig))))))))
+/horses
+group(type=entity,ID=EntityHorse,NBTTag=(Owner=#playerName))
+/huge slime and magma cube
+group(type=entity,ID=Slime,NBTTag=(Size=10);type=entity,ID=LavaSlime,NBTTag=(Size=10))
+/pet wolves
+group(type=entity,ID=Wolf,adjustHeight=1,NBTTag=(Owner=#playerName,Sitting=1))
+/pet cats
+group(type=entity,ID=Ozelot,adjustHeight=1,NBTTag=(Owner=#playerName,Sitting=1))
+/lucky villagers
+type=entity,ID=Villager,NBTTag=(Offers=(Recipes=[(buy=(id=diamond),sell=(id=golden_sword,Count=1,tag=(ench=#luckySwordEnchantments,display=(Name="#e#lLucky Sword"))),maxUses=1),(buy=(id=diamond),sell=(id=bow,Count=1,tag=(ench=#luckyBowEnchantments,display=(Name="#e#lLucky Bow"))),maxUses=1),(buy=(id=diamond),sell=(id=fishing_rod,Count=1,tag=(ench=#luckyFishingRodEnchantments,display=(Name="#e#lLucky Fishing Rod"))),maxUses=1)]),CustomName="#e#lLucky Villager",CustomNameVisible=true)
+type=entity,ID=Villager,NBTTag=(Offers=(Recipes=[(buy=(id=diamond),sell=(id=golden_helmet,Count=1,tag=(ench=#luckyHelmetEnchantments,display=(Name="#e#lLucky Helmet"))),maxUses=1),(buy=(id=diamond),sell=(id=golden_chestplate,Count=1,tag=(ench=#luckyChestplateEnchantments,display=(Name="#e#lLucky Chestplate"))),maxUses=1),(buy=(id=diamond),sell=(id=golden_leggings,Count=1,tag=(ench=#luckyLeggingsEnchantments,display=(Name="#e#lLucky Leggings"))),maxUses=1),(buy=(id=diamond),sell=(id=golden_boots,Count=1,tag=(ench=#luckyBootsEnchantments,display=(Name="#e#lLucky Boots"))),maxUses=1)]),CustomName="#e#lLucky Villager",CustomNameVisible=true)
+type=entity,ID=Villager,NBTTag=(Offers=(Recipes=[(buy=(id=diamond),sell=(id=golden_shovel,Count=1,tag=(ench=#luckyToolEnchantments,display=(Name="#e#lLucky Shovel"))),maxUses=1),(buy=(id=diamond),sell=(id=golden_pickaxe,Count=1,tag=(ench=#luckyToolEnchantments,display=(Name="#e#lLucky Pickaxe"))),maxUses=1),(buy=(id=diamond),sell=(id=golden_axe,Count=1,tag=(ench=#luckyAxeEnchantments,display=(Name="#e#lLucky Axe"))),maxUses=1),(buy=(id=diamond),sell=(id=golden_hoe,Count=1,tag=(ench=#luckyToolEnchantments,display=(Name="#e#lLucky Hoe"))),maxUses=1)]),CustomName="#e#lLucky Villager",CustomNameVisible=true)
+
+/========== STRUCTURES ==========
+
+/traps
+type=structure,ID=anvil_trap,relativeToPlayer=true
+type=structure,ID=lava_trap,relativeToPlayer=true
+type=structure,ID=water_trap,relativeToPlayer=true
+type=structure,ID=pit_trap,relativeToPlayer=true
+
+/lucky fort and temple
+type=structure,ID=fort,relativeToPlayer=true
+type=structure,ID=temple,relativeToPlayer=true)
+
+/explosion
+group(type=difficulty,ID=hard;type=structure,ID=explosion)
+
+/choice of 2 lucky blocks
+type=structure,ID=lucky_choice,relativeToPlayer=true
+
+/========== MONSTER APOCALYPSE ==========
+group(type=entity,ID=Zombie;type=entity,ID=Creeper;type=entity,ID=Spider;type=entity,ID=CaveSpider)
+
+/========== ENCHANTED ITEMS ==========
+
+/lucky block book
+ID=written_book,NBTTag=(author="PlayerInDistress",title="#e#lLucky Block Book",pages=["#l#nThe Lucky Block#r\n\nThe Lucky Block (#ofortunus blockus#r) was brought to Minecraft by the gods to reward the good and punish the evil.","The player's true self will be revealed after mining this block.\n\nSome fear it, and others have been made rich by it.","You must mine it and be prepared for whatever will follow.\n\nIt is not luck.\n\nIt is #bdestiny."])
+/lucky sword
+group(ID=golden_sword,NBTTag=(ench=#luckySwordEnchantments,display=(Name="#e#lLucky Sword")))
+/lucky bow
+group(ID=bow,NBTTag=(ench=#luckyBowEnchantments,display=(Name="#e#lLucky Bow")))
+/lucky fishing rod
+group(ID=fishing_rod,NBTTag=(ench=#luckyFishingRodEnchantments,display=(Name="#e#lLucky Fishing Rod")))
+/lucky tools
+group(ID=golden_shovel,NBTTag=(ench=#luckyToolEnchantments,display=(Name="#e#lLucky Shovel"));ID=golden_pickaxe,NBTTag=(ench=#luckyToolEnchantments,display=(Name="#e#lLucky Pickaxe"));ID=golden_axe,NBTTag=(ench=#luckyAxeEnchantments,display=(Name="#e#lLucky Axe"));ID=golden_hoe,NBTTag=(ench=#luckyToolEnchantments,display=(Name="#e#lLucky Hoe")))
+/lucky armor
+group(ID=golden_helmet,NBTTag=(ench=#luckyHelmetEnchantments,display=(Name="#e#lLucky Helmet"));ID=golden_chestplate,NBTTag=(ench=#luckyChestplateEnchantments,display=(Name="#e#lLucky Chestplate"));ID=golden_leggings,NBTTag=(ench=#luckyLeggingsEnchantments,display=(Name="#e#lLucky Leggings"));ID=golden_boots,NBTTag=(ench=#luckyBootsEnchantments,display=(Name="#e#lLucky Boots")))
