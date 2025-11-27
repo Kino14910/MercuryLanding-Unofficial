@@ -1,5 +1,5 @@
 #Mod Configuration
-#Sat Nov 22 03:37:13 HKT 2025
+#Thu Nov 27 00:09:15 HKT 2025
 blockAppend=chisel\:technical, chisel\:factoryblock, chisel\:hexPlating, ExtraUtilities\:decorativeBlock2, appliedenergistics2\:tile.BlockEnergyCell, chisel\:futura
 blockIgnore=grass, dirt, flowing_water, water, flowing_lava, lava, sand, gravel, tallgrass, deadbush, yellow_flower, red_flower, snow_layer, netherrack, end_stone
 blockLimit=2000

@@ -1,0 +1,59 @@
+{
+	"chunk_modified": {
+		"location": "ACTION_BAR"
+	},
+	"chunk_changed": {
+		"location": "ACTION_BAR"
+	},
+	"cant_modify_chunk": {
+		"location": "ACTION_BAR"
+	},
+	"teleport": {
+		"location": "ACTION_BAR"
+	},
+	"teleport_warmup": {
+		"location": "ACTION_BAR"
+	},
+	"backup": {
+		"location": "ACTION_BAR",
+		"lastReceived": {
+			"extra": [
+				{
+					"color": "light_purple",
+					"translate": "cmd.backup_end_2",
+					"with": [
+						"449ms",
+						"7.7MB | 15.5MB"
+					]
+				}
+			],
+			"text": "",
+			"notification": "serverutilities:backup"
+		}
+	},
+	"config_changed": {
+		"location": "ACTION_BAR"
+	},
+	"restart_timer": {
+		"location": "ACTION_BAR"
+	},
+	"cleanup": {
+		"location": "ACTION_BAR"
+	},
+	"player_afk": {
+		"location": "CHAT",
+		"lastReceived": {
+			"extra": [
+				{
+					"color": "gray",
+					"translate": "permission.serverutilities.afk.timer.isnt_afk",
+					"with": [
+						"kino14910"
+					]
+				}
+			],
+			"text": "",
+			"notification": "serverutilities:player_afk"
+		}
+	}
+}

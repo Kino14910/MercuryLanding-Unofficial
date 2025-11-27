@@ -1,0 +1,71 @@
+{
+  "preRequisites:9": {},
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "阿卡什宝典是著名的MC模组开发者 §oVazkii§r 的作品。\n[img height\u003d64]images:1794735.png[/img]\n[img height\u003d64]images:icon.png[/img]\n\n什么？你不认识？\n\n那植物魔法应该认识吧，他就是植物魔法的作者，国内一般将其称为V姐§m§r(性别男，且明确表示不喜欢被称为she/her)\n\n扯远了，回到正题。[note]现在你的手中有一本阿卡什宝典和一本BQ任务书(就是本书)，将他们合成。[/note]如果想要添加一本手册到阿卡什宝典，只需要简单地合成它们。你想要添加多少本手册都没问题，哪怕是完全一样的手册。\n\n你从阿卡什宝典中所得到的都是真实的物品(手册)，而非这个物品或容器的仿制品。这确保了与物品所具有的功能100%的兼容(详见配置模组)\n\n由于你得到的是真实的物品，你可以把它用于合成，但你最好不要这么做，因为这样你会[warn]失去其他你所添加的物品[/warn]。\n\n想要切换宝典到其他模组你所添加的手册，你只需要简单的右键点击它并选择你想要的手册。\n\n按住Shift键再右击一个模组的方块会使宝典变成已添加的相应模组的手册。如果你添加了一个模组的多本手册，它会选择你首先添加的手册。\n\n左键点击空气使宝典恢复原状。\n\n当你拿着阿卡什宝典(没有转变为其他手册)，你可以按住Shift键再右键单击一个宝典中没有该模组手册的方块，这样你会被带到它的wiki页面(这使用了Botania Wiki API，并且默认为FTB wiki)。\n\n如果想要移除你所添加的手册，请切换到你想要移除的手册，按住Shift键再点击Q键来移除手册。",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "akashictome:tome"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "阿卡什宝典",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 2291658975746476165,
+  "questIDLow:4": -4798580601770621727,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "allowAnvil:1": 0,
+      "allowCraft:1": 1,
+      "allowCraftedFromStatistics:1": 0,
+      "allowSmelt:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "akashictome:tome",
+          "tag:10": {
+            "akashictome:data:10": {
+              "SpiceOfLife:10": {
+                "Count:1": 1,
+                "Damage:2": 0,
+                "name:8": "SpiceOfLife:bookfoodjournal",
+                "tag:10": {
+                  "akashictome:definedMod:8": "SpiceOfLife"
+                }
+              },
+              "betterquesting:10": {
+                "Count:1": 1,
+                "Damage:2": 0,
+                "name:8": "questbook:ItemQuestBook",
+                "tag:10": {
+                  "akashictome:definedMod:8": "betterquesting"
+                }
+              }
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:crafting"
+    }
+  }
+}

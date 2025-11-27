@@ -1,0 +1,59 @@
+{
+  "preRequisites:9": {},
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Cake is a lie!!! 使用传送枪对准地球射出其中一个传送门之后再进入另一个传送门就可以到GLaDOS的实验室。THAT WAS A JOKE. HAHA, FAT CHANCE. Anyway, this cake is great.It\u0027s so delicious and moist.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:cake"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "蛋糕是个谎言！！！",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -1258978038251240949,
+  "questIDLow:4": -9197106743782508286,
+  "rewards:9": {
+    "0:10": {
+      "command:8": "/summon lmreengaged:littlemaid ~ ~1 ~",
+      "hideCommand:1": 0,
+      "ignoreDisabled:1": 1,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:command",
+      "viaPlayer:1": 1
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:cake"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -169,7 +169,7 @@ minecraft:nether_brick, 地狱砖块
 minecraft:nether_brick_fence, 地狱砖栅栏
 minecraft:nether_brick_stairs, 地狱砖楼梯
 minecraft:enchanting_table, 附魔台
-minecraft:end_portal, 未命名方块,请报告给作者.
+minecraft:end_portal, 末地传送门
 minecraft:end_portal_frame, 末地传送门
 minecraft:end_stone, 末地石
 minecraft:dragon_egg, 龙蛋
@@ -250,13 +250,6 @@ minecraft:log2:0, 金合欢木
 minecraft:log2:1, 深色橡木
 minecraft:acacia_stairs, 金合欢木楼梯
 minecraft:dark_oak_stairs, 深色橡木楼梯 
-battlegear2:flagpole:0, 橡木旗杆
-battlegear2:flagpole:1, 云杉旗杆
-battlegear2:flagpole:2, 白桦旗杆
-battlegear2:flagpole:3, 丛林木旗杆
-battlegear2:flagpole:4, 铁旗杆
-battlegear2:flagpole:5, 刺槐旗杆
-battlegear2:flagpole:6, 黑橡木旗杆
 ThermalFoundation:Ore:0, 铜矿石
 ThermalFoundation:Ore:1, 锡矿石
 ThermalFoundation:Ore:2, 银矿石
@@ -279,6 +272,7 @@ ThermalFoundation:Storage:11, 流明块
 ThermalFoundation:Storage:12, 末影块
 ThermalFoundation:FluidRedstone, 熔融红石
 ThermalFoundation:FluidGlowstone, 充能液态荧石
+ThermalFoundation:FluidEnder, 谐振熔融末影珍珠
 minecraft:hay_block, 干草块
 minecraft:carpet:0, 地毯
 minecraft:carpet:1, 橙色地毯
@@ -305,7 +299,6 @@ minecraft:double_plant:2, 高草丛
 minecraft:double_plant:3, 大型蕨
 minecraft:double_plant:4, 玫瑰丛
 minecraft:double_plant:5, 牡丹
-ThermalFoundation:FluidEnder, 谐振熔融末影珍珠
 ThermalFoundation:FluidPyrotheum, 烈焰之炽焱
 ThermalFoundation:FluidCryotheum, 极寒之凛冰
 ThermalFoundation:FluidAerotheum, 和谐之空气
@@ -587,7 +580,7 @@ MineFactoryReloaded:steam.still, 蒸汽
 ExtraUtilities:chestMini, 迷你箱
 ExtraUtilities:chestFull, 微型箱
 ExtraUtilities:enderCollector, 末影收集器
-ExtraUtilities:endConstructor:0, QED(类星纠缠设备Quasar Entanglement Device)
+ExtraUtilities:endConstructor:0, QED(量子纠缠测算仪Quantum Entanglement Diviner)
 ExtraUtilities:endConstructor:2, 末影潮汐水晶
 ExtraUtilities:endMarker, 末影路标
 ExtraUtilities:curtains, 黑幕布帘
@@ -622,6 +615,7 @@ ExtraUtilities:decorativeBlock2:8, 心之玻璃
 ExtraUtilities:decorativeBlock2:9, 四方玻璃
 ExtraUtilities:decorativeBlock2:10, 暗色玻璃
 ExtraUtilities:decorativeBlock2:11, 强化暗色玻璃
+ExtraUtilities:pureLove, tile.extrautils:pureLove.name
 minecraft:iron_shovel, 铁锹
 minecraft:iron_pickaxe, 铁镐
 minecraft:iron_axe, 铁斧
@@ -891,7 +885,6 @@ minecraft:netherbrick, 地狱砖
 minecraft:quartz, 下界石英
 minecraft:tnt_minecart, TNT矿车
 minecraft:hopper_minecart, 漏斗矿车
-ExtraUtilities:pureLove, tile.extrautils:pureLove.name
 ExtraUtilities:block_bedrockium, 基岩块
 ExtraUtilities:datablock, tile.extrautils:datablock.name
 ExtraUtilities:colorStoneBrick:0, 染色 石砖 (白色)
@@ -974,12 +967,6 @@ ExtraUtilities:color_quartzBlock:12, 染色 石英块 (棕色)
 ExtraUtilities:color_quartzBlock:13, 染色 石英块 (绿色)
 ExtraUtilities:color_quartzBlock:14, 染色 石英块 (红色)
 ExtraUtilities:color_quartzBlock:15, 染色 石英块 (黑色)
-minecraft:iron_horse_armor, 铁马铠
-minecraft:golden_horse_armor, 金马铠
-minecraft:diamond_horse_armor, 钻石马铠
-minecraft:lead, 拴绳
-minecraft:name_tag, 命名牌
-minecraft:command_block_minecart, 命令方块矿车
 ExtraUtilities:color_hellsand:0, 染色 灵魂沙 (白色)
 ExtraUtilities:color_hellsand:1, 染色 灵魂沙 (橙色)
 ExtraUtilities:color_hellsand:2, 染色 灵魂沙 (品红色)
@@ -996,6 +983,12 @@ ExtraUtilities:color_hellsand:12, 染色 灵魂沙 (棕色)
 ExtraUtilities:color_hellsand:13, 染色 灵魂沙 (绿色)
 ExtraUtilities:color_hellsand:14, 染色 灵魂沙 (红色)
 ExtraUtilities:color_hellsand:15, 染色 灵魂沙 (黑色)
+minecraft:iron_horse_armor, 铁马铠
+minecraft:golden_horse_armor, 金马铠
+minecraft:diamond_horse_armor, 钻石马铠
+minecraft:lead, 拴绳
+minecraft:name_tag, 命名牌
+minecraft:command_block_minecart, 命令方块矿车
 ExtraUtilities:color_redstoneLight:0, 染色 红石灯 (白色)
 ExtraUtilities:color_redstoneLight:1, 染色 红石灯 (橙色)
 ExtraUtilities:color_redstoneLight:2, 染色 红石灯 (品红色)
@@ -4025,6 +4018,488 @@ EnderIO:blockEndSteelBars, 末影钢栅栏
 EnderZoo:blockConfusingCharge, 混乱炸药
 EnderZoo:blockEnderCharge, 末影炸药
 EnderZoo:blockConcussionCharge, 震荡炸药
+etfuturum:stone:1, 花岗岩
+etfuturum:stone:2, 磨制花岗岩
+etfuturum:stone:3, 闪长岩
+etfuturum:stone:4, 磨制闪长岩
+etfuturum:stone:5, 安山岩
+etfuturum:stone:6, 磨制安山岩
+etfuturum:prismarine_block:0, 海晶石
+etfuturum:prismarine_block:1, 海晶石砖
+etfuturum:prismarine_block:2, 暗海晶石
+etfuturum:sea_lantern, 海晶灯
+etfuturum:red_sandstone:0, 红砂岩
+etfuturum:red_sandstone:1, 錾制红砂岩
+etfuturum:red_sandstone:2, 平滑红砂岩
+etfuturum:brown_mushroom, 蘑菇
+etfuturum:red_mushroom, 蘑菇
+etfuturum:coarse_dirt, 砂土
+etfuturum:banner:0, 白色旗帜
+etfuturum:banner:1, 橙色旗帜
+etfuturum:banner:2, 品红色旗帜
+etfuturum:banner:3, 淡蓝色旗帜
+etfuturum:banner:4, 黄色旗帜
+etfuturum:banner:5, 黄绿色旗帜
+etfuturum:banner:6, 粉红色旗帜
+etfuturum:banner:7, 灰色旗帜
+etfuturum:banner:8, 淡灰色旗帜
+etfuturum:banner:9, 青色旗帜
+etfuturum:banner:10, 紫色旗帜
+etfuturum:banner:11, 蓝色旗帜
+etfuturum:banner:12, 棕色旗帜
+etfuturum:banner:13, 绿色旗帜
+etfuturum:banner:14, 红色旗帜
+etfuturum:banner:15, 黑色旗帜
+etfuturum:slime, 黏液块
+etfuturum:sponge:1, 湿海绵
+etfuturum:purpur_block, 紫珀块
+etfuturum:purpur_pillar, 紫珀柱
+etfuturum:end_bricks, 末地石砖
+etfuturum:grass_path, 草径
+etfuturum:end_rod, 末地烛
+etfuturum:chorus_plant, 紫颂植物
+etfuturum:chorus_flower, 紫颂花
+etfuturum:bone, 骨块
+etfuturum:red_netherbrick:0, 红色下界砖块
+etfuturum:red_netherbrick:1, 裂纹下界砖块
+etfuturum:red_netherbrick:2, 錾制下界砖块
+etfuturum:ancient_debris, 远古残骸
+etfuturum:netherite_block, 下界合金块
+etfuturum:nether_gold_ore, 下界金矿石
+etfuturum:blue_ice, 蓝冰
+etfuturum:smooth_stone, 平滑石头
+etfuturum:smooth_sandstone, 平滑砂岩
+etfuturum:smooth_red_sandstone, 平滑红砂岩
+etfuturum:smooth_quartz, 平滑石英块
+etfuturum:quartz_bricks, 石英砖
+etfuturum:log_stripped:0, 去皮橡木原木
+etfuturum:log_stripped:1, 去皮云杉原木
+etfuturum:log_stripped:2, 去皮白桦原木
+etfuturum:log_stripped:3, 去皮丛林原木
+etfuturum:log2_stripped:0, 去皮金合欢原木
+etfuturum:log2_stripped:1, 去皮深色橡木原木
+etfuturum:bark:0, 橡木
+etfuturum:bark:1, 云杉木
+etfuturum:bark:2, 白桦木
+etfuturum:bark:3, 丛林木
+etfuturum:bark2:0, 金合欢木
+etfuturum:bark2:1, 深色橡木
+etfuturum:wood_stripped:0, 去皮橡木
+etfuturum:wood_stripped:1, 去皮云杉木
+etfuturum:wood_stripped:2, 去皮白桦木
+etfuturum:wood_stripped:3, 去皮丛林木
+etfuturum:wood2_stripped:0, 去皮金合欢木
+etfuturum:wood2_stripped:1, 去皮深色橡木
+etfuturum:concrete:0, 白色混凝土
+etfuturum:concrete:1, 橙色混凝土
+etfuturum:concrete:2, 品红色混凝土
+etfuturum:concrete:3, 淡蓝色混凝土
+etfuturum:concrete:4, 黄色混凝土
+etfuturum:concrete:5, 黄绿色混凝土
+etfuturum:concrete:6, 粉红色混凝土
+etfuturum:concrete:7, 灰色混凝土
+etfuturum:concrete:8, 淡灰色混凝土
+etfuturum:concrete:9, 青色混凝土
+etfuturum:concrete:10, 紫色混凝土
+etfuturum:concrete:11, 蓝色混凝土
+etfuturum:concrete:12, 棕色混凝土
+etfuturum:concrete:13, 绿色混凝土
+etfuturum:concrete:14, 红色混凝土
+etfuturum:concrete:15, 黑色混凝土
+etfuturum:concrete_powder:0, 白色混凝土粉末
+etfuturum:concrete_powder:1, 橙色混凝土粉末
+etfuturum:concrete_powder:2, 品红色混凝土粉末
+etfuturum:concrete_powder:3, 淡蓝色混凝土粉末
+etfuturum:concrete_powder:4, 黄色混凝土粉末
+etfuturum:concrete_powder:5, 黄绿色混凝土粉末
+etfuturum:concrete_powder:6, 粉红色混凝土粉末
+etfuturum:concrete_powder:7, 灰色混凝土粉末
+etfuturum:concrete_powder:8, 淡灰色混凝土粉末
+etfuturum:concrete_powder:9, 青色混凝土粉末
+etfuturum:concrete_powder:10, 紫色混凝土粉末
+etfuturum:concrete_powder:11, 蓝色混凝土粉末
+etfuturum:concrete_powder:12, 棕色混凝土粉末
+etfuturum:concrete_powder:13, 绿色混凝土粉末
+etfuturum:concrete_powder:14, 红色混凝土粉末
+etfuturum:concrete_powder:15, 黑色混凝土粉末
+etfuturum:copper_ore, 铜矿石
+etfuturum:deepslate_copper_ore, 深层铜矿石
+etfuturum:cornflower, 矢车菊
+etfuturum:lily_of_the_valley, 铃兰
+etfuturum:wither_rose, 凋零玫瑰
+etfuturum:white_glazed_terracotta, 白色带釉陶瓦
+etfuturum:orange_glazed_terracotta, 橙色带釉陶瓦
+etfuturum:magenta_glazed_terracotta, 品红色带釉陶瓦
+etfuturum:light_blue_glazed_terracotta, 淡蓝色带釉陶瓦
+etfuturum:yellow_glazed_terracotta, 黄色带釉陶瓦
+etfuturum:lime_glazed_terracotta, 黄绿色带釉陶瓦
+etfuturum:pink_glazed_terracotta, 粉红色带釉陶瓦
+etfuturum:gray_glazed_terracotta, 淡灰色带釉陶瓦
+etfuturum:light_gray_glazed_terracotta, 淡灰色带釉陶瓦
+etfuturum:cyan_glazed_terracotta, 青色带釉陶瓦
+etfuturum:purple_glazed_terracotta, 紫色带釉陶瓦
+etfuturum:blue_glazed_terracotta, 蓝色带釉陶瓦
+etfuturum:brown_glazed_terracotta, 棕色带釉陶瓦
+etfuturum:green_glazed_terracotta, 绿色带釉陶瓦
+etfuturum:red_glazed_terracotta, 红色带釉陶瓦
+etfuturum:black_glazed_terracotta, 黑色带釉陶瓦
+etfuturum:copper_block:0, 铜块
+etfuturum:copper_block:1, 斑驳的铜块
+etfuturum:copper_block:2, 锈蚀的铜块
+etfuturum:copper_block:3, 氧化的铜块
+etfuturum:copper_block:4, 切制铜块
+etfuturum:copper_block:5, 斑驳的切制铜块
+etfuturum:copper_block:6, 锈蚀的切制铜块
+etfuturum:copper_block:7, 氧化的切制铜块
+etfuturum:copper_block:8, 涂蜡的铜块
+etfuturum:copper_block:9, 涂蜡的斑驳铜块
+etfuturum:copper_block:10, 涂蜡的锈蚀铜块
+etfuturum:copper_block:11, 涂蜡的氧化铜块
+etfuturum:copper_block:12, 涂蜡的切制铜块
+etfuturum:copper_block:13, 涂蜡的斑驳切制铜块
+etfuturum:copper_block:14, 涂蜡的锈蚀切制铜块
+etfuturum:copper_block:15, 涂蜡的氧化切制铜块
+etfuturum:chiseled_copper:0, 雕纹铜块
+etfuturum:chiseled_copper:1, 斑驳的雕纹铜块
+etfuturum:chiseled_copper:2, 锈蚀的雕纹铜块
+etfuturum:chiseled_copper:3, 氧化的雕纹铜块
+etfuturum:chiseled_copper:4, 涂蜡的雕纹铜块
+etfuturum:chiseled_copper:5, 涂蜡的斑驳雕纹铜块
+etfuturum:chiseled_copper:6, 涂蜡的锈蚀雕纹铜块
+etfuturum:chiseled_copper:7, 涂蜡的氧化雕纹铜块
+etfuturum:copper_grate:0, 铜格栅
+etfuturum:copper_grate:1, 斑驳的铜格栅
+etfuturum:copper_grate:2, 锈蚀的铜格栅
+etfuturum:copper_grate:3, 氧化的铜格栅
+etfuturum:copper_grate:4, 涂蜡的铜格栅
+etfuturum:copper_grate:5, 涂蜡的斑驳铜格栅
+etfuturum:copper_grate:6, 涂蜡的锈蚀铜格栅
+etfuturum:copper_grate:7, 涂蜡的氧化铜格栅
+etfuturum:copper_bulb:0, 铜灯
+etfuturum:copper_bulb:1, 斑驳的铜灯
+etfuturum:copper_bulb:2, 锈蚀的铜灯
+etfuturum:copper_bulb:3, 氧化的铜灯
+etfuturum:copper_bulb:8, 涂蜡的铜灯
+etfuturum:copper_bulb:9, 涂蜡的斑驳铜灯
+etfuturum:copper_bulb:10, 涂蜡的锈蚀铜灯
+etfuturum:copper_bulb:11, 涂蜡的氧化铜灯
+etfuturum:deepslate, 深板岩
+etfuturum:cobbled_deepslate, 深板岩圆石
+etfuturum:polished_deepslate, 磨制深板岩
+etfuturum:deepslate_bricks:0, 深板岩砖
+etfuturum:deepslate_bricks:1, 裂纹深板岩砖
+etfuturum:deepslate_bricks:2, 深板岩瓦
+etfuturum:deepslate_bricks:3, 裂纹深板岩瓦
+etfuturum:deepslate_bricks:4, 錾制深板岩
+etfuturum:tuff:0, 凝灰岩
+etfuturum:tuff:1, 磨制凝灰岩
+etfuturum:tuff:2, 凝灰岩砖
+etfuturum:tuff:3, 錾制凝灰岩
+etfuturum:tuff:4, 錾制凝灰岩砖
+etfuturum:raw_ore_block:0, 粗铜块
+etfuturum:raw_ore_block:1, 粗铁块
+etfuturum:raw_ore_block:2, 粗金块
+etfuturum:basalt:0, 玄武岩
+etfuturum:basalt:1, 磨制玄武岩
+etfuturum:smooth_basalt, 平滑玄武岩
+etfuturum:calcite, 方解石
+etfuturum:amethyst_block, 紫水晶块
+etfuturum:budding_amethyst, 紫水晶母岩
+etfuturum:amethyst_cluster_1:0, 小型紫晶芽
+etfuturum:amethyst_cluster_1:6, 中型紫晶芽
+etfuturum:amethyst_cluster_2:0, 大型紫晶芽
+etfuturum:amethyst_cluster_2:6, 紫水晶簇
+etfuturum:tinted_glass, 遮光玻璃
+etfuturum:mud, 泥巴
+etfuturum:packed_mud:0, 泥坯
+etfuturum:packed_mud:1, 泥砖
+etfuturum:deepslate_coal_ore, 深层煤矿石
+etfuturum:deepslate_iron_ore, 深层铁矿石
+etfuturum:deepslate_gold_ore, 深层金矿石
+etfuturum:deepslate_redstone_ore, 深层红石矿石
+etfuturum:deepslate_lapis_ore, 深层青金石矿石
+etfuturum:deepslate_diamond_ore, 深层钻石矿石
+etfuturum:deepslate_emerald_ore, 深层绿宝石矿石
+etfuturum:observer, 侦测器
+etfuturum:target, 标靶
+etfuturum:red_sandstone_slab:0, 红砂岩台阶
+etfuturum:red_sandstone_slab:1, 切制红砂岩台阶
+etfuturum:purpur_slab, 紫珀台阶
+etfuturum:double_purpur_slab, 紫珀台阶
+etfuturum:stone_slab:0, 石台阶
+etfuturum:stone_slab:1, 苔石台阶
+etfuturum:stone_slab:2, 苔石砖台阶
+etfuturum:stone_slab:3, 切制砂岩台阶
+etfuturum:stone_slab_2:0, 花岗岩台阶
+etfuturum:stone_slab_2:1, 磨制花岗岩台阶
+etfuturum:stone_slab_2:2, 闪长岩台阶
+etfuturum:stone_slab_2:3, 磨制闪长岩台阶
+etfuturum:stone_slab_2:4, 安山岩台阶
+etfuturum:stone_slab_2:5, 磨制安山岩台阶
+etfuturum:smooth_sandstone_slab, 平滑砂岩台阶
+etfuturum:double_smooth_sandstone_slab, 平滑砂岩台阶
+etfuturum:smooth_red_sandstone_slab, 平滑红砂岩台阶
+etfuturum:double_smooth_red_sandstone_slab, 平滑红砂岩台阶
+etfuturum:prismarine_slab:0, 海晶石台阶
+etfuturum:prismarine_slab:1, 海晶石砖台阶
+etfuturum:prismarine_slab:2, 暗海晶石台阶
+etfuturum:smooth_quartz_slab, 平滑石英台阶
+etfuturum:double_smooth_quartz_slab, 平滑石英台阶
+etfuturum:red_netherbrick_slab, 未命名方块,请报告给作者.
+etfuturum:double_red_netherbrick_slab, 未命名方块,请报告给作者.
+etfuturum:end_brick_slab, 未命名方块,请报告给作者.
+etfuturum:double_end_brick_slab, 未命名方块,请报告给作者.
+etfuturum:deepslate_slab:0, 深板岩圆石台阶
+etfuturum:deepslate_slab:1, 磨制深板岩台阶
+etfuturum:deepslate_brick_slab:0, 深板岩砖台阶
+etfuturum:deepslate_brick_slab:1, 深板岩瓦台阶
+etfuturum:tuff_slab:0, 凝灰岩台阶
+etfuturum:tuff_slab:1, 磨制凝灰岩台阶
+etfuturum:tuff_slab:2, 凝灰岩砖台阶
+etfuturum:mud_brick_slab, 未命名方块,请报告给作者.
+etfuturum:double_mud_brick_slab, 未命名方块,请报告给作者.
+etfuturum:cut_copper_slab:0, 切制铜台阶
+etfuturum:cut_copper_slab:1, 斑驳的切制铜台阶
+etfuturum:cut_copper_slab:2, 锈蚀的切制铜台阶
+etfuturum:cut_copper_slab:3, 氧化的切制铜台阶
+etfuturum:cut_copper_slab:4, 涂蜡的切制铜台阶
+etfuturum:cut_copper_slab:5, 涂蜡的斑驳切制铜台阶
+etfuturum:cut_copper_slab:6, 涂蜡的锈蚀切制铜台阶
+etfuturum:cut_copper_slab:7, 涂蜡的氧化切制铜台阶
+etfuturum:prismarine_stairs, 海晶石楼梯
+etfuturum:prismarine_stairs_brick, 海晶石砖楼梯
+etfuturum:prismarine_stairs_dark, 暗海晶石楼梯
+etfuturum:smooth_sandstone_stairs, 平滑砂岩楼梯
+etfuturum:smooth_red_sandstone_stairs, 平滑红砂岩楼梯
+etfuturum:smooth_quartz_stairs, 平滑石英楼梯
+etfuturum:red_netherbrick_stairs, 红色下界砖楼梯
+etfuturum:granite_stairs, 花岗岩楼梯
+etfuturum:polished_granite_stairs, 磨制花岗岩楼梯
+etfuturum:diorite_stairs, 闪长岩楼梯
+etfuturum:polished_diorite_stairs, 磨制闪长岩楼梯
+etfuturum:andesite_stairs, 安山岩楼梯
+etfuturum:polished_andesite_stairs, 磨制安山岩楼梯
+etfuturum:mossy_stone_brick_stairs, 苔石砖楼梯
+etfuturum:mossy_cobblestone_stairs, 苔石楼梯
+etfuturum:stone_stairs, 石楼梯
+etfuturum:end_brick_stairs, 末地石砖楼梯
+etfuturum:red_sandstone_stairs, 红砂岩楼梯
+etfuturum:purpur_stairs, 紫珀楼梯
+etfuturum:cobbled_deepslate_stairs, 深板岩圆石楼梯
+etfuturum:polished_deepslate_stairs, 磨制深板岩楼梯
+etfuturum:deepslate_brick_stairs, 深板岩砖楼梯
+etfuturum:deepslate_tile_stairs, 深板岩瓦楼梯
+etfuturum:tuff_stairs, 凝灰岩楼梯
+etfuturum:polished_tuff_stairs, 磨制凝灰岩楼梯
+etfuturum:tuff_brick_stairs, 凝灰岩砖楼梯
+etfuturum:mud_brick_stairs, 泥砖楼梯
+etfuturum:cut_copper_stairs, 切制铜楼梯
+etfuturum:exposed_cut_copper_stairs, 斑驳的切制铜楼梯
+etfuturum:weathered_cut_copper_stairs, 锈蚀的切制铜楼梯
+etfuturum:oxidized_cut_copper_stairs, 氧化的切制铜楼梯
+etfuturum:waxed_cut_copper_stairs, 涂蜡的切制铜楼梯
+etfuturum:waxed_exposed_cut_copper_stairs, 涂蜡的斑驳切制铜楼梯
+etfuturum:waxed_weathered_cut_copper_stairs, 涂蜡的锈蚀切制铜楼梯
+etfuturum:waxed_oxidized_cut_copper_stairs, 涂蜡的氧化切制铜楼梯
+etfuturum:stone_wall:0, 石砖墙
+etfuturum:stone_wall:1, 苔石砖墙
+etfuturum:stone_wall:2, 砂岩墙
+etfuturum:stone_wall:3, 砖块墙
+etfuturum:nether_brick_wall:0, 下界砖墙
+etfuturum:stone_wall_2:0, 花岗岩墙
+etfuturum:stone_wall_2:1, 闪长岩墙
+etfuturum:stone_wall_2:2, 安山岩墙
+etfuturum:red_sandstone_wall:0, 红砂岩墙
+etfuturum:prismarine_wall:0, 海晶石墙
+etfuturum:red_nether_brick_wall:0, 红色下界砖墙
+etfuturum:end_brick_wall:0, 末地石砖墙
+etfuturum:deepslate_wall:0, 深板岩圆石墙
+etfuturum:deepslate_wall:1, 磨制深板岩墙
+etfuturum:deepslate_brick_wall:0, 深板岩砖墙
+etfuturum:deepslate_brick_wall:1, 深板岩瓦墙
+etfuturum:tuff_wall:0, 凝灰岩墙
+etfuturum:tuff_wall:1, 磨制凝灰岩墙
+etfuturum:tuff_wall:2, 凝灰岩砖墙
+etfuturum:mud_brick_wall:0, 泥砖墙
+etfuturum:copper_door, 铜门
+etfuturum:exposed_copper_door, 斑驳的铜门
+etfuturum:weathered_copper_door, 锈蚀的铜门
+etfuturum:oxidized_copper_door, 氧化的铜门
+etfuturum:waxed_copper_door, 涂蜡的铜门
+etfuturum:waxed_exposed_copper_door, 涂蜡的斑驳铜门
+etfuturum:waxed_weathered_copper_door, 涂蜡的锈蚀铜门
+etfuturum:waxed_oxidized_copper_door, 涂蜡的氧化铜门
+etfuturum:copper_trapdoor, 铜活板门
+etfuturum:exposed_copper_trapdoor, 斑驳的铜活板门
+etfuturum:weathered_copper_trapdoor, 锈蚀的铜活板门
+etfuturum:oxidized_copper_trapdoor, 氧化的铜活板门
+etfuturum:waxed_copper_trapdoor, 涂蜡的铜活板门
+etfuturum:waxed_exposed_copper_trapdoor, 涂蜡的斑驳铜活板门
+etfuturum:waxed_weathered_copper_trapdoor, 涂蜡的锈蚀铜活板门
+etfuturum:waxed_oxidized_copper_trapdoor, 涂蜡的氧化铜活板门
+etfuturum:iron_trapdoor, 铁活板门
+etfuturum:magma, 岩浆块
+etfuturum:barrel, 木桶
+etfuturum:lantern, 灯笼
+etfuturum:soul_lantern, 灵魂灯笼
+etfuturum:soul_torch, 灵魂火把
+etfuturum:smoker, 烟熏炉
+etfuturum:blast_furnace, 高炉
+etfuturum:shulker_box, 潜影盒
+etfuturum:smithing_table, 锻造台
+etfuturum:composter, 堆肥桶
+etfuturum:stonecutter, 切石机
+etfuturum:fletching_table, 制箭台
+etfuturum:cartography_table, 制图台
+etfuturum:loom, 织布机
+etfuturum:honey_block, 蜂蜜块
+etfuturum:honeycomb_block, 蜜脾块
+etfuturum:beehive, 蜂箱
+etfuturum:bee_nest, 蜂巢
+etfuturum:chain, 锁链
+etfuturum:brewing_stand, 酿造台
+etfuturum:beacon, 信标
+etfuturum:enchantment_table, 附魔台
+etfuturum:anvil:0, 铁砧
+etfuturum:anvil:1, 轻微损坏的铁砧
+etfuturum:anvil:2, 严重损坏的铁砧
+etfuturum:blackstone:0, 黑石
+etfuturum:blackstone:1, 磨制黑石
+etfuturum:blackstone:2, 磨制黑石砖
+etfuturum:blackstone:3, 裂纹磨制黑石砖
+etfuturum:blackstone:4, 錾制磨制黑石
+etfuturum:gilded_blackstone, 镶金黑石
+etfuturum:blackstone_slab:0, 黑石台阶
+etfuturum:blackstone_slab:1, 磨制黑石台阶
+etfuturum:blackstone_slab:2, 磨制黑石砖台阶
+etfuturum:blackstone_stairs, 黑石楼梯
+etfuturum:polished_blackstone_stairs, 磨制黑石楼梯
+etfuturum:polished_blackstone_brick_stairs, 磨制黑石砖楼梯
+etfuturum:blackstone_wall:0, 黑石墙
+etfuturum:blackstone_wall:1, 磨制黑石墙
+etfuturum:blackstone_wall:2, 磨制黑石砖墙
+etfuturum:polished_blackstone_pressure_plate, 磨制黑石压力板
+etfuturum:polished_blackstone_button, 磨制黑石按钮
+etfuturum:soul_soil, 灵魂土
+etfuturum:nether_wart:0, 下界疣块
+etfuturum:pink_petals, 粉红色花簇
+etfuturum:sapling:1, 樱花树苗
+etfuturum:leaves:1, 樱花树叶
+etfuturum:wood_planks:3, 樱花木板
+etfuturum:wood_planks:4, 竹板
+etfuturum:wood_slab:3, 樱花木台阶
+etfuturum:wood_slab:4, 竹台阶
+etfuturum:double_wood_slab:3, 樱花木台阶
+etfuturum:double_wood_slab:4, 竹台阶
+etfuturum:cherry_log:0, 樱花原木
+etfuturum:cherry_log:1, 樱花木
+etfuturum:cherry_log:2, 去皮樱花原木
+etfuturum:cherry_log:3, 去皮樱花木
+etfuturum:bamboo_block:0, 竹块
+etfuturum:bamboo_block:1, 去皮竹块
+etfuturum:cherry_stairs, 樱花木楼梯
+etfuturum:bamboo_stairs, 竹楼梯
+etfuturum:bamboo_mosaic, 竹马赛克
+etfuturum:bamboo_mosaic_slab, 竹马赛克台阶
+etfuturum:double_bamboo_mosaic_slab, 竹马赛克台阶
+etfuturum:bamboo_mosaic_stairs, 竹马赛克楼梯
+etfuturum:fence_spruce, 云杉木栅栏
+etfuturum:fence_birch, 白桦木栅栏
+etfuturum:fence_jungle, 丛林木栅栏
+etfuturum:fence_acacia, 金合欢栅栏
+etfuturum:fence_dark_oak, 深色橡木栅栏
+etfuturum:wood_fence:3, 樱花木栅栏
+etfuturum:wood_fence:4, 竹栅栏
+etfuturum:button_spruce, 云杉木按钮
+etfuturum:button_birch, 白桦木按钮
+etfuturum:button_jungle, 丛林木按钮
+etfuturum:button_acacia, 金合欢木按钮
+etfuturum:button_dark_oak, 深色橡木按钮
+etfuturum:cherry_button, 樱花木按钮
+etfuturum:bamboo_button, 竹按钮
+etfuturum:pressure_plate_spruce, 云杉木压力板
+etfuturum:pressure_plate_birch, 白桦木压力板
+etfuturum:pressure_plate_jungle, 丛林木压力板
+etfuturum:pressure_plate_acacia, 金合欢木压力板
+etfuturum:pressure_plate_dark_oak, 深色橡木压力板
+etfuturum:cherry_pressure_plate, 樱花木压力板
+etfuturum:bamboo_pressure_plate, 竹压力板
+etfuturum:fence_gate_spruce, 云杉木栅栏门
+etfuturum:fence_gate_birch, 白桦木栅栏门
+etfuturum:fence_gate_jungle, 丛林木栅栏门
+etfuturum:fence_gate_acacia, 金合欢木栅栏门
+etfuturum:fence_gate_dark_oak, 深色橡木栅栏门
+etfuturum:cherry_fence_gate, 樱花木栅栏门
+etfuturum:bamboo_fence_gate, 竹栅栏门
+etfuturum:door_spruce, 云杉木门
+etfuturum:door_birch, 白桦木门
+etfuturum:door_jungle, 丛林木门
+etfuturum:door_acacia, 金合欢木门
+etfuturum:door_dark_oak, 深色橡木门
+etfuturum:cherry_door, 樱花木门
+etfuturum:bamboo_door, 竹门
+etfuturum:trapdoor_spruce, 云杉木活板门
+etfuturum:trapdoor_birch, 白桦木活板门
+etfuturum:trapdoor_jungle, 丛林木活板门
+etfuturum:trapdoor_acacia, 金合欢木活板门
+etfuturum:trapdoor_dark_oak, 深色橡木活板门
+etfuturum:cherry_trapdoor, 樱花木活板门
+etfuturum:bamboo_trapdoor, 竹活板门
+etfuturum:cherry_sign, 樱花木告示牌
+etfuturum:bamboo_sign, 竹告示牌
+etfuturum:white_bed, 白色床
+etfuturum:orange_bed, 橙色床
+etfuturum:magenta_bed, 品红色床
+etfuturum:light_blue_bed, 淡蓝色床
+etfuturum:yellow_bed, 黄色床
+etfuturum:lime_bed, 黄绿色床
+etfuturum:pink_bed, 粉红色床
+etfuturum:gray_bed, 灰色床
+etfuturum:light_gray_bed, 淡灰色床
+etfuturum:cyan_bed, 青色床
+etfuturum:purple_bed, 紫色床
+etfuturum:blue_bed, 蓝色床
+etfuturum:brown_bed, 棕色床
+etfuturum:green_bed, 绿色床
+etfuturum:black_bed, 黑色床
+etfuturum:crying_obsidian, 哭泣的黑曜石
+etfuturum:rose, 玫瑰
+etfuturum:old_gravel, 旧版沙砾
+etfuturum:netherite_stairs, 史上最炫楼梯
+etfuturum:light:0, 光
+etfuturum:light:1, 光
+etfuturum:light:2, 光
+etfuturum:light:3, 光
+etfuturum:light:4, 光
+etfuturum:light:5, 光
+etfuturum:light:6, 光
+etfuturum:light:7, 光
+etfuturum:light:8, 光
+etfuturum:light:9, 光
+etfuturum:light:10, 光
+etfuturum:light:11, 光
+etfuturum:light:12, 光
+etfuturum:light:13, 光
+etfuturum:light:14, 光
+etfuturum:light:15, 光
+etfuturum:barrier, 屏障
+etfuturum:modded_raw_ore_block:0, 粗铝块
+etfuturum:modded_raw_ore_block:1, 粗锡块
+etfuturum:modded_raw_ore_block:2, 粗银块
+etfuturum:modded_raw_ore_block:3, 粗铅块
+etfuturum:modded_raw_ore_block:4, 粗镍块
+etfuturum:modded_raw_ore_block:5, 粗铂块
+etfuturum:modded_raw_ore_block:6, 粗秘银块
+etfuturum:modded_deepslate_ore:0, 深层铝矿石
+etfuturum:modded_deepslate_ore:1, 深层锡矿石
+etfuturum:modded_deepslate_ore:2, 深层银矿石
+etfuturum:modded_deepslate_ore:3, 深层铅矿石
+etfuturum:modded_deepslate_ore:4, 深层镍矿石
+etfuturum:modded_deepslate_ore:5, 深层铂矿石
+etfuturum:modded_deepslate_ore:6, 深层秘银矿石
+etfuturum:deepslate_certus_quartz_ore:0, 深层赛特斯石英矿石
+etfuturum:deepslate_certus_quartz_ore:1, 深层充能赛特斯石英矿石
+etfuturum:deepslate_draconium_ore, 深层龙矿
 exastrisrebirth:blockSieveAutomatic, 自动筛子
 exastrisrebirth:blockHammerAutomatic, 自动破碎机
 exastrisrebirth:blockEndCake, 末影蛋糕
@@ -4046,21 +4521,6 @@ exastrisrebirth:blockOreCobalt:2, 钴矿尘土
 exastrisrebirth:blockOreArdite:0, 下界阿迪特沙砾
 exastrisrebirth:blockOreArdite:1, 阿迪特沙子
 exastrisrebirth:blockOreArdite:2, 阿迪特尘土
-extracells:certustank, extracells.block.certustank.name
-extracells:walrus, 海象
-extracells:fluidcrafter, ME流体装配室
-extracells:ecbaseblock:0, ME流体接口
-extracells:ecbaseblock:1, ME流体自动装填器
-extracells:hardmedrive, 防爆ME驱动器[WIP]
-extracells:vibrantchamberfluid, 流体谐振仓
-extracells:craftingstorage:0, 256k合成存储器
-extracells:craftingstorage:1, 1024k合成存储器
-extracells:craftingstorage:2, 4096k合成存储器
-extracells:craftingstorage:3, 16384k合成存储器
-mod.ymt.air.HariboteAirCraft:blockPyxis, 空艇罗盘
-HardcoreQuesting:item_barrel, 任务提交系统
-HardcoreQuesting:quest_tracker, 任务追踪系统
-HardcoreQuesting:quest_portal, tile.hqm:quest_portal.name
 IronChest:BlockIronChest:0, 铁箱子
 IronChest:BlockIronChest:1, 金箱子
 IronChest:BlockIronChest:2, 钻石箱子
@@ -4071,6 +4531,7 @@ IronChest:BlockIronChest:6, 黑曜石箱子
 IronChest:BlockIronChest:7, 泥箱子9000!
 IronChest:BlockIronChest:8, 下界合金箱子
 JABBA:barrel, 更好的桶
+SupplySugarMachine:SupplySugarMachineBlock, 糖供应机
 lootbags:loot_recycler, 礼袋回收机
 lucky:lucky_block:0, Lucky Block
 lucky:lucky_block:0, Very Lucky Block
@@ -4855,6 +5316,18 @@ harvestcraft:pamlamingtonCake, 拉明顿蛋糕
 harvestcraft:pampavlovaCake, 奶油蛋白甜饼
 harvestcraft:pamholidayCake, 假日蛋糕
 harvestcraft:pampumpkincheeseCake, 南瓜奶酪蛋糕
+cuchaz.ships:blockShip:0, Tiny Ship
+cuchaz.ships:blockShip:1, Small Ship
+cuchaz.ships:blockShip:2, Medium Ship
+cuchaz.ships:blockShip:3, Large Ship
+cuchaz.ships:blockShip:4, Huge Ship
+cuchaz.ships:blockShip:5, Gigantic Ship
+cuchaz.ships:blockShip:6, Epic Ship
+cuchaz.ships:blockAirWall, Air Wall
+cuchaz.ships:blockHelm, Helm
+cuchaz.ships:blockBerth, tile.cuchaz.ships.berth.name
+cuchaz.ships:blockAirRoof, Air Roof
+cuchaz.ships:blockProjector, Ship Projector
 smallboats:BlockDisplaceWater, tile.BlockDisplaceWater.name
 StevesFactoryManager:BlockMachineManagerName, 工厂管理器
 StevesFactoryManager:BlockCableName, 工厂线缆
@@ -4875,52 +5348,6 @@ StevesFactoryManager:BlockCableCamouflageName:2, 伪装方块-变换
 StevesFactoryManager:BlockCableSignName, 告示牌更新器
 StevesAddons:cable_rf, RF节点
 StevesAddons:cable_ae, AE连接器
-StorageDrawers:fullDrawers1:0, 橡木抽屉
-StorageDrawers:fullDrawers1:1, 云杉木抽屉
-StorageDrawers:fullDrawers1:2, 白桦木抽屉
-StorageDrawers:fullDrawers1:3, 丛林木抽屉
-StorageDrawers:fullDrawers1:4, 金合欢木抽屉
-StorageDrawers:fullDrawers1:5, 深色橡木抽屉
-StorageDrawers:fullDrawers2:0, 橡木抽屉(1x2)
-StorageDrawers:fullDrawers2:1, 云杉木抽屉(1x2)
-StorageDrawers:fullDrawers2:2, 白桦木抽屉(1x2)
-StorageDrawers:fullDrawers2:3, 丛林木抽屉(1x2)
-StorageDrawers:fullDrawers2:4, 金合欢木抽屉(1x2)
-StorageDrawers:fullDrawers2:5, 深色橡木抽屉(1x2)
-StorageDrawers:fullDrawers4:0, 橡木抽屉(2x2)
-StorageDrawers:fullDrawers4:1, 云杉木抽屉(2x2)
-StorageDrawers:fullDrawers4:2, 白桦木抽屉(2x2)
-StorageDrawers:fullDrawers4:3, 丛林木抽屉(2x2)
-StorageDrawers:fullDrawers4:4, 金合欢木抽屉(2x2)
-StorageDrawers:fullDrawers4:5, 深色橡木抽屉(2x2)
-StorageDrawers:halfDrawers2:0, 小型橡木抽屉(1x2)
-StorageDrawers:halfDrawers2:1, 小型云杉木抽屉(1x2)
-StorageDrawers:halfDrawers2:2, 小型白桦木抽屉(1x2)
-StorageDrawers:halfDrawers2:3, 小型丛林木抽屉(1x2)
-StorageDrawers:halfDrawers2:4, 小型金合欢木抽屉(1x2)
-StorageDrawers:halfDrawers2:5, 小型深色橡木抽屉(1x2)
-StorageDrawers:halfDrawers4:0, 小型橡木抽屉(2x2)
-StorageDrawers:halfDrawers4:1, 小型云杉木抽屉(2x2)
-StorageDrawers:halfDrawers4:2, 小型白桦木抽屉(2x2)
-StorageDrawers:halfDrawers4:3, 小型丛林木抽屉(2x2)
-StorageDrawers:halfDrawers4:4, 小型金合欢木抽屉(2x2)
-StorageDrawers:halfDrawers4:5, 小型深色橡木抽屉(2x2)
-StorageDrawers:compDrawers, 压缩抽屉
-StorageDrawers:controller, 抽屉管理器
-StorageDrawers:controllerSlave, 附属管理器
-StorageDrawers:trim:0, 橡木桥接方块
-StorageDrawers:trim:1, 云杉木桥接方块
-StorageDrawers:trim:2, 白桦木桥接方块
-StorageDrawers:trim:3, 丛林木桥接方块
-StorageDrawers:trim:4, 金合欢木桥接方块
-StorageDrawers:trim:5, 深色橡木桥接方块
-StorageDrawers:framingTable, 成型台
-StorageDrawers:fullCustom1, 自定义抽屉
-StorageDrawers:fullCustom2, 自定义抽屉(1x2)
-StorageDrawers:fullCustom4, 自定义抽屉(2x2)
-StorageDrawers:halfCustom2, 小型自定义抽屉(1x2)
-StorageDrawers:halfCustom4, 小型自定义抽屉(2x2)
-StorageDrawers:trimCustom, 自定义桥接方块
 Sync:Sync_ShellConstructor, Shell Constructor
 ThermalDynamics:ThermalDynamics_0:0, 铅石能量管道
 ThermalDynamics:ThermalDynamics_0:1, 硬化能量管道
@@ -5085,49 +5512,6 @@ minecraft:record_strad, 音乐唱片
 minecraft:record_ward, 音乐唱片
 minecraft:record_11, 音乐唱片
 minecraft:record_wait, 音乐唱片
-battlegear2:waraxe.wood, 木战斧
-battlegear2:dagger.wood, 木匕首
-battlegear2:mace.wood, 木槌
-battlegear2:spear.wood, 木标枪
-battlegear2:shield.wood, 木盾
-battlegear2:knights_armour.helmet, 骑士头盔
-battlegear2:waraxe.stone, 石头战斧
-battlegear2:dagger.stone, 石头匕首
-battlegear2:mace.stone, 石头槌
-battlegear2:spear.stone, 石头标枪
-battlegear2:shield.hide, 皮盾
-battlegear2:knights_armour.plate, 骑士胸甲
-battlegear2:waraxe.iron, 铁战斧
-battlegear2:dagger.iron, 铁匕首
-battlegear2:mace.iron, 铁槌
-battlegear2:spear.iron, 铁标枪
-battlegear2:shield.iron, 铁盾
-battlegear2:knights_armour.legs, 骑士护腿
-battlegear2:waraxe.diamond, 钻石战斧
-battlegear2:dagger.diamond, 钻石匕首
-battlegear2:mace.diamond, 钻石槌
-battlegear2:spear.diamond, 钻石标枪
-battlegear2:shield.diamond, 钻石盾
-battlegear2:knights_armour.boots, 骑士靴子
-battlegear2:waraxe.gold, 金战斧
-battlegear2:dagger.gold, 金匕首
-battlegear2:mace.gold, 金槌
-battlegear2:spear.gold, 金标枪
-battlegear2:shield.gold, 金盾
-battlegear2:chain, 铁链
-battlegear2:quiver, 箭袋
-battlegear2:heraldric:0, 纹章图标
-battlegear2:mb.arrow:0, 圣火箭
-battlegear2:mb.arrow:1, 寒冰箭
-battlegear2:mb.arrow:2, 爆裂箭
-battlegear2:mb.arrow:3, 末影箭
-battlegear2:mb.arrow:4, 烈焰箭
-battlegear2:mb.arrow:5, 穿刺箭
-battlegear2:mb.arrow:6, 剧毒箭
-battlegear2:mb.arrow:7, 奥秘箭
-battlegear2:mb.arrow:8, 水蛭箭
-battlegear2:bow.iron, 铁弓
-battlegear2:bow.diamond, 钻石弓
 ThermalFoundation:lexicon, item.thermalfoundation.tome.name
 ThermalFoundation:bucket:0, 不稳定熔融红石桶
 ThermalFoundation:bucket:1, 充能熔融荧石桶
@@ -8624,6 +9008,185 @@ appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 复合粘土块
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 混乱炸药
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 末影炸药
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 震荡炸药
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 花岗岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 磨制花岗岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 闪长岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 磨制闪长岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 安山岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 磨制安山岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 海晶石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 海晶石砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 暗海晶石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 海晶灯
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红砂岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 錾制红砂岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 平滑红砂岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 蘑菇
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 蘑菇
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 砂土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 湿海绵
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 紫珀块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 紫珀柱
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 末地石砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 骨块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红色下界砖块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 裂纹下界砖块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 錾制下界砖块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 远古残骸
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 下界合金块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 下界金矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 蓝冰
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 平滑石头
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 平滑砂岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 平滑红砂岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 平滑石英块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 石英砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮橡木原木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮云杉原木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮白桦原木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮丛林原木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮金合欢原木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮深色橡木原木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 橡木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 云杉木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 白桦木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 丛林木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 金合欢木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深色橡木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮橡木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮云杉木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮白桦木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮丛林木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮金合欢木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮深色橡木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 白色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 橙色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 品红色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 淡蓝色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黄色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黄绿色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粉红色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 灰色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 淡灰色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 青色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 紫色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 蓝色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 棕色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 绿色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黑色混凝土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 白色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 橙色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 品红色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 淡蓝色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黄色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黄绿色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粉红色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 灰色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 淡灰色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 青色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 紫色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 蓝色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 棕色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 绿色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黑色混凝土粉末
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 铜矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层铜矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 白色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 橙色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 品红色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 淡蓝色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黄色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黄绿色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粉红色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 淡灰色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 淡灰色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 青色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 紫色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 蓝色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 棕色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 绿色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黑色带釉陶瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深板岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深板岩圆石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 磨制深板岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深板岩砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 裂纹深板岩砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深板岩瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 裂纹深板岩瓦
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 錾制深板岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 凝灰岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 磨制凝灰岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 凝灰岩砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 錾制凝灰岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 錾制凝灰岩砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粗铜块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粗铁块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粗金块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 玄武岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 磨制玄武岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 平滑玄武岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 方解石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 紫水晶块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 遮光玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 泥巴
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 泥坯
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 泥砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层煤矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层铁矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层金矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层红石矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层青金石矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层钻石矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层绿宝石矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 侦测器
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 标靶
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 岩浆块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 锻造台
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 制箭台
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 制图台
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 织布机
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 蜜脾块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黑石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 磨制黑石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 磨制黑石砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 裂纹磨制黑石砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 錾制磨制黑石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 镶金黑石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 灵魂土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 下界疣块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 樱花木板
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 竹板
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 樱花木台阶
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 竹台阶
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 樱花原木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 樱花木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮樱花原木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮樱花木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 竹块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 去皮竹块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 竹马赛克
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 哭泣的黑曜石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 旧版沙砾
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粗铝块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粗锡块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粗银块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粗铅块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粗镍块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粗铂块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粗秘银块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层铝矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层锡矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层银矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层铅矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层镍矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层铂矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层秘银矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层赛特斯石英矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层充能赛特斯石英矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深层龙矿
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 注魔人工蜂巢
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 下界钴矿沙砾
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 钴矿沙子
@@ -8778,13 +9341,14 @@ appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粘土水池
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 砖井
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 盐矿
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 压缩盐块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - Tiny Ship
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - Small Ship
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - Medium Ship
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - Large Ship
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - Huge Ship
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - Gigantic Ship
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - Epic Ship
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 工厂线缆
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 橡木桥接方块
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 云杉木桥接方块
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 白桦木桥接方块
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 丛林木桥接方块
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 金合欢木桥接方块
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深色橡木桥接方块
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 白色石棉
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 橙色石棉
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 品红色石棉
@@ -9116,63 +9680,9 @@ exnihilo:seed_carrot, 萝卜种子
 exnihilo:seed_potato, 马铃薯种子
 exnihilo:seed_rubber, 橡胶树种子
 exnihilo:ice_shard, 冰碎片
-Backpack:backpack:0, 小背包
-Backpack:backpack:1, 黑色小背包
-Backpack:backpack:2, 红色小背包
-Backpack:backpack:3, 绿色小背包
-Backpack:backpack:4, 棕色小背包
-Backpack:backpack:5, 蓝色小背包
-Backpack:backpack:6, 紫色小背包
-Backpack:backpack:7, 青色小背包
-Backpack:backpack:8, 浅灰色小背包
-Backpack:backpack:9, 灰色小背包
-Backpack:backpack:10, 粉红色小背包
-Backpack:backpack:11, 浅绿色小背包
-Backpack:backpack:12, 黄色小背包
-Backpack:backpack:13, 浅蓝色小背包
-Backpack:backpack:14, 紫色小背包
-Backpack:backpack:15, 橙色小背包
-Backpack:backpack:16, 白色小背包
-Backpack:backpack:100, 中背包
-Backpack:backpack:101, 黑色中背包
-Backpack:backpack:102, 红色中背包
-Backpack:backpack:103, 绿色中背包
-Backpack:backpack:104, 棕色中背包
-Backpack:backpack:105, 蓝色中背包
-Backpack:backpack:106, 紫色中背包
-Backpack:backpack:107, 青色中背包
-Backpack:backpack:108, 浅灰色中背包
-Backpack:backpack:109, 灰色中背包
-Backpack:backpack:110, 粉红色中背包
-Backpack:backpack:111, 浅绿色中背包
-Backpack:backpack:112, 黄色中背包
-Backpack:backpack:113, 浅蓝色中背包
-Backpack:backpack:114, 紫色中背包
-Backpack:backpack:115, 橙色中背包
-Backpack:backpack:116, 白色中背包
-Backpack:backpack:200, 大背包
-Backpack:backpack:201, 黑色大背包
-Backpack:backpack:202, 红色大背包
-Backpack:backpack:203, 绿色大背包
-Backpack:backpack:204, 棕色大背包
-Backpack:backpack:205, 蓝色大背包
-Backpack:backpack:206, 紫色大背包
-Backpack:backpack:207, 青色大背包
-Backpack:backpack:208, 浅灰色大背包
-Backpack:backpack:209, 灰色大背包
-Backpack:backpack:210, 粉红色大背包
-Backpack:backpack:211, 浅绿色大背包
-Backpack:backpack:212, 黄色大背包
-Backpack:backpack:213, 浅蓝色大背包
-Backpack:backpack:214, 紫色大背包
-Backpack:backpack:215, 橙色大背包
-Backpack:backpack:216, 白色大背包
-Backpack:backpack:31999, 末影背包
-Backpack:workbenchbackpack:17, 小工作台背包
-Backpack:workbenchbackpack:217, 大工作台背包
-Backpack:boundLeather, item.null.name
-Backpack:tannedLeather, item.null.name
+akashictome:tome, Akashic Tome
 betterp2p:advanced_memory_card, 高级内存卡
+questbook:ItemQuestBook, Quest Book
 BiblioCraft:item.StockroomCatalog, 仓库目录
 BiblioCraft:item.PlumbLine, 铅垂线
 BiblioCraft:item.FramingSaw, 镶框锯
@@ -9514,6 +10024,155 @@ EnderZoo:guardiansBow, 守卫者之弓
 enhancedlootbags:lootbag:1, 战利品袋(Sample Item group)
 enhancedlootbags:lootbag:1, 战利品袋(Sample Item group)
 enhancedlootbags:lootbag:0, 战利品袋(默认)
+etfuturum:mutton_raw, 生羊肉
+etfuturum:mutton_cooked, 熟羊肉
+etfuturum:prismarine_shard, 海晶碎片
+etfuturum:prismarine_crystals, 海晶砂粒
+etfuturum:wooden_armorstand, 盔甲架
+etfuturum:rabbit_raw, 生兔肉
+etfuturum:rabbit_cooked, 熟兔肉
+etfuturum:rabbit_foot, 兔子腿
+etfuturum:rabbit_hide, 兔子皮
+etfuturum:rabbit_stew, 兔肉煲
+etfuturum:beetroot, 甜菜根
+etfuturum:beetroot_seeds, 甜菜种子
+etfuturum:beetroot_soup, 甜菜汤
+etfuturum:chorus_fruit, 紫颂果
+etfuturum:chorus_fruit_popped, 爆裂紫颂果
+etfuturum:tipped_arrow:8193, 再生之箭
+etfuturum:tipped_arrow:8225, 再生之箭
+etfuturum:tipped_arrow:8257, 再生之箭
+etfuturum:tipped_arrow:8194, 迅捷之箭
+etfuturum:tipped_arrow:8226, 迅捷之箭
+etfuturum:tipped_arrow:8258, 迅捷之箭
+etfuturum:tipped_arrow:8227, 抗火之箭
+etfuturum:tipped_arrow:8259, 抗火之箭
+etfuturum:tipped_arrow:8196, 剧毒之箭
+etfuturum:tipped_arrow:8228, 剧毒之箭
+etfuturum:tipped_arrow:8260, 剧毒之箭
+etfuturum:tipped_arrow:8261, 治疗之箭
+etfuturum:tipped_arrow:8229, 治疗之箭
+etfuturum:tipped_arrow:8230, 夜视之箭
+etfuturum:tipped_arrow:8262, 夜视之箭
+etfuturum:tipped_arrow:8231, item.etfuturum.tipped_arrow.potion.confusion.name
+etfuturum:tipped_arrow:8263, item.etfuturum.tipped_arrow.potion.confusion.name
+etfuturum:tipped_arrow:8232, 虚弱之箭
+etfuturum:tipped_arrow:8264, 虚弱之箭
+etfuturum:tipped_arrow:8201, 力量之箭
+etfuturum:tipped_arrow:8233, 力量之箭
+etfuturum:tipped_arrow:8265, 力量之箭
+etfuturum:tipped_arrow:8234, 迟缓之箭
+etfuturum:tipped_arrow:8266, 迟缓之箭
+etfuturum:tipped_arrow:8235, item.etfuturum.tipped_arrow.potion.wither.name
+etfuturum:tipped_arrow:8267, item.etfuturum.tipped_arrow.potion.wither.name
+etfuturum:tipped_arrow:8268, 伤害之箭
+etfuturum:tipped_arrow:8236, 伤害之箭
+etfuturum:tipped_arrow:8237, 水肺之箭
+etfuturum:tipped_arrow:8269, 水肺之箭
+etfuturum:tipped_arrow:8238, 隐身之箭
+etfuturum:tipped_arrow:8270, 隐身之箭
+etfuturum:lingering_potion:0, 水瓶
+etfuturum:lingering_potion:8193, 滞留型 再生药水
+etfuturum:lingering_potion:8225, 滞留型 再生药水
+etfuturum:lingering_potion:8257, 滞留型 再生药水
+etfuturum:lingering_potion:8194, 滞留型 迅捷药水
+etfuturum:lingering_potion:8226, 滞留型 迅捷药水
+etfuturum:lingering_potion:8258, 滞留型 迅捷药水
+etfuturum:lingering_potion:8227, 滞留型 抗火药水
+etfuturum:lingering_potion:8259, 滞留型 抗火药水
+etfuturum:lingering_potion:8196, 滞留型 剧毒药水
+etfuturum:lingering_potion:8228, 滞留型 剧毒药水
+etfuturum:lingering_potion:8260, 滞留型 剧毒药水
+etfuturum:lingering_potion:8261, 滞留型 治疗药水
+etfuturum:lingering_potion:8229, 滞留型 治疗药水
+etfuturum:lingering_potion:8230, 滞留型 夜视药水
+etfuturum:lingering_potion:8262, 滞留型 夜视药水
+etfuturum:lingering_potion:8231, 滞留型 反胃药水
+etfuturum:lingering_potion:8263, 滞留型 反胃药水
+etfuturum:lingering_potion:8232, 滞留型 虚弱药水
+etfuturum:lingering_potion:8264, 滞留型 虚弱药水
+etfuturum:lingering_potion:8201, 滞留型 力量药水
+etfuturum:lingering_potion:8233, 滞留型 力量药水
+etfuturum:lingering_potion:8265, 滞留型 力量药水
+etfuturum:lingering_potion:8234, 滞留型 迟缓药水
+etfuturum:lingering_potion:8266, 滞留型 迟缓药水
+etfuturum:lingering_potion:8235, 滞留型 衰变药水
+etfuturum:lingering_potion:8267, 滞留型 衰变药水
+etfuturum:lingering_potion:8268, 滞留型 伤害药水
+etfuturum:lingering_potion:8236, 滞留型 伤害药水
+etfuturum:lingering_potion:8237, 滞留型 水肺药水
+etfuturum:lingering_potion:8269, 滞留型 水肺药水
+etfuturum:lingering_potion:8238, 滞留型 隐身药水
+etfuturum:lingering_potion:8270, 滞留型 隐身药水
+etfuturum:dragon_breath, 龙息
+etfuturum:elytra, 鞘翅
+etfuturum:end_crystal, 末地水晶
+etfuturum:nugget_iron, 铁粒
+etfuturum:raw_ore:0, 粗铜
+etfuturum:raw_ore:1, 粗铁
+etfuturum:raw_ore:2, 粗金
+etfuturum:netherite_scrap, 下界合金碎片
+etfuturum:netherite_ingot, 下界合金锭
+etfuturum:netherite_helmet, 下界合金头盔
+etfuturum:netherite_chestplate, 下界合金胸甲
+etfuturum:netherite_leggings, 下界合金护腿
+etfuturum:netherite_boots, 下界合金靴子
+etfuturum:netherite_pickaxe, 下界合金镐
+etfuturum:netherite_spade, 下界合金锹
+etfuturum:netherite_axe, 下界合金斧
+etfuturum:netherite_hoe, 下界合金锄
+etfuturum:netherite_sword, 下界合金剑
+etfuturum:totem_of_undying, 不死图腾
+etfuturum:dye:0, 白色染料
+etfuturum:dye:1, 蓝色染料
+etfuturum:dye:2, 棕色染料
+etfuturum:dye:3, 黑色染料
+etfuturum:copper_ingot, 铜锭
+etfuturum:suspicious_stew, 迷之炖菜
+etfuturum:sweet_berries, 甜浆果
+etfuturum:shulker_shell, 潜影壳
+etfuturum:pigstep_record, 音乐唱片
+etfuturum:otherside_record, 音乐唱片
+etfuturum:amethyst_shard, 紫水晶碎片
+etfuturum:shulker_box_upgrade:0, 升级：原版>铁质潜影盒
+etfuturum:shulker_box_upgrade:1, 升级：原版>铜质潜影盒
+etfuturum:shulker_box_upgrade:2, 升级：铁质>金质潜影盒
+etfuturum:shulker_box_upgrade:3, 升级：金质>钻石潜影盒
+etfuturum:shulker_box_upgrade:4, 升级：钻石>黑曜石潜影盒
+etfuturum:shulker_box_upgrade:5, 升级：钻石>水晶潜影盒
+etfuturum:shulker_box_upgrade:6, 升级：铜质>铁质潜影盒
+etfuturum:shulker_box_upgrade:7, 升级：铜质>银质潜影盒
+etfuturum:shulker_box_upgrade:8, 升级：银质>金质潜影盒
+etfuturum:honeycomb, 蜜脾
+etfuturum:honey_bottle, 蜂蜜瓶
+etfuturum:bamboo, 竹子
+etfuturum:oak_chest_boat, 橡木运输船
+etfuturum:spruce_boat, 云杉木船
+etfuturum:spruce_chest_boat, 云杉木运输船
+etfuturum:birch_boat, 白桦木船
+etfuturum:birch_chest_boat, 白桦木运输船
+etfuturum:jungle_boat, 丛林木船
+etfuturum:jungle_chest_boat, 丛林木运输船
+etfuturum:acacia_boat, 金合欢木船
+etfuturum:acacia_chest_boat, 金合欢木运输船
+etfuturum:dark_oak_boat, 深色橡木船
+etfuturum:dark_oak_chest_boat, 深色橡木运输船
+etfuturum:cherry_boat, 樱花木船
+etfuturum:cherry_chest_boat, 樱花木运输船
+etfuturum:bamboo_raft, 竹筏
+etfuturum:bamboo_chest_raft, 运输竹筏
+etfuturum:item_sign_spruce, 云杉木告示牌
+etfuturum:item_sign_birch, 白桦木告示牌
+etfuturum:item_sign_jungle, 丛林木告示牌
+etfuturum:item_sign_acacia, 金合欢木告示牌
+etfuturum:item_sign_dark_oak, 深色橡木告示牌
+etfuturum:modded_raw_ore:0, 粗铝
+etfuturum:modded_raw_ore:1, 粗锡
+etfuturum:modded_raw_ore:2, 粗银
+etfuturum:modded_raw_ore:3, 粗铅
+etfuturum:modded_raw_ore:4, 粗镍
+etfuturum:modded_raw_ore:5, 粗铂
+etfuturum:modded_raw_ore:6, 粗秘银
 exastrisrebirth:itemSieveUpgrade:0, 速度升级
 exastrisrebirth:itemSieveUpgrade:1, 时运升级
 exastrisrebirth:itemDollFreezing, 冰冻娃娃
@@ -9528,93 +10187,8 @@ exastrisrebirth:itemOreCobalt:2, 粉状钴矿石
 exastrisrebirth:itemOreArdite:0, 碎裂阿迪特矿石
 exastrisrebirth:itemOreArdite:1, 粉碎阿迪特矿石
 exastrisrebirth:itemOreArdite:2, 粉状阿迪特矿石
-extracells:part.base:0, ME流体输出总线
-extracells:part.base:1, ME流体输入总线
-extracells:part.base:2, ME流体存储总线
-extracells:part.base:3, ME流体终端
-extracells:part.base:4, ME流体发信器
-extracells:part.base:5, ME流体破坏面板
-extracells:part.base:6, ME流体成型面板
-extracells:part.base:7, ME驱动固定器
-extracells:part.base:8, ME能源元件固定器
-extracells:part.base:9, ME流体接口
-extracells:part.base:10, ME流体存储监控器
-extracells:part.base:11, ME流体交互监控器
-extracells:part.base:12, ME矿典输出总线
-extracells:part.base:13, ME气体输入总线
-extracells:part.base:14, ME气体输出总线
-extracells:part.base:15, ME气体终端
-extracells:part.base:16, ME气体存储总线
-extracells:part.base:17, ME气体发信器
-extracells:part.base:18, ME气体存储监控器
-extracells:part.base:19, ME气体交互监控器
-extracells:storage.fluid:0, 1K-ME流体存储元件
-extracells:storage.fluid:1, 4K-ME流体存储元件
-extracells:storage.fluid:2, 16K-ME流体存储元件
-extracells:storage.fluid:3, 64K-ME流体存储元件
-extracells:storage.fluid:4, 256K-ME流体存储元件
-extracells:storage.fluid:5, 1024K-ME流体存储元件
-extracells:storage.fluid:6, 4096K-ME流体存储元件
-extracells:storage.physical:0, 256K-ME存储元件
-extracells:storage.physical:1, 1024K-ME存储元件
-extracells:storage.physical:2, 4096K-ME存储元件
-extracells:storage.physical:3, 16384K-ME存储元件
-extracells:storage.physical:4, ME方块容器 - 空
-extracells:storage.physical:4, ME方块容器 - 空
-extracells:storage.physical.advanced.singularity, item.extracells.storage.physical.advanced.singularity.name
-extracells:storage.physical.advanced.quantum, item.extracells.storage.physical.advanced.quantum.name
-extracells:storage.physical.void, item.extracells.storage.physical.void.name
-extracells:storage.gas:0, 1K-ME气体存储元件
-extracells:storage.gas:1, 4K-ME气体存储元件
-extracells:storage.gas:2, 16K-ME气体存储元件
-extracells:storage.gas:3, 64K-ME气体存储元件
-extracells:storage.gas:4, 256K-ME气体存储元件
-extracells:storage.gas:5, 1024K-ME气体存储元件
-extracells:storage.gas:6, 4096K-ME气体存储元件
-extracells:pattern.fluid, item.extracells.pattern.fluid.name
-extracells:terminal.fluid.wireless, item.extracells.terminal.fluid.wireless.name
-extracells:storage.component:0, 256K-ME存储组件
-extracells:storage.component:1, 1024K-ME存储组件
-extracells:storage.component:2, 4096K-ME存储组件
-extracells:storage.component:3, 16384K-ME存储组件
-extracells:storage.component:4, 1K-ME流体存储组件
-extracells:storage.component:5, 4K-ME流体存储组件
-extracells:storage.component:6, 16K-ME流体存储组件
-extracells:storage.component:7, 64K-ME流体存储组件
-extracells:storage.component:8, 256K-ME流体存储组件
-extracells:storage.component:9, 1024K-ME流体存储组件
-extracells:storage.component:10, 4096K-ME流体存储组件
-extracells:storage.component:11, 1K-ME气体存储组件
-extracells:storage.component:12, 4K-ME气体存储组件
-extracells:storage.component:13, 16K-ME气体存储组件
-extracells:storage.component:14, 64K-ME气体存储组件
-extracells:storage.component:15, 256K-ME气体存储组件
-extracells:storage.component:16, 1024K-ME气体存储组件
-extracells:storage.component:17, 4096K-ME气体存储组件
-extracells:storage.casing:0, 高级存储外壳
-extracells:storage.casing:1, 流体存储外壳
-extracells:storage.casing:2, 气体存储外壳
-extracells:fluid.item, item.extracells.fluid.item.name
-extracells:storage.fluid.portable, item.extracells.storage.fluid.portable.name
-extracells:storage.gas.portable, item.extracells.storage.gas.portable.name
-extracells:pattern.crafting, item.extracells.pattern.crafting.name
-extracells:terminal.universal.wireless, item.extracells.terminal.universal.wireless.name
-extracells:terminal.gas.wireless, item.extracells.terminal.gas.wireless.name
-extracells:oc.upgrade, ME升级
 holoinventory:Hologlasses, Holo Glasses
 holoinventory:fluidRenderFakeItem, Fake Fluid Item
-HardcoreQuesting:quest_book, item.hqm:quest_book.name
-HardcoreQuesting:hearts:0, 四分之一红心
-HardcoreQuesting:hearts:1, 半个红心
-HardcoreQuesting:hearts:2, 四分之三红心
-HardcoreQuesting:hearts:3, 完整红心
-HardcoreQuesting:hearts:4, 腐烂红心
-HardcoreQuesting:bags:0, 奖励袋子
-HardcoreQuesting:bags:1, 奖励袋子
-HardcoreQuesting:bags:2, 奖励袋子
-HardcoreQuesting:bags:3, 奖励袋子
-HardcoreQuesting:bags:4, 奖励袋子
-HardcoreQuesting:hqmInvalidItem, 无效物品
 IronChest:ironGoldUpgrade, 升级：铁>金
 IronChest:goldDiamondUpgrade, 升级：金>钻石
 IronChest:copperSteelUpgrade, 升级：铜>钢
@@ -9662,6 +10236,24 @@ JABBA:hammer:5, 桶锤(结构)
 JABBA:hammer:6, 桶锤(虚空)
 JABBA:hammer:7, 桶锤(创造)
 JABBA:tuningFork, B空间音叉
+lmmx:spawn_lmmx_egg:0, 女仆酱
+lmmx:dismissal_notice_paper, 解雇通知单
+zabuton:zabuton:0, 坐垫 黑色
+zabuton:zabuton:1, 坐垫 红色
+zabuton:zabuton:2, 坐垫 绿色
+zabuton:zabuton:3, 坐垫 棕色
+zabuton:zabuton:4, 坐垫 蓝色
+zabuton:zabuton:5, 坐垫 紫色
+zabuton:zabuton:6, 坐垫 青色
+zabuton:zabuton:7, 坐垫 银色
+zabuton:zabuton:8, 坐垫 灰色
+zabuton:zabuton:9, 坐垫 粉红色
+zabuton:zabuton:10, 坐垫 黄绿色
+zabuton:zabuton:11, 坐垫 黄色
+zabuton:zabuton:12, 坐垫 淡蓝色
+zabuton:zabuton:13, 坐垫 品红色
+zabuton:zabuton:14, 坐垫 橙色
+zabuton:zabuton:15, 坐垫 白色
 lootbags:lootbag:0, §f普通礼袋
 lootbags:lootbag:1, §a不同寻常的礼袋
 lootbags:lootbag:2, §9稀有级礼袋
@@ -10939,38 +11531,12 @@ harvestcraft:cherryicecreamItem, item.cherryicecreamItem.name
 harvestcraft:pistachioicecreamItem, item.pistachioicecreamItem.name
 harvestcraft:neapolitanicecreamItem, item.neapolitanicecreamItem.name
 harvestcraft:spumoniicecreamItem, item.spumoniicecreamItem.name
-rfdrills:motor_te:0, 铅石级马达
-rfdrills:motor_te:1, 硬化级马达
-rfdrills:motor_te:2, 红石级马达
-rfdrills:motor_te:3, 红石级马达框架
-rfdrills:motor_te:4, 谐振级马达
-rfdrills:motor_te:5, 谐振级马达框架
-rfdrills:motor_te:6, Fluctuating Core
-rfdrills:motor_te:7, Fluctuating Core Frame
-rfdrills:motor_te:8, Redstone Superconductance Coil
-rfdrills:leadstone_drill, 铅石级采矿钻头
-rfdrills:hardened_drill, 硬化级采矿钻头
-rfdrills:redstone_drill, 红石级采矿钻头
-rfdrills:resonant_drill, 谐振级采矿钻头
-rfdrills:leadstone_chainsaw, 铅石级电链锯
-rfdrills:hardened_chainsaw, 硬化级电链锯
-rfdrills:redstone_chainsaw, 红石级电链锯
-rfdrills:resonant_chainsaw, 谐振级电链锯
-rfdrills:flux_infused_crusher, 能源聚合粉碎之锤
-rfdrills:motor_eio:0, 基础电力马达
-rfdrills:motor_eio:1, 高级电力马达
-rfdrills:motor_eio:2, Resonating Crystal
-rfdrills:motor_eio:3, Soularium Nugget
-rfdrills:motor_eio:4, Dark Soularium Nugget
-rfdrills:motor_eio:5, Destructive Crystal
-rfdrills:motor_eio:6, Earthshaking Crystal
-rfdrills:sj_replacement:0, Dark Soularium
-rfdrills:basic_drill, 基础电力钻头
-rfdrills:advanced_drill, 高级电力钻头
-rfdrills:basic_chainsaw, 基础链锯
-rfdrills:advanced_chainsaw, 高级链锯
-rfdrills:soul_crusher, Dark Soularium Crusher
-rfdrills:flux_hoe, Flux Hoe
+cuchaz.ships:paddle, Paddle
+cuchaz.ships:magicBucket, Magic Bucket
+cuchaz.ships:magicShipLevitator, Magic Ship Levitator
+cuchaz.ships:shipClipboard, Ship Clipboard
+cuchaz.ships:shipEraser, Ship Eraser
+cuchaz.ships:berth, Berth
 SpiceOfLife:bookfoodjournal, 膳食记录
 SpiceOfLife:lunchbox, 午餐盒
 SpiceOfLife:lunchbag, 午餐袋
@@ -11047,29 +11613,6 @@ stefinusguns:RLBarrel, RPG火箭弹发射器炮管
 stefinusguns:RLBack, RPG火箭弹发射器后架
 StevesAddons:duplicator, 管理器复制器
 StevesAddons:labeler, 工厂贴标器
-StorageDrawers:upgradeTemplate, 升级模板
-StorageDrawers:upgrade:2, 抽屉容量升级(II)
-StorageDrawers:upgrade:3, 抽屉容量升级(III)
-StorageDrawers:upgrade:4, 抽屉容量升级(IV)
-StorageDrawers:upgrade:5, 抽屉容量升级(V)
-StorageDrawers:upgrade:6, 抽屉容量升级(VI)
-StorageDrawers:upgrade:7, Storage Upgrade (VII)
-StorageDrawers:upgrade:8, Storage Upgrade (VIII)
-StorageDrawers:upgradeStatus:1, 状态显示升级(I)
-StorageDrawers:upgradeStatus:2, 状态显示升级(II)
-StorageDrawers:upgradeVoid, 虚空升级
-StorageDrawers:upgradeCreative:0, 创造模式容量升级
-StorageDrawers:upgradeCreative:1, 创造模式取出升级
-StorageDrawers:upgradeRedstone:0, 红石升级
-StorageDrawers:upgradeRedstone:1, 红石升级(最大)
-StorageDrawers:upgradeRedstone:2, 红石升级(最小)
-StorageDrawers:upgradeLock, 抽屉钥匙
-StorageDrawers:shroudKey, 屏蔽钥匙
-StorageDrawers:quantifyKey, Quantify Key
-StorageDrawers:personalKey:0, 私人钥匙
-StorageDrawers:personalKey:1, 私人钥匙 (CoFH)
-StorageDrawers:tape, 打包带
-StorageDrawers:upgradeDowngrade, 抽屉容量降级
 Sync:Sync_BlockPlacer:0, 壳体培育仓
 Sync:Sync_BlockPlacer:1, 壳体存放仓
 Sync:Sync_BlockPlacer:2, 跑步机
@@ -11341,6 +11884,7 @@ ThermalDynamics:cover:0, 流明块 覆盖板
 ThermalDynamics:cover:0, 末影块 覆盖板
 ThermalDynamics:cover:0, 熔融红石 覆盖板
 ThermalDynamics:cover:0, 充能液态荧石 覆盖板
+ThermalDynamics:cover:0, 谐振熔融末影珍珠 覆盖板
 ThermalDynamics:cover:0, 干草块 覆盖板
 ThermalDynamics:cover:0, 地毯 覆盖板
 ThermalDynamics:cover:0, 橙色地毯 覆盖板
@@ -11367,7 +11911,6 @@ ThermalDynamics:cover:0, 高草丛 覆盖板
 ThermalDynamics:cover:0, 大型蕨 覆盖板
 ThermalDynamics:cover:0, 玫瑰丛 覆盖板
 ThermalDynamics:cover:0, 牡丹 覆盖板
-ThermalDynamics:cover:0, 谐振熔融末影珍珠 覆盖板
 ThermalDynamics:cover:0, 烈焰之炽焱 覆盖板
 ThermalDynamics:cover:0, 极寒之凛冰 覆盖板
 ThermalDynamics:cover:0, 和谐之空气 覆盖板
@@ -14003,6 +14546,453 @@ ThermalDynamics:cover:0, 末影钢栅栏 覆盖板
 ThermalDynamics:cover:0, 混乱炸药 覆盖板
 ThermalDynamics:cover:0, 末影炸药 覆盖板
 ThermalDynamics:cover:0, 震荡炸药 覆盖板
+ThermalDynamics:cover:0, 花岗岩 覆盖板
+ThermalDynamics:cover:0, 磨制花岗岩 覆盖板
+ThermalDynamics:cover:0, 闪长岩 覆盖板
+ThermalDynamics:cover:0, 磨制闪长岩 覆盖板
+ThermalDynamics:cover:0, 安山岩 覆盖板
+ThermalDynamics:cover:0, 磨制安山岩 覆盖板
+ThermalDynamics:cover:0, 海晶石 覆盖板
+ThermalDynamics:cover:0, 海晶石砖 覆盖板
+ThermalDynamics:cover:0, 暗海晶石 覆盖板
+ThermalDynamics:cover:0, 海晶灯 覆盖板
+ThermalDynamics:cover:0, 红砂岩 覆盖板
+ThermalDynamics:cover:0, 錾制红砂岩 覆盖板
+ThermalDynamics:cover:0, 平滑红砂岩 覆盖板
+ThermalDynamics:cover:0, 蘑菇 覆盖板
+ThermalDynamics:cover:0, 蘑菇 覆盖板
+ThermalDynamics:cover:0, 砂土 覆盖板
+ThermalDynamics:cover:0, 黏液块 覆盖板
+ThermalDynamics:cover:0, 湿海绵 覆盖板
+ThermalDynamics:cover:0, 紫珀块 覆盖板
+ThermalDynamics:cover:0, 紫珀柱 覆盖板
+ThermalDynamics:cover:0, 末地石砖 覆盖板
+ThermalDynamics:cover:0, 草径 覆盖板
+ThermalDynamics:cover:0, 末地烛 覆盖板
+ThermalDynamics:cover:0, 紫颂植物 覆盖板
+ThermalDynamics:cover:0, 紫颂花 覆盖板
+ThermalDynamics:cover:0, 骨块 覆盖板
+ThermalDynamics:cover:0, 红色下界砖块 覆盖板
+ThermalDynamics:cover:0, 裂纹下界砖块 覆盖板
+ThermalDynamics:cover:0, 錾制下界砖块 覆盖板
+ThermalDynamics:cover:0, 远古残骸 覆盖板
+ThermalDynamics:cover:0, 下界合金块 覆盖板
+ThermalDynamics:cover:0, 下界金矿石 覆盖板
+ThermalDynamics:cover:0, 蓝冰 覆盖板
+ThermalDynamics:cover:0, 平滑石头 覆盖板
+ThermalDynamics:cover:0, 平滑砂岩 覆盖板
+ThermalDynamics:cover:0, 平滑红砂岩 覆盖板
+ThermalDynamics:cover:0, 平滑石英块 覆盖板
+ThermalDynamics:cover:0, 石英砖 覆盖板
+ThermalDynamics:cover:0, 去皮橡木原木 覆盖板
+ThermalDynamics:cover:0, 去皮云杉原木 覆盖板
+ThermalDynamics:cover:0, 去皮白桦原木 覆盖板
+ThermalDynamics:cover:0, 去皮丛林原木 覆盖板
+ThermalDynamics:cover:0, 去皮金合欢原木 覆盖板
+ThermalDynamics:cover:0, 去皮深色橡木原木 覆盖板
+ThermalDynamics:cover:0, 橡木 覆盖板
+ThermalDynamics:cover:0, 云杉木 覆盖板
+ThermalDynamics:cover:0, 白桦木 覆盖板
+ThermalDynamics:cover:0, 丛林木 覆盖板
+ThermalDynamics:cover:0, 金合欢木 覆盖板
+ThermalDynamics:cover:0, 深色橡木 覆盖板
+ThermalDynamics:cover:0, 去皮橡木 覆盖板
+ThermalDynamics:cover:0, 去皮云杉木 覆盖板
+ThermalDynamics:cover:0, 去皮白桦木 覆盖板
+ThermalDynamics:cover:0, 去皮丛林木 覆盖板
+ThermalDynamics:cover:0, 去皮金合欢木 覆盖板
+ThermalDynamics:cover:0, 去皮深色橡木 覆盖板
+ThermalDynamics:cover:0, 白色混凝土 覆盖板
+ThermalDynamics:cover:0, 橙色混凝土 覆盖板
+ThermalDynamics:cover:0, 品红色混凝土 覆盖板
+ThermalDynamics:cover:0, 淡蓝色混凝土 覆盖板
+ThermalDynamics:cover:0, 黄色混凝土 覆盖板
+ThermalDynamics:cover:0, 黄绿色混凝土 覆盖板
+ThermalDynamics:cover:0, 粉红色混凝土 覆盖板
+ThermalDynamics:cover:0, 灰色混凝土 覆盖板
+ThermalDynamics:cover:0, 淡灰色混凝土 覆盖板
+ThermalDynamics:cover:0, 青色混凝土 覆盖板
+ThermalDynamics:cover:0, 紫色混凝土 覆盖板
+ThermalDynamics:cover:0, 蓝色混凝土 覆盖板
+ThermalDynamics:cover:0, 棕色混凝土 覆盖板
+ThermalDynamics:cover:0, 绿色混凝土 覆盖板
+ThermalDynamics:cover:0, 红色混凝土 覆盖板
+ThermalDynamics:cover:0, 黑色混凝土 覆盖板
+ThermalDynamics:cover:0, 白色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 橙色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 品红色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 淡蓝色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 黄色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 黄绿色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 粉红色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 灰色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 淡灰色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 青色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 紫色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 蓝色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 棕色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 绿色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 红色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 黑色混凝土粉末 覆盖板
+ThermalDynamics:cover:0, 铜矿石 覆盖板
+ThermalDynamics:cover:0, 深层铜矿石 覆盖板
+ThermalDynamics:cover:0, 矢车菊 覆盖板
+ThermalDynamics:cover:0, 铃兰 覆盖板
+ThermalDynamics:cover:0, 凋零玫瑰 覆盖板
+ThermalDynamics:cover:0, 白色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 橙色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 品红色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 淡蓝色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 黄色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 黄绿色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 粉红色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 淡灰色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 淡灰色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 青色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 紫色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 蓝色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 棕色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 绿色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 红色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 黑色带釉陶瓦 覆盖板
+ThermalDynamics:cover:0, 铜块 覆盖板
+ThermalDynamics:cover:0, 斑驳的铜块 覆盖板
+ThermalDynamics:cover:0, 锈蚀的铜块 覆盖板
+ThermalDynamics:cover:0, 氧化的铜块 覆盖板
+ThermalDynamics:cover:0, 切制铜块 覆盖板
+ThermalDynamics:cover:0, 斑驳的切制铜块 覆盖板
+ThermalDynamics:cover:0, 锈蚀的切制铜块 覆盖板
+ThermalDynamics:cover:0, 氧化的切制铜块 覆盖板
+ThermalDynamics:cover:0, 涂蜡的铜块 覆盖板
+ThermalDynamics:cover:0, 涂蜡的斑驳铜块 覆盖板
+ThermalDynamics:cover:0, 涂蜡的锈蚀铜块 覆盖板
+ThermalDynamics:cover:0, 涂蜡的氧化铜块 覆盖板
+ThermalDynamics:cover:0, 涂蜡的切制铜块 覆盖板
+ThermalDynamics:cover:0, 涂蜡的斑驳切制铜块 覆盖板
+ThermalDynamics:cover:0, 涂蜡的锈蚀切制铜块 覆盖板
+ThermalDynamics:cover:0, 涂蜡的氧化切制铜块 覆盖板
+ThermalDynamics:cover:0, 雕纹铜块 覆盖板
+ThermalDynamics:cover:0, 斑驳的雕纹铜块 覆盖板
+ThermalDynamics:cover:0, 锈蚀的雕纹铜块 覆盖板
+ThermalDynamics:cover:0, 氧化的雕纹铜块 覆盖板
+ThermalDynamics:cover:0, 涂蜡的雕纹铜块 覆盖板
+ThermalDynamics:cover:0, 涂蜡的斑驳雕纹铜块 覆盖板
+ThermalDynamics:cover:0, 涂蜡的锈蚀雕纹铜块 覆盖板
+ThermalDynamics:cover:0, 涂蜡的氧化雕纹铜块 覆盖板
+ThermalDynamics:cover:0, 铜格栅 覆盖板
+ThermalDynamics:cover:0, 斑驳的铜格栅 覆盖板
+ThermalDynamics:cover:0, 锈蚀的铜格栅 覆盖板
+ThermalDynamics:cover:0, 氧化的铜格栅 覆盖板
+ThermalDynamics:cover:0, 涂蜡的铜格栅 覆盖板
+ThermalDynamics:cover:0, 涂蜡的斑驳铜格栅 覆盖板
+ThermalDynamics:cover:0, 涂蜡的锈蚀铜格栅 覆盖板
+ThermalDynamics:cover:0, 涂蜡的氧化铜格栅 覆盖板
+ThermalDynamics:cover:0, 铜灯 覆盖板
+ThermalDynamics:cover:0, 斑驳的铜灯 覆盖板
+ThermalDynamics:cover:0, 锈蚀的铜灯 覆盖板
+ThermalDynamics:cover:0, 氧化的铜灯 覆盖板
+ThermalDynamics:cover:0, 涂蜡的铜灯 覆盖板
+ThermalDynamics:cover:0, 涂蜡的斑驳铜灯 覆盖板
+ThermalDynamics:cover:0, 涂蜡的锈蚀铜灯 覆盖板
+ThermalDynamics:cover:0, 涂蜡的氧化铜灯 覆盖板
+ThermalDynamics:cover:0, 深板岩 覆盖板
+ThermalDynamics:cover:0, 深板岩圆石 覆盖板
+ThermalDynamics:cover:0, 磨制深板岩 覆盖板
+ThermalDynamics:cover:0, 深板岩砖 覆盖板
+ThermalDynamics:cover:0, 裂纹深板岩砖 覆盖板
+ThermalDynamics:cover:0, 深板岩瓦 覆盖板
+ThermalDynamics:cover:0, 裂纹深板岩瓦 覆盖板
+ThermalDynamics:cover:0, 錾制深板岩 覆盖板
+ThermalDynamics:cover:0, 凝灰岩 覆盖板
+ThermalDynamics:cover:0, 磨制凝灰岩 覆盖板
+ThermalDynamics:cover:0, 凝灰岩砖 覆盖板
+ThermalDynamics:cover:0, 錾制凝灰岩 覆盖板
+ThermalDynamics:cover:0, 錾制凝灰岩砖 覆盖板
+ThermalDynamics:cover:0, 粗铜块 覆盖板
+ThermalDynamics:cover:0, 粗铁块 覆盖板
+ThermalDynamics:cover:0, 粗金块 覆盖板
+ThermalDynamics:cover:0, 玄武岩 覆盖板
+ThermalDynamics:cover:0, 磨制玄武岩 覆盖板
+ThermalDynamics:cover:0, 平滑玄武岩 覆盖板
+ThermalDynamics:cover:0, 方解石 覆盖板
+ThermalDynamics:cover:0, 紫水晶块 覆盖板
+ThermalDynamics:cover:0, 紫水晶母岩 覆盖板
+ThermalDynamics:cover:0, 小型紫晶芽 覆盖板
+ThermalDynamics:cover:0, 中型紫晶芽 覆盖板
+ThermalDynamics:cover:0, 大型紫晶芽 覆盖板
+ThermalDynamics:cover:0, 紫水晶簇 覆盖板
+ThermalDynamics:cover:0, 遮光玻璃 覆盖板
+ThermalDynamics:cover:0, 泥巴 覆盖板
+ThermalDynamics:cover:0, 泥坯 覆盖板
+ThermalDynamics:cover:0, 泥砖 覆盖板
+ThermalDynamics:cover:0, 深层煤矿石 覆盖板
+ThermalDynamics:cover:0, 深层铁矿石 覆盖板
+ThermalDynamics:cover:0, 深层金矿石 覆盖板
+ThermalDynamics:cover:0, 深层红石矿石 覆盖板
+ThermalDynamics:cover:0, 深层青金石矿石 覆盖板
+ThermalDynamics:cover:0, 深层钻石矿石 覆盖板
+ThermalDynamics:cover:0, 深层绿宝石矿石 覆盖板
+ThermalDynamics:cover:0, 侦测器 覆盖板
+ThermalDynamics:cover:0, 标靶 覆盖板
+ThermalDynamics:cover:0, 红砂岩台阶 覆盖板
+ThermalDynamics:cover:0, 切制红砂岩台阶 覆盖板
+ThermalDynamics:cover:0, 紫珀台阶 覆盖板
+ThermalDynamics:cover:0, 石台阶 覆盖板
+ThermalDynamics:cover:0, 苔石台阶 覆盖板
+ThermalDynamics:cover:0, 苔石砖台阶 覆盖板
+ThermalDynamics:cover:0, 切制砂岩台阶 覆盖板
+ThermalDynamics:cover:0, 花岗岩台阶 覆盖板
+ThermalDynamics:cover:0, 磨制花岗岩台阶 覆盖板
+ThermalDynamics:cover:0, 闪长岩台阶 覆盖板
+ThermalDynamics:cover:0, 磨制闪长岩台阶 覆盖板
+ThermalDynamics:cover:0, 安山岩台阶 覆盖板
+ThermalDynamics:cover:0, 磨制安山岩台阶 覆盖板
+ThermalDynamics:cover:0, 平滑砂岩台阶 覆盖板
+ThermalDynamics:cover:0, 平滑红砂岩台阶 覆盖板
+ThermalDynamics:cover:0, 海晶石台阶 覆盖板
+ThermalDynamics:cover:0, 海晶石砖台阶 覆盖板
+ThermalDynamics:cover:0, 暗海晶石台阶 覆盖板
+ThermalDynamics:cover:0, 平滑石英台阶 覆盖板
+ThermalDynamics:cover:0, 红色下界砖台阶 覆盖板
+ThermalDynamics:cover:0, 末地石砖台阶 覆盖板
+ThermalDynamics:cover:0, 深板岩圆石台阶 覆盖板
+ThermalDynamics:cover:0, 磨制深板岩台阶 覆盖板
+ThermalDynamics:cover:0, 深板岩砖台阶 覆盖板
+ThermalDynamics:cover:0, 深板岩瓦台阶 覆盖板
+ThermalDynamics:cover:0, 凝灰岩台阶 覆盖板
+ThermalDynamics:cover:0, 磨制凝灰岩台阶 覆盖板
+ThermalDynamics:cover:0, 凝灰岩砖台阶 覆盖板
+ThermalDynamics:cover:0, 泥砖台阶 覆盖板
+ThermalDynamics:cover:0, 切制铜台阶 覆盖板
+ThermalDynamics:cover:0, 斑驳的切制铜台阶 覆盖板
+ThermalDynamics:cover:0, 锈蚀的切制铜台阶 覆盖板
+ThermalDynamics:cover:0, 氧化的切制铜台阶 覆盖板
+ThermalDynamics:cover:0, 涂蜡的切制铜台阶 覆盖板
+ThermalDynamics:cover:0, 涂蜡的斑驳切制铜台阶 覆盖板
+ThermalDynamics:cover:0, 涂蜡的锈蚀切制铜台阶 覆盖板
+ThermalDynamics:cover:0, 涂蜡的氧化切制铜台阶 覆盖板
+ThermalDynamics:cover:0, 海晶石楼梯 覆盖板
+ThermalDynamics:cover:0, 海晶石砖楼梯 覆盖板
+ThermalDynamics:cover:0, 暗海晶石楼梯 覆盖板
+ThermalDynamics:cover:0, 平滑砂岩楼梯 覆盖板
+ThermalDynamics:cover:0, 平滑红砂岩楼梯 覆盖板
+ThermalDynamics:cover:0, 平滑石英楼梯 覆盖板
+ThermalDynamics:cover:0, 红色下界砖楼梯 覆盖板
+ThermalDynamics:cover:0, 花岗岩楼梯 覆盖板
+ThermalDynamics:cover:0, 磨制花岗岩楼梯 覆盖板
+ThermalDynamics:cover:0, 闪长岩楼梯 覆盖板
+ThermalDynamics:cover:0, 磨制闪长岩楼梯 覆盖板
+ThermalDynamics:cover:0, 安山岩楼梯 覆盖板
+ThermalDynamics:cover:0, 磨制安山岩楼梯 覆盖板
+ThermalDynamics:cover:0, 苔石砖楼梯 覆盖板
+ThermalDynamics:cover:0, 苔石楼梯 覆盖板
+ThermalDynamics:cover:0, 石楼梯 覆盖板
+ThermalDynamics:cover:0, 末地石砖楼梯 覆盖板
+ThermalDynamics:cover:0, 红砂岩楼梯 覆盖板
+ThermalDynamics:cover:0, 紫珀楼梯 覆盖板
+ThermalDynamics:cover:0, 深板岩圆石楼梯 覆盖板
+ThermalDynamics:cover:0, 磨制深板岩楼梯 覆盖板
+ThermalDynamics:cover:0, 深板岩砖楼梯 覆盖板
+ThermalDynamics:cover:0, 深板岩瓦楼梯 覆盖板
+ThermalDynamics:cover:0, 凝灰岩楼梯 覆盖板
+ThermalDynamics:cover:0, 磨制凝灰岩楼梯 覆盖板
+ThermalDynamics:cover:0, 凝灰岩砖楼梯 覆盖板
+ThermalDynamics:cover:0, 泥砖楼梯 覆盖板
+ThermalDynamics:cover:0, 切制铜楼梯 覆盖板
+ThermalDynamics:cover:0, 斑驳的切制铜楼梯 覆盖板
+ThermalDynamics:cover:0, 锈蚀的切制铜楼梯 覆盖板
+ThermalDynamics:cover:0, 氧化的切制铜楼梯 覆盖板
+ThermalDynamics:cover:0, 涂蜡的切制铜楼梯 覆盖板
+ThermalDynamics:cover:0, 涂蜡的斑驳切制铜楼梯 覆盖板
+ThermalDynamics:cover:0, 涂蜡的锈蚀切制铜楼梯 覆盖板
+ThermalDynamics:cover:0, 涂蜡的氧化切制铜楼梯 覆盖板
+ThermalDynamics:cover:0, 石砖墙 覆盖板
+ThermalDynamics:cover:0, 苔石砖墙 覆盖板
+ThermalDynamics:cover:0, 砂岩墙 覆盖板
+ThermalDynamics:cover:0, 砖块墙 覆盖板
+ThermalDynamics:cover:0, 下界砖墙 覆盖板
+ThermalDynamics:cover:0, 花岗岩墙 覆盖板
+ThermalDynamics:cover:0, 闪长岩墙 覆盖板
+ThermalDynamics:cover:0, 安山岩墙 覆盖板
+ThermalDynamics:cover:0, 红砂岩墙 覆盖板
+ThermalDynamics:cover:0, 海晶石墙 覆盖板
+ThermalDynamics:cover:0, 红色下界砖墙 覆盖板
+ThermalDynamics:cover:0, 末地石砖墙 覆盖板
+ThermalDynamics:cover:0, 深板岩圆石墙 覆盖板
+ThermalDynamics:cover:0, 磨制深板岩墙 覆盖板
+ThermalDynamics:cover:0, 深板岩砖墙 覆盖板
+ThermalDynamics:cover:0, 深板岩瓦墙 覆盖板
+ThermalDynamics:cover:0, 凝灰岩墙 覆盖板
+ThermalDynamics:cover:0, 磨制凝灰岩墙 覆盖板
+ThermalDynamics:cover:0, 凝灰岩砖墙 覆盖板
+ThermalDynamics:cover:0, 泥砖墙 覆盖板
+ThermalDynamics:cover:0, 铜门 覆盖板
+ThermalDynamics:cover:0, 斑驳的铜门 覆盖板
+ThermalDynamics:cover:0, 锈蚀的铜门 覆盖板
+ThermalDynamics:cover:0, 氧化的铜门 覆盖板
+ThermalDynamics:cover:0, 涂蜡的铜门 覆盖板
+ThermalDynamics:cover:0, 涂蜡的斑驳铜门 覆盖板
+ThermalDynamics:cover:0, 涂蜡的锈蚀铜门 覆盖板
+ThermalDynamics:cover:0, 涂蜡的氧化铜门 覆盖板
+ThermalDynamics:cover:0, 铜活板门 覆盖板
+ThermalDynamics:cover:0, 斑驳的铜活板门 覆盖板
+ThermalDynamics:cover:0, 锈蚀的铜活板门 覆盖板
+ThermalDynamics:cover:0, 氧化的铜活板门 覆盖板
+ThermalDynamics:cover:0, 涂蜡的铜活板门 覆盖板
+ThermalDynamics:cover:0, 涂蜡的斑驳铜活板门 覆盖板
+ThermalDynamics:cover:0, 涂蜡的锈蚀铜活板门 覆盖板
+ThermalDynamics:cover:0, 涂蜡的氧化铜活板门 覆盖板
+ThermalDynamics:cover:0, 铁活板门 覆盖板
+ThermalDynamics:cover:0, 岩浆块 覆盖板
+ThermalDynamics:cover:0, 灯笼 覆盖板
+ThermalDynamics:cover:0, 灵魂灯笼 覆盖板
+ThermalDynamics:cover:0, 灵魂火把 覆盖板
+ThermalDynamics:cover:0, 锻造台 覆盖板
+ThermalDynamics:cover:0, 堆肥桶 覆盖板
+ThermalDynamics:cover:0, 切石机 覆盖板
+ThermalDynamics:cover:0, 制箭台 覆盖板
+ThermalDynamics:cover:0, 制图台 覆盖板
+ThermalDynamics:cover:0, 织布机 覆盖板
+ThermalDynamics:cover:0, 蜂蜜块 覆盖板
+ThermalDynamics:cover:0, 蜜脾块 覆盖板
+ThermalDynamics:cover:0, 锁链 覆盖板
+ThermalDynamics:cover:0, 铁砧 覆盖板
+ThermalDynamics:cover:0, 铁砧 覆盖板
+ThermalDynamics:cover:0, 铁砧 覆盖板
+ThermalDynamics:cover:0, 黑石 覆盖板
+ThermalDynamics:cover:0, 磨制黑石 覆盖板
+ThermalDynamics:cover:0, 磨制黑石砖 覆盖板
+ThermalDynamics:cover:0, 裂纹磨制黑石砖 覆盖板
+ThermalDynamics:cover:0, 錾制磨制黑石 覆盖板
+ThermalDynamics:cover:0, 镶金黑石 覆盖板
+ThermalDynamics:cover:0, 黑石台阶 覆盖板
+ThermalDynamics:cover:0, 磨制黑石台阶 覆盖板
+ThermalDynamics:cover:0, 磨制黑石砖台阶 覆盖板
+ThermalDynamics:cover:0, 黑石楼梯 覆盖板
+ThermalDynamics:cover:0, 磨制黑石楼梯 覆盖板
+ThermalDynamics:cover:0, 磨制黑石砖楼梯 覆盖板
+ThermalDynamics:cover:0, 黑石墙 覆盖板
+ThermalDynamics:cover:0, 磨制黑石墙 覆盖板
+ThermalDynamics:cover:0, 磨制黑石砖墙 覆盖板
+ThermalDynamics:cover:0, 磨制黑石压力板 覆盖板
+ThermalDynamics:cover:0, 磨制黑石按钮 覆盖板
+ThermalDynamics:cover:0, 灵魂土 覆盖板
+ThermalDynamics:cover:0, 下界疣块 覆盖板
+ThermalDynamics:cover:0, 粉红色花簇 覆盖板
+ThermalDynamics:cover:0, 樱花树苗 覆盖板
+ThermalDynamics:cover:0, 樱花树叶 覆盖板
+ThermalDynamics:cover:0, 樱花木板 覆盖板
+ThermalDynamics:cover:0, 竹板 覆盖板
+ThermalDynamics:cover:0, 樱花木台阶 覆盖板
+ThermalDynamics:cover:0, 竹台阶 覆盖板
+ThermalDynamics:cover:0, 樱花木台阶 覆盖板
+ThermalDynamics:cover:0, 竹台阶 覆盖板
+ThermalDynamics:cover:0, 樱花原木 覆盖板
+ThermalDynamics:cover:0, 樱花木 覆盖板
+ThermalDynamics:cover:0, 去皮樱花原木 覆盖板
+ThermalDynamics:cover:0, 去皮樱花木 覆盖板
+ThermalDynamics:cover:0, 竹块 覆盖板
+ThermalDynamics:cover:0, 去皮竹块 覆盖板
+ThermalDynamics:cover:0, 樱花木楼梯 覆盖板
+ThermalDynamics:cover:0, 竹楼梯 覆盖板
+ThermalDynamics:cover:0, 竹马赛克 覆盖板
+ThermalDynamics:cover:0, 竹马赛克台阶 覆盖板
+ThermalDynamics:cover:0, 竹马赛克楼梯 覆盖板
+ThermalDynamics:cover:0, 云杉木栅栏 覆盖板
+ThermalDynamics:cover:0, 白桦木栅栏 覆盖板
+ThermalDynamics:cover:0, 丛林木栅栏 覆盖板
+ThermalDynamics:cover:0, 金合欢栅栏 覆盖板
+ThermalDynamics:cover:0, 深色橡木栅栏 覆盖板
+ThermalDynamics:cover:0, 樱花木栅栏 覆盖板
+ThermalDynamics:cover:0, 竹栅栏 覆盖板
+ThermalDynamics:cover:0, 云杉木按钮 覆盖板
+ThermalDynamics:cover:0, 白桦木按钮 覆盖板
+ThermalDynamics:cover:0, 丛林木按钮 覆盖板
+ThermalDynamics:cover:0, 金合欢木按钮 覆盖板
+ThermalDynamics:cover:0, 深色橡木按钮 覆盖板
+ThermalDynamics:cover:0, 樱花木按钮 覆盖板
+ThermalDynamics:cover:0, 竹按钮 覆盖板
+ThermalDynamics:cover:0, 云杉木压力板 覆盖板
+ThermalDynamics:cover:0, 白桦木压力板 覆盖板
+ThermalDynamics:cover:0, 丛林木压力板 覆盖板
+ThermalDynamics:cover:0, 金合欢木压力板 覆盖板
+ThermalDynamics:cover:0, 深色橡木压力板 覆盖板
+ThermalDynamics:cover:0, 樱花木压力板 覆盖板
+ThermalDynamics:cover:0, 竹压力板 覆盖板
+ThermalDynamics:cover:0, 云杉木栅栏门 覆盖板
+ThermalDynamics:cover:0, 白桦木栅栏门 覆盖板
+ThermalDynamics:cover:0, 丛林木栅栏门 覆盖板
+ThermalDynamics:cover:0, 金合欢木栅栏门 覆盖板
+ThermalDynamics:cover:0, 深色橡木栅栏门 覆盖板
+ThermalDynamics:cover:0, 樱花木栅栏门 覆盖板
+ThermalDynamics:cover:0, 竹栅栏门 覆盖板
+ThermalDynamics:cover:0, 云杉木门 覆盖板
+ThermalDynamics:cover:0, 白桦木门 覆盖板
+ThermalDynamics:cover:0, 丛林木门 覆盖板
+ThermalDynamics:cover:0, 金合欢木门 覆盖板
+ThermalDynamics:cover:0, 深色橡木门 覆盖板
+ThermalDynamics:cover:0, 樱花木门 覆盖板
+ThermalDynamics:cover:0, 竹门 覆盖板
+ThermalDynamics:cover:0, 云杉木活板门 覆盖板
+ThermalDynamics:cover:0, 白桦木活板门 覆盖板
+ThermalDynamics:cover:0, 丛林木活板门 覆盖板
+ThermalDynamics:cover:0, 金合欢木活板门 覆盖板
+ThermalDynamics:cover:0, 深色橡木活板门 覆盖板
+ThermalDynamics:cover:0, 樱花木活板门 覆盖板
+ThermalDynamics:cover:0, 竹活板门 覆盖板
+ThermalDynamics:cover:0, 白色床 覆盖板
+ThermalDynamics:cover:0, 橙色床 覆盖板
+ThermalDynamics:cover:0, 品红色床 覆盖板
+ThermalDynamics:cover:0, 淡蓝色床 覆盖板
+ThermalDynamics:cover:0, 黄色床 覆盖板
+ThermalDynamics:cover:0, 黄绿色床 覆盖板
+ThermalDynamics:cover:0, 粉红色床 覆盖板
+ThermalDynamics:cover:0, 灰色床 覆盖板
+ThermalDynamics:cover:0, 淡灰色床 覆盖板
+ThermalDynamics:cover:0, 青色床 覆盖板
+ThermalDynamics:cover:0, 紫色床 覆盖板
+ThermalDynamics:cover:0, 蓝色床 覆盖板
+ThermalDynamics:cover:0, 棕色床 覆盖板
+ThermalDynamics:cover:0, 绿色床 覆盖板
+ThermalDynamics:cover:0, 黑色床 覆盖板
+ThermalDynamics:cover:0, 哭泣的黑曜石 覆盖板
+ThermalDynamics:cover:0, 玫瑰 覆盖板
+ThermalDynamics:cover:0, 旧版沙砾 覆盖板
+ThermalDynamics:cover:0, 史上最炫楼梯 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 光 覆盖板
+ThermalDynamics:cover:0, 屏障 覆盖板
+ThermalDynamics:cover:0, 粗铝块 覆盖板
+ThermalDynamics:cover:0, 粗锡块 覆盖板
+ThermalDynamics:cover:0, 粗银块 覆盖板
+ThermalDynamics:cover:0, 粗铅块 覆盖板
+ThermalDynamics:cover:0, 粗镍块 覆盖板
+ThermalDynamics:cover:0, 粗铂块 覆盖板
+ThermalDynamics:cover:0, 粗秘银块 覆盖板
+ThermalDynamics:cover:0, 深层铝矿石 覆盖板
+ThermalDynamics:cover:0, 深层锡矿石 覆盖板
+ThermalDynamics:cover:0, 深层银矿石 覆盖板
+ThermalDynamics:cover:0, 深层铅矿石 覆盖板
+ThermalDynamics:cover:0, 深层镍矿石 覆盖板
+ThermalDynamics:cover:0, 深层铂矿石 覆盖板
+ThermalDynamics:cover:0, 深层秘银矿石 覆盖板
+ThermalDynamics:cover:0, 深层赛特斯石英矿石 覆盖板
+ThermalDynamics:cover:0, 深层充能赛特斯石英矿石 覆盖板
+ThermalDynamics:cover:0, 深层龙矿 覆盖板
 ThermalDynamics:cover:0, 末影蛋糕 覆盖板
 ThermalDynamics:cover:0, 注魔人工蜂巢 覆盖板
 ThermalDynamics:cover:0, 下界钴矿沙砾 覆盖板
@@ -14011,7 +15001,6 @@ ThermalDynamics:cover:0, 钴矿尘土 覆盖板
 ThermalDynamics:cover:0, 下界阿迪特沙砾 覆盖板
 ThermalDynamics:cover:0, 阿迪特沙子 覆盖板
 ThermalDynamics:cover:0, 阿迪特尘土 覆盖板
-ThermalDynamics:cover:0, 空艇罗盘 覆盖板
 ThermalDynamics:cover:0, 锇方块 覆盖板
 ThermalDynamics:cover:0, 青铜方块 覆盖板
 ThermalDynamics:cover:0, 强化黑曜石 覆盖板
@@ -14508,13 +15497,17 @@ ThermalDynamics:cover:0, 拉明顿蛋糕 覆盖板
 ThermalDynamics:cover:0, 奶油蛋白甜饼 覆盖板
 ThermalDynamics:cover:0, 假日蛋糕 覆盖板
 ThermalDynamics:cover:0, 南瓜奶酪蛋糕 覆盖板
+ThermalDynamics:cover:0, Tiny Ship 覆盖板
+ThermalDynamics:cover:0, Small Ship 覆盖板
+ThermalDynamics:cover:0, Medium Ship 覆盖板
+ThermalDynamics:cover:0, Large Ship 覆盖板
+ThermalDynamics:cover:0, Huge Ship 覆盖板
+ThermalDynamics:cover:0, Gigantic Ship 覆盖板
+ThermalDynamics:cover:0, Epic Ship 覆盖板
+ThermalDynamics:cover:0, Air Wall 覆盖板
+ThermalDynamics:cover:0, tile.cuchaz.ships.berth.name 覆盖板
+ThermalDynamics:cover:0, Air Roof 覆盖板
 ThermalDynamics:cover:0, 工厂线缆 覆盖板
-ThermalDynamics:cover:0, 橡木桥接方块 覆盖板
-ThermalDynamics:cover:0, 云杉木桥接方块 覆盖板
-ThermalDynamics:cover:0, 白桦木桥接方块 覆盖板
-ThermalDynamics:cover:0, 丛林木桥接方块 覆盖板
-ThermalDynamics:cover:0, 金合欢木桥接方块 覆盖板
-ThermalDynamics:cover:0, 深色橡木桥接方块 覆盖板
 ThermalDynamics:cover:0, 机器框架(基础) 覆盖板
 ThermalDynamics:cover:0, 机器框架(硬化) 覆盖板
 ThermalDynamics:cover:0, 机器框架(强化) 覆盖板

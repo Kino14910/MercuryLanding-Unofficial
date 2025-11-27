@@ -1,0 +1,32 @@
+{
+  "preRequisites:9": {},
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "此整合包完全免费且开源，GitHub地址：[url]https://github.com/Kino14910/MercuryLanding-Unofficial][/url]，你可以随意在此整合包的基础上进行二创，但必须保留原作者萝卜吃米洛和重制作者kino相关的内容，且需要遵循GPLv3开源协议。\n\n由于原作者萝卜吃米洛不希望再宣传水星迫降，所以请勿将此整合包发布到各论坛或平台上。",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:written_book"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "游玩须知",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -4777203315443807338,
+  "questIDLow:4": -6726409765500941197,
+  "rewards:9": {},
+  "tasks:9": {}
+}

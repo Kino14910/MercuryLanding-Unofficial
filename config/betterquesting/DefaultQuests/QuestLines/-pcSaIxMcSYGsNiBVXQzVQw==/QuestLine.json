@@ -1,0 +1,19 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "我静下心来，努力的让自己感到不是那么绝望，我应该做点什么...",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 7,
+        "OreDict:8": "",
+        "id:8": "ExtraUtilities:generator"
+      },
+      "name:8": "生存之路",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questLineIDHigh:4": -6501902486580999807,
+  "questLineIDLow:4": -6037602699438140093
+}

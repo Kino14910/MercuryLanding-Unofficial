@@ -1,0 +1,17 @@
+Logging started at 2025-11-23T14:33:25.113647Z
+[authlib-injector] [INFO] Version: 1.2.6
+[authlib-injector] [INFO] Authentication server: http://localhost:41812/yggdrasil/
+[authlib-injector] [WARNING] You are using HTTP protocol, which is INSECURE! Please switch to HTTPS if possible.
+[authlib-injector] [INFO] Disabled legacy skin API polyfill
+[authlib-injector] [INFO] Disabled Mojang namespace
+[authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Main Arguments Transformer]
+[authlib-injector] [INFO] Enable MC-52974 Workaround
+[authlib-injector] [INFO] Enable MC-52974 Workaround for 1.7.10
+[authlib-injector] [INFO] Transformed [net.minecraft.client.entity.AbstractClientPlayer] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [net.minecraft.util.Session] with [1.7.10 MC-52974 Workaround (Session)]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.HttpAuthenticationService] with [ConcatenateURL Workaround]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Texture Whitelist Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [MC-52974 Workaround]
+[authlib-injector] [INFO] Transformed [net.minecraft.network.play.server.S0CPacketSpawnPlayer] with [1.7.10 MC-52974 Workaround (S0CPacketSpawnPlayer)]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository] with [Constant URL Transformer]

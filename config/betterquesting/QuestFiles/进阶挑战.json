@@ -1,0 +1,1216 @@
+{
+  "name": "进阶挑战",
+  "description": "我不想要生存，我想要生活！！",
+  "quests": [
+    {
+      "name": "我的刷怪塔！",
+      "description": "你发现，在这个星球的怪物生成速度是如此之快，你想尽力利用这些而创造生存的机会！",
+      "x": 204,
+      "y": 18,
+      "icon": {
+        "id": "ExtraUtilities:spike_base"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "收集以下物品各一组。",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:rotten_flesh"
+              },
+              "required": 64
+            },
+            {
+              "item": {
+                "id": "minecraft:bone"
+              },
+              "required": 64
+            },
+            {
+              "item": {
+                "id": "minecraft:gunpowder"
+              },
+              "required": 64
+            },
+            {
+              "item": {
+                "id": "minecraft:spider_eye"
+              },
+              "required": 64
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ExtraUtilities:spike_base",
+          "amount": 2
+        },
+        {
+          "id": "OpenBlocks:fan",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "name": "进阶刷怪塔",
+      "description": "当你获得了铁椎和风扇后，你脑海里浮现了一个猥琐的计划...那就是 自动化刷怪！！！",
+      "x": 203,
+      "y": 55,
+      "icon": {
+        "id": "ExtraUtilities:spike_base_gold"
+      },
+      "prerequisites": [
+        "我的刷怪塔！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "收集以下物品各256个！",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:rotten_flesh"
+              },
+              "required": 256
+            },
+            {
+              "item": {
+                "id": "minecraft:bone"
+              },
+              "required": 256
+            },
+            {
+              "item": {
+                "id": "minecraft:spider_eye"
+              },
+              "required": 256
+            },
+            {
+              "item": {
+                "id": "minecraft:gunpowder"
+              },
+              "required": 256
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:iron_block",
+          "amount": 8
+        },
+        {
+          "id": "ExtraUtilities:spike_base_gold",
+          "amount": 4
+        },
+        {
+          "id": "ExtraUtilities:conveyor",
+          "amount": 64
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "lucky:lucky_block",
+          "amount": 12
+        }
+      ]
+    },
+    {
+      "name": "旋转吧！ 刷怪塔！",
+      "description": "充满野心的你准备再次进一步扩充你的刷怪塔。",
+      "x": 203,
+      "y": 96,
+      "icon": {
+        "id": "ExtraUtilities:spike_base_diamond"
+      },
+      "prerequisites": [
+        "进阶刷怪塔"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "收集以下物品各512个",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:rotten_flesh"
+              },
+              "required": 512
+            },
+            {
+              "item": {
+                "id": "minecraft:bone"
+              },
+              "required": 512
+            },
+            {
+              "item": {
+                "id": "minecraft:gunpowder"
+              },
+              "required": 512
+            },
+            {
+              "item": {
+                "id": "minecraft:spider_eye"
+              },
+              "required": 512
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ExtraUtilities:spike_base_diamond",
+          "amount": 6
+        },
+        {
+          "id": "HardcoreQuesting:hqmInvalidItem"
+        },
+        {
+          "id": "Mekanism:EnergyCube",
+          "damage": 100,
+          "nbt": "{tier:\"Advanced\"}"
+        },
+        {
+          "id": "OpenBlocks:fan",
+          "amount": 26
+        }
+      ]
+    },
+    {
+      "name": "老子不回去了！！！",
+      "description": "你不想回到以前那段浑浑噩噩的日子了，你现在已经丰衣足食，甚至谈得上了奢华，看着家里不停运转的机器，你感觉这一切都是那么美好。",
+      "x": 246,
+      "y": 165,
+      "icon": {
+        "id": "ExtraUtilities:chandelier"
+      },
+      "prerequisites": [
+        "旋转吧！ 刷怪塔！",
+        "牧！ 场！ 大！ 亨！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "收集以下物品",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:gold_block"
+              },
+              "required": 64
+            },
+            {
+              "item": {
+                "id": "minecraft:iron_block"
+              },
+              "required": 64
+            },
+            {
+              "item": {
+                "id": "ThermalFoundation:Storage"
+              },
+              "required": 64
+            },
+            {
+              "item": {
+                "id": "ThermalFoundation:Storage",
+                "damage": 1
+              },
+              "required": 64
+            },
+            {
+              "item": {
+                "id": "ThermalFoundation:Storage",
+                "damage": 2
+              },
+              "required": 64
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hqmInvalidItem"
+        },
+        {
+          "id": "ExtraUtilities:block_bedrockium",
+          "amount": 3
+        },
+        {
+          "id": "ThermalExpansion:Cell",
+          "damage": 4,
+          "amount": 3,
+          "nbt": "{Recv:32000,RSControl:1b,Facing:3b,Energy:0,SideCache:[6 bytes],Send:32000}"
+        },
+        {
+          "id": "ThermalExpansion:Tesseract",
+          "amount": 3,
+          "nbt": "{RSControl:1b,ModeEnergy:1b,ModeItems:1b,Frequency:-1,ModeFluid:1b}"
+        }
+      ]
+    },
+    {
+      "name": "牧！ 场！ 大！ 亨！",
+      "description": "你想到要作为一个大亨，就要全方位发展，你开始着手你的宏图大计！",
+      "x": 289,
+      "y": 97,
+      "icon": {
+        "id": "BiblioCraft:item.BiblioGlasses",
+        "damage": 1
+      },
+      "prerequisites": [
+        "老子发了！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "收集以下所有物品。",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:fish"
+              },
+              "required": 256
+            },
+            {
+              "item": {
+                "id": "minecraft:apple"
+              },
+              "required": 256
+            },
+            {
+              "item": {
+                "id": "minecraft:beef"
+              },
+              "required": 256
+            },
+            {
+              "item": {
+                "id": "minecraft:wool"
+              },
+              "required": 256
+            },
+            {
+              "item": {
+                "id": "minecraft:porkchop"
+              },
+              "required": 256
+            },
+            {
+              "item": {
+                "id": "minecraft:dye"
+              },
+              "required": 128
+            },
+            {
+              "item": {
+                "id": "minecraft:reeds"
+              },
+              "required": 256
+            },
+            {
+              "item": {
+                "id": "minecraft:wheat"
+              },
+              "required": 256
+            },
+            {
+              "item": {
+                "id": "minecraft:potato"
+              },
+              "required": 256
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ExtraUtilities:ethericsword"
+        },
+        {
+          "id": "ExtraUtilities:watering_can",
+          "damage": 3
+        },
+        {
+          "id": "ExtraUtilities:divisionSigil",
+          "nbt": "{damage:256}"
+        },
+        {
+          "id": "ExtraUtilities:drum",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "老子发了！",
+      "description": "你感觉到其实在这种荒凉的星球也能凭借你的创造力也能获得很好的生活.你打算把你的养殖场扩大，说不定以后逃出去后也能开个养殖公司呢？",
+      "x": 288,
+      "y": 57,
+      "icon": {
+        "id": "minecraft:hay_block"
+      },
+      "prerequisites": [
+        "我是牧场主"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "收集以下物品各128个",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:wool"
+              },
+              "required": 128
+            },
+            {
+              "item": {
+                "id": "minecraft:beef"
+              },
+              "required": 128
+            },
+            {
+              "item": {
+                "id": "minecraft:egg"
+              },
+              "required": 128
+            },
+            {
+              "item": {
+                "id": "minecraft:leather"
+              },
+              "required": 128
+            },
+            {
+              "item": {
+                "id": "harvestcraft:muttonrawItem"
+              },
+              "required": 128
+            },
+            {
+              "item": {
+                "id": "minecraft:porkchop"
+              },
+              "required": 128
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "appliedenergistics2:item.ItemBasicStorageCell.64k"
+        },
+        {
+          "id": "minecraft:diamond_block",
+          "amount": 2
+        },
+        {
+          "id": "ThermalExpansion:Tank",
+          "damage": 4
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "lucky:lucky_block",
+          "amount": 12
+        }
+      ]
+    },
+    {
+      "name": "我是牧场主",
+      "description": "你迫切的需要搭建一个牧场来维持你每天的高额热量消耗.",
+      "x": 288,
+      "y": 18,
+      "icon": {
+        "id": "minecraft:wheat"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "收集以下物品各32个。",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:wool"
+              },
+              "required": 32
+            },
+            {
+              "item": {
+                "id": "minecraft:leather"
+              },
+              "required": 32
+            },
+            {
+              "item": {
+                "id": "minecraft:porkchop"
+              },
+              "required": 32
+            },
+            {
+              "item": {
+                "id": "minecraft:egg"
+              },
+              "required": 32
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:wheat",
+          "amount": 64
+        },
+        {
+          "id": "minecraft:carrot",
+          "amount": 64
+        },
+        {
+          "id": "minecraft:iron_block",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "家人",
+      "description": "你意识到家人的温暖比荣华富贵更为重要，你一定要想办法回家...     (任务条件“回家”）",
+      "x": 246,
+      "y": 195,
+      "icon": {
+        "id": "Mariculture:necklace",
+        "nbt": "{material:\"pearlGold\",binding:\"gold\"}"
+      },
+      "prerequisites": [
+        "老子不回去了！！！"
+      ]
+    },
+    {
+      "name": "葬者之地",
+      "description": "你发现黑曜石有种沟通冥界的力量，将它们摆放成门的形状，然后就可以进入地狱掠夺资源了，虽然极度危险，但是以现在的窘状来说，值得一试。",
+      "x": 9,
+      "y": 10,
+      "icon": {
+        "id": "minecraft:netherrack"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "使用岩浆+水+石桶即可做出黑曜石  或是导入水和熔岩进匠魂熔炉                                 注意！！！！ 在地狱克隆体死亡不会复活！",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:obsidian"
+              },
+              "required": 10
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "DraconicEvolution:safetyMatch",
+          "damage": 1000
+        }
+      ]
+    },
+    {
+      "name": "量子玄学",
+      "description": "是时候用量子玄学做一个更高级的合成台了，奇怪的是每次看这个合成台都会感觉名字有变化。",
+      "x": 9,
+      "y": 43,
+      "icon": {
+        "id": "ExtraUtilities:endConstructor"
+      },
+      "prerequisites": [
+        "葬者之地"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作QED",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:endConstructor"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ExtraUtilities:chandelier",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "安静的夜",
+      "description": "据研究，水星的怪物会呈现一种奇特的特性，它们会远离土豪！ 按照这个特性，我们可以制作一把十分土豪的火炬，这样是否能杜绝怪物？",
+      "x": 9,
+      "y": 76,
+      "icon": {
+        "id": "ExtraUtilities:magnumTorch"
+      },
+      "prerequisites": [
+        "量子玄学"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一把卓越火炬               (直径128格不刷怪,诅咒之土，刷怪笼除外)",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:magnumTorch"
+              }
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "ExtraUtilities:golden_lasso"
+        },
+        {
+          "id": "ExtraUtilities:decorativeBlock1",
+          "damage": 8,
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "name": "不爆炸还是能做朋友的",
+      "description": "你偶尔之间获得了一种奇特的徽章，激活后会产生一种奇特的Balba能量，这种力量能够完美无瑕的分割钻石和铁，以合成惊人的物品。",
+      "x": 43,
+      "y": 76,
+      "icon": {
+        "id": "ExtraUtilities:unstableingot",
+        "damage": 1
+      },
+      "prerequisites": [
+        "安静的夜"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作不稳定金属粒不会爆炸",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:unstableingot",
+                "damage": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ExtraUtilities:unstableingot",
+          "damage": 1,
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "name": "你制杖吗？",
+      "description": "你感受到了不稳定金属的强大，你想凭借着以前制杖的经验来制造一把能够批量放置方块的法杖。",
+      "x": 77,
+      "y": 76,
+      "icon": {
+        "id": "ExtraUtilities:builderswand"
+      },
+      "prerequisites": [
+        "不爆炸还是能做朋友的"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制杖",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:builderswand"
+              }
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:obsidian",
+          "amount": 26
+        },
+        {
+          "id": "EnderIO:itemBasicCapacitor",
+          "damage": 1,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "你贩剑吗？",
+      "description": "你忽然想用不稳定金属制造一把威力强大的剑，赶快来实施吧。",
+      "x": 111,
+      "y": 76,
+      "icon": {
+        "id": "ExtraUtilities:ethericsword"
+      },
+      "prerequisites": [
+        "你制杖吗？"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一把天域之剑",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:ethericsword"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "DraconicEvolution:draconiumDust",
+          "amount": 16
+        }
+      ]
+    },
+    {
+      "name": "魔鬼般的利刃",
+      "description": "后来你发现，天域之剑并没有什么出彩的地方，但是在挥舞之间，你感觉这把剑能够斩下自己的灵魂，你是否愿意出卖灵魂来制作更强力的物品？",
+      "x": 146,
+      "y": 76,
+      "icon": {
+        "id": "ExtraUtilities:mini-soul"
+      },
+      "prerequisites": [
+        "你贩剑吗？"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "把天域之剑放到背包里直接进行合成，合成会永久消耗天域之剑和你的生命值上限。",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:mini-soul"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ExtraUtilities:cobblestone_compressed",
+          "damage": 11,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "唯一的选择",
+      "description": "你发现以灵魂为代价而获得的物品并不能合成更多的东西，只能选择合成洒水壶，死马当活马医把！ 但愿好用。",
+      "x": 146,
+      "y": 112,
+      "icon": {
+        "id": "ExtraUtilities:watering_can",
+        "damage": 3
+      },
+      "prerequisites": [
+        "魔鬼般的利刃"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一个强化洒水壶",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:watering_can",
+                "damage": 3
+              }
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "ExtraUtilities:unstableingot",
+          "damage": 1,
+          "amount": 16
+        },
+        {
+          "id": "ExtraUtilities:cobblestone_compressed",
+          "damage": 4
+        }
+      ]
+    },
+    {
+      "name": "棒棒糖prprprppr",
+      "description": "本想着把斧头也升级成不稳定金属版本，但是好像伐木效率也不是很高，但是 斧头竟然出其不意的甜，每次舔几口都会感觉人生充满了意义。 唔？竟然是一把无耐久的斧头！应该能做些什么！",
+      "x": 111,
+      "y": 112,
+      "icon": {
+        "id": "ExtraUtilities:defoliageAxe"
+      },
+      "prerequisites": [
+        "你贩剑吗？"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:defoliageAxe"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "EnderIO:itemMaterial",
+          "damage": 5,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "便捷水源",
+      "description": "唔，利用无限水的特性做一个梦幻の机器。貌似还能很方便的产盐！",
+      "x": 44,
+      "y": 10,
+      "icon": {
+        "id": "cookingbook:sink"
+      },
+      "prerequisites": [
+        "葬者之地"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作水槽",
+          "items": [
+            {
+              "item": {
+                "id": "cookingbook:sink"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:dye",
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "name": "yoo 酷炫的烤箱！",
+      "description": "真是受够了把食物塞进熔炉里面烤，这样显得十分的业余，作为一个烹饪大师，至少要准备一个烤箱嘛！",
+      "x": 79,
+      "y": 10,
+      "icon": {
+        "id": "cookingbook:cookingoven"
+      },
+      "prerequisites": [
+        "便捷水源"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一只烤箱",
+          "items": [
+            {
+              "item": {
+                "id": "cookingbook:cookingoven"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:clay",
+          "amount": 5
+        },
+        {
+          "id": "appliedenergistics2:item.ItemMultiMaterial",
+          "damage": 4,
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "name": "集成控制",
+      "description": "利用黑科技制造了你充满科技元素的厨房，烹饪桌就是你的控制枢纽！",
+      "x": 146,
+      "y": 11,
+      "icon": {
+        "id": "cookingbook:cookingtable"
+      },
+      "prerequisites": [
+        "梦の家具"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "和其他部件摆放在一起可以增加功能，比如自动烤面包，自动取水，自动使用冰箱的食物来制作物品。",
+          "items": [
+            {
+              "item": {
+                "id": "cookingbook:cookingtable"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:egg",
+          "amount": 16
+        },
+        {
+          "id": "appliedenergistics2:item.ItemMultiMaterial",
+          "damage": 4,
+          "amount": 16
+        },
+        {
+          "id": "MineFactoryReloaded:milkbottle",
+          "amount": 16
+        }
+      ]
+    },
+    {
+      "name": "梦の家具",
+      "description": "经历了一段时间的饥饿生活，你忽然想起了家里那颗迷人的冰箱，它仿佛有种奇特的控制力能控制你打开冰箱门。",
+      "x": 113,
+      "y": 10,
+      "icon": {
+        "id": "cookingbook:fridge"
+      },
+      "prerequisites": [
+        "yoo 酷炫的烤箱！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一颗冰箱",
+          "items": [
+            {
+              "item": {
+                "id": "cookingbook:fridge"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "cookingbook:fridge"
+        }
+      ]
+    },
+    {
+      "name": "漆黑的世界",
+      "description": "在贫瘠的水星，想要挖到矿物简直天方夜谭，但是你需要巨量的矿物来支持你的后期发展，于是你想利用不稳定金属奇妙的特性进入一个意想不到的世界。",
+      "x": 43,
+      "y": 113,
+      "icon": {
+        "id": "ExtraUtilities:dark_portal"
+      },
+      "prerequisites": [
+        "不爆炸还是能做朋友的"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "注意:黑暗世界矿物于主世界2倍生成,由于世界的特殊性，怪物也会十分的多，在足够黑暗的地方你会被黑暗所伤害。",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:dark_portal"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "OpenBlocks:ropeladder",
+          "amount": 64
+        }
+      ]
+    },
+    {
+      "name": "机械化采矿",
+      "description": "在黑暗世界，人工挖矿是十分危险的，你必须使用机械的力量，于是你研发出一种采石场，消耗RF能来进行采矿，并且兼顾世界加载。",
+      "x": 43,
+      "y": 144,
+      "icon": {
+        "id": "ExtraUtilities:enderQuarry"
+      },
+      "prerequisites": [
+        "漆黑的世界"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一台末影采石场",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:enderQuarry"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "IronChest:BlockIronChest",
+          "damage": 5
+        },
+        {
+          "id": "chisel:torch9",
+          "amount": 16
+        }
+      ]
+    },
+    {
+      "name": "跨维传输",
+      "description": "在研究末影人和末影珍珠后，你忽然想到一种传输物体能量液体的方案，在三维空间构筑一个四维空间的入口，并用高强度材料加固，于是你有了跨世界传输的方案了！",
+      "x": 43,
+      "y": 175,
+      "icon": {
+        "id": "ThermalExpansion:Tesseract",
+        "nbt": "{RSControl:1b,ModeEnergy:1b,ModeItems:1b,Frequency:-1,ModeFluid:1b}"
+      },
+      "prerequisites": [
+        "机械化采矿"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "ThermalExpansion:Tesseract",
+                "nbt": "{RSControl:1b,ModeEnergy:1b,ModeItems:1b,Frequency:-1,ModeFluid:1b}"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "ThermalFoundation:material",
+          "damage": 76,
+          "amount": 6
+        },
+        {
+          "id": "EnderIO:itemBasicCapacitor",
+          "damage": 2,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "农夫好帮手！",
+      "description": "辛辛苦苦做的治愈之斧效率是如此之低，于是你想借助机械的力量来砍伐树木。",
+      "x": 111,
+      "y": 144,
+      "icon": {
+        "id": "EnderIO:blockFarmStation"
+      },
+      "prerequisites": [
+        "棒棒糖prprprppr"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作种植站                       (搭配强化洒水壶口味更佳)",
+          "items": [
+            {
+              "item": {
+                "id": "EnderIO:blockFarmStation"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ThermalExpansion:Glass",
+          "amount": 12
+        },
+        {
+          "id": "EnderIO:itemBasicCapacitor",
+          "damage": 2
+        }
+      ]
+    },
+    {
+      "name": "不变钢",
+      "description": "  因瓦合金是一种镍铁合金，其成分为镍36%，铁63.8%，碳0.2%，它的热膨胀系数极低，能在很宽的温度范围内保持固定长度。",
+      "x": 44,
+      "y": 43,
+      "icon": {
+        "id": "ThermalFoundation:material",
+        "damage": 72
+      },
+      "prerequisites": [
+        "葬者之地"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "收集16因瓦合金",
+          "items": [
+            {
+              "item": {
+                "id": "ThermalFoundation:material",
+                "damage": 72
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "EnderIO:blockPowerMonitor"
+        }
+      ]
+    },
+    {
+      "name": "强化机械！",
+      "description": "我需要更好用的机器来满足我的材料处理工作。",
+      "x": 77,
+      "y": 43,
+      "icon": {
+        "id": "ThermalFoundation:material",
+        "damage": 74
+      },
+      "prerequisites": [
+        "不变钢"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作16个信素锭",
+          "items": [
+            {
+              "item": {
+                "id": "ThermalFoundation:material",
+                "damage": 74
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ThermalFoundation:material",
+          "damage": 69
+        },
+        {
+          "id": "EnderIO:blockBuffer"
+        }
+      ]
+    },
+    {
+      "name": "末影的力量",
+      "description": " 来自末影珍珠的四次元力量能够让我制作顶级的梦幻机械。",
+      "x": 113,
+      "y": 43,
+      "icon": {
+        "id": "ThermalFoundation:material",
+        "damage": 76
+      },
+      "prerequisites": [
+        "强化机械！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作16个末影锭",
+          "items": [
+            {
+              "item": {
+                "id": "ThermalFoundation:material",
+                "damage": 76
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:nether_star",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "天使之力",
+      "description": "不稳定金属能够让我无视地心引力，我将它制作为指环，或可以让我飞行。",
+      "x": 78,
+      "y": 113,
+      "icon": {
+        "id": "ExtraUtilities:angelRing"
+      },
+      "prerequisites": [
+        "你制杖吗？"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作天使指环 (隐形的翅膀，可后续合成其他外观) ",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:angelRing"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:diamond",
+          "amount": 8
+        },
+        {
+          "id": "ExtraUtilities:microblocks",
+          "damage": 3,
+          "nbt": "{mat:\"tile.extrautils:decorativeBlock1_5\"}"
+        }
+      ]
+    }
+  ],
+  "reputationBar": []
+}

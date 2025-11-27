@@ -1,0 +1,97 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 1536540622541637252,
+      "questIDLow:4": -5348434394028494853
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "在终末之地坐标10000的混沌之地，徘徊着一种至强的混沌魔龙，由于万亿年长期被暗能量所吞噬，已经丧失了心智，长期放任不管会对于水星或是整个世界都有严重的威胁。",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "DraconicEvolution:chaosShard"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "决战！ 世界最强者！",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -2851782656760133354,
+  "questIDLow:4": -6195443786912749978,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 3,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "DraconicEvolution:chaoticCore"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 11,
+          "OreDict:8": "",
+          "id:8": "ExtraUtilities:generator.8"
+        },
+        "2:10": {
+          "Count:3": 64,
+          "Damage:2": 6,
+          "OreDict:8": "",
+          "id:8": "ThermalDynamics:ThermalDynamics_0"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:red_flower"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "damageType:8": "",
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "required:3": 1,
+      "subtypes:1": 1,
+      "target:8": "DraconicEvolution.ChaosGuardian",
+      "targetNBT:10": {},
+      "taskID:8": "bq_standard:hunt"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 3,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "DraconicEvolution:chaosShard"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

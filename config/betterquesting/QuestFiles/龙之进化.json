@@ -1,0 +1,667 @@
+{
+  "name": "龙之进化",
+  "description": "你在进行日常的筛矿活动中，发现一种含有龙之力量的粉尘，你觉得它并不是粉尘这么简单。",
+  "quests": [
+    {
+      "name": "龙之尘土",
+      "description": "这种紫色的尘土，蕴含着末影龙的力量，它是否能为我所用？",
+      "x": 14,
+      "y": 97,
+      "icon": {
+        "id": "DraconicEvolution:draconiumDust"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "收集64龙尘",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:draconiumDust"
+              },
+              "required": 64
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:nether_star"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "龙力塑型",
+      "description": "你将龙尘以普通矿物的方式加工，出奇的获得了龙锭。",
+      "x": 47,
+      "y": 97,
+      "icon": {
+        "id": "DraconicEvolution:draconiumIngot"
+      },
+      "prerequisites": [
+        "龙之尘土"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "收集32龙锭",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:draconiumIngot"
+              },
+              "required": 32
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "DraconicEvolution:teleporterMKI"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "末影之力",
+      "description": "你发现这种奇特的物质还含有末影的力量，只需要稍微引导就能制作出一枚传送石。",
+      "x": 47,
+      "y": 62,
+      "icon": {
+        "id": "DraconicEvolution:teleporterMKII"
+      },
+      "prerequisites": [
+        "龙力塑型"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作传送石",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:teleporterMKII"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:ender_pearl",
+          "amount": 16
+        },
+        {
+          "id": "DraconicEvolution:teleporterStand"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "双足飞龙剑",
+      "description": "你逐渐发现这种物质的强大之处，就先制作一把剑试试水吧。",
+      "x": 155,
+      "y": 3,
+      "icon": {
+        "id": "DraconicEvolution:wyvernSword",
+        "nbt": "{Energy:1000000}"
+      },
+      "prerequisites": [
+        "飞龙在天"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一把双足飞龙剑",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:wyvernSword",
+                "nbt": "{Energy:0}"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "DraconicEvolution:safetyMatch",
+          "damage": 1000,
+          "amount": 16
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "龙之芯",
+      "description": "你将龙锭与一些贵金属混合，意外的制作出一种龙芯。",
+      "x": 84,
+      "y": 97,
+      "icon": {
+        "id": "DraconicEvolution:draconicCore"
+      },
+      "prerequisites": [
+        "龙力塑型"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作4枚龙芯",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:draconicCore"
+              },
+              "required": 4,
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "DraconicEvolution:rainSensor"
+        },
+        {
+          "id": "DraconicEvolution:draconiumBlend",
+          "amount": 6
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "飞龙弓",
+      "description": "你发现龙锭的韧性非常强，非常适合制作弓。",
+      "x": 154,
+      "y": 37,
+      "icon": {
+        "id": "DraconicEvolution:wyvernBow"
+      },
+      "prerequisites": [
+        "飞龙在天"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一把龙之弓",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:wyvernBow",
+                "nbt": "{mode:\"sharpshooter\"}"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "DraconicEvolution:draconicIngot",
+          "amount": 3
+        },
+        {
+          "id": "ThermalExpansion:Frame",
+          "damage": 3
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "双足飞龙之力",
+      "description": "你已经充分理解到了龙之力量的强大，你打算利用这种材料打造一套装甲，以武装到牙齿！ 我们的目标是！",
+      "x": 152,
+      "y": 71,
+      "icon": {
+        "id": "DraconicEvolution:wyvernChest",
+        "nbt": "{Energy:1000000}"
+      },
+      "prerequisites": [
+        "飞龙在天"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "收集以下物品",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:wyvernHelm",
+                "nbt": "{Energy:1000000}"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "DraconicEvolution:wyvernChest",
+                "nbt": "{Energy:1000000}"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "DraconicEvolution:wyvernLeggs",
+                "nbt": "{Energy:1000000}"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "DraconicEvolution:wyvernBoots",
+                "nbt": "{Energy:1000000}"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3,
+          "amount": 2
+        },
+        {
+          "id": "ThermalExpansion:capacitor",
+          "damage": 5,
+          "nbt": "{Energy:20000000}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "给龙块充能",
+      "description": "你发现，龙锭可以和能量产生惊人的反应，试图来制作一个龙块，给它充能。",
+      "x": 151,
+      "y": 137,
+      "icon": {
+        "id": "DraconicEvolution:draconium",
+        "damage": 2
+      },
+      "prerequisites": [
+        "充能！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一个充能龙块",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:draconium",
+                "damage": 2
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ThermalDynamics:ThermalDynamics_0",
+          "damage": 6,
+          "amount": 8
+        },
+        {
+          "id": "DraconicEvolution:draconicCore",
+          "amount": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "觉醒! 龙的力量！",
+      "description": "在杀死末影龙后，你剖下了龙的心脏，你发现龙心对于充能龙块的反应是十分强烈的，经过一段时间，终于研究出了觉醒仪式。           将一枚龙之心丢在地面，用一场爆炸激活，然后在附近放置充能龙块，最多4个，然后投掷龙芯 每充能1个龙块需要投掷4个龙芯。",
+      "x": 273,
+      "y": 136,
+      "icon": {
+        "id": "DraconicEvolution:draconicBlock"
+      },
+      "prerequisites": [
+        "给龙块充能"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "获取4充能龙块",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:draconicBlock"
+              },
+              "required": 4
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "DraconicEvolution:awakenedCore"
+        },
+        {
+          "id": "DraconicEvolution:sunDial"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "觉醒之力",
+      "description": "将觉醒龙之锭制作成工具武器，然后将它们集中起来制作成一根多功能的权杖！ 神器终铸！",
+      "x": 272,
+      "y": 38,
+      "icon": {
+        "id": "DraconicEvolution:draconicDistructionStaff",
+        "nbt": "{Energy:30000000}"
+      },
+      "prerequisites": [
+        "双足飞龙剑",
+        "飞龙弓",
+        "觉醒! 龙的力量！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作以下物品。",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:draconicDistructionStaff",
+                "nbt": "{Energy:30000000}"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "DraconicEvolution:draconicBlock"
+        },
+        {
+          "id": "ExtraUtilities:bedrockiumIngot",
+          "amount": 6
+        },
+        {
+          "id": "ExtraUtilities:divisionSigil",
+          "nbt": "{stable:1b}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "掌管天气",
+      "description": "你发现，龙尘具有非常多惊人的特性，制作一个气象控制器，利用绿宝石来切换天气！",
+      "x": 15,
+      "y": 63,
+      "icon": {
+        "id": "DraconicEvolution:weatherController"
+      },
+      "prerequisites": [
+        "龙之尘土"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作以下物品",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:weatherController"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:emerald_block"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "充能！",
+      "description": "你打算制作一个充能器，以供应日后的电力需求。",
+      "x": 116,
+      "y": 136,
+      "icon": {
+        "id": "DraconicEvolution:energyInfuser"
+      },
+      "prerequisites": [
+        "龙之芯"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一个能量注入器。",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:energyInfuser"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ThermalExpansion:capacitor",
+          "damage": 4,
+          "nbt": "{Energy:0}"
+        },
+        {
+          "id": "EnderIO:blockCapBank",
+          "damage": 2,
+          "amount": 4,
+          "nbt": "{type:\"ACTIVATED\",storedEnergyRF:0}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "通往终结的蛋糕",
+      "description": "你发现吃下末影珍珠可以沟通到终界,但是口感不敢恭维，把它制造成蛋糕，这样的话就可以去终界了。",
+      "x": 153,
+      "y": 104,
+      "icon": {
+        "id": "exastrisrebirth:blockEndCake"
+      },
+      "prerequisites": [
+        "飞龙在天"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": " 制作末影蛋糕",
+          "items": [
+            {
+              "item": {
+                "id": "exastrisrebirth:blockEndCake"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:ender_eye",
+          "amount": 16
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "最终的装甲",
+      "description": "经历了重重磨难，与各种怪物斗智斗勇，你终于艰难的存活了下来，现在！ 你拥有用不完的材料，厌倦了与怪物战斗的你，打算制作出最强的护具。",
+      "x": 239,
+      "y": 74,
+      "icon": {
+        "id": "DraconicEvolution:draconicHelm",
+        "nbt": "{Energy:10000000}"
+      },
+      "prerequisites": [
+        "觉醒! 龙的力量！",
+        "双足飞龙之力"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作以下物品",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:draconicHelm",
+                "nbt": "{Energy:10000000}"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "DraconicEvolution:draconicChest",
+                "nbt": "{Energy:10000000}"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "DraconicEvolution:draconicLeggs",
+                "nbt": "{Energy:10000000}"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "DraconicEvolution:draconicBoots",
+                "nbt": "{Energy:10000000}"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "chisel:cloudinabottle",
+          "amount": 2
+        },
+        {
+          "id": "ThermalExpansion:Tesseract",
+          "amount": 3,
+          "nbt": "{RSControl:1b,ModeEnergy:1b,ModeItems:1b,Frequency:-1,ModeFluid:1b}"
+        },
+        {
+          "id": "EnderIO:blockCapBank",
+          "damage": 3,
+          "amount": 6,
+          "nbt": "{type:\"VIBRANT\",storedEnergyRF:0}"
+        },
+        {
+          "id": "appliedenergistics2:item.ItemMultiMaterial",
+          "damage": 38
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "决战！ 世界最强者！",
+      "description": "在终末之地坐标10000的混沌之地，徘徊着一种至强的混沌魔龙，由于万亿年长期被暗能量所吞噬，已经丧失了心智，长期放任不管会对于水星或是整个世界都有严重的威胁。",
+      "x": 194,
+      "y": 102,
+      "bigicon": true,
+      "icon": {
+        "id": "DraconicEvolution:chaosShard"
+      },
+      "prerequisites": [
+        "通往终结的蛋糕"
+      ],
+      "tasks": [
+        {
+          "type": "KILL",
+          "longDescription": "在末地东西南北任意一面前进 10000米 或是 20000米，即可到达混沌之地，在哪里杀掉混沌魔龙",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "DraconicEvolution:chaoticCore"
+              },
+              "mob": "DraconicEvolution.ChaosGuardian",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "杀掉混沌魔龙后，在混沌岛中层挖掉混沌水晶，获取后得赶紧离开！！",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:chaosShard"
+              },
+              "required": 3
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "DraconicEvolution:chaoticCore",
+          "amount": 3
+        },
+        {
+          "id": "ExtraUtilities:generator.8",
+          "damage": 11
+        },
+        {
+          "id": "ThermalDynamics:ThermalDynamics_0",
+          "damage": 6,
+          "amount": 64
+        },
+        {
+          "id": "minecraft:red_flower"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "飞龙在天",
+      "description": "意外！全都是意外！你继续将龙锭与龙芯混合，在月黑风高的夜晚，你打算用下界之星来帮你的实验照明，结果他们合成了新的龙芯！",
+      "x": 116,
+      "y": 59,
+      "icon": {
+        "id": "DraconicEvolution:wyvernCore"
+      },
+      "prerequisites": [
+        "龙之芯"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "longDescription": "制作4枚双足飞龙核心",
+          "items": [
+            {
+              "item": {
+                "id": "DraconicEvolution:wyvernCore"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "DraconicEvolution:draconium",
+          "damage": 1
+        },
+        {
+          "id": "DraconicEvolution:earth"
+        }
+      ],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}

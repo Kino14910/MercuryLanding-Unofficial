@@ -1,0 +1,138 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -4609676711176221144,
+      "questIDLow:4": -9191618292373623252
+    },
+    "1:10": {
+      "questIDHigh:4": -7730462069641032711,
+      "questIDLow:4": -6377526324772890291
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "你不想回到以前那段浑浑噩噩的日子了，你现在已经丰衣足食，甚至谈得上了奢华，看着家里不停运转的机器，你感觉这一切都是那么美好。",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "ExtraUtilities:chandelier"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "老子不回去了！！！",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -2622778646222584158,
+  "questIDLow:4": -5351826686779318077,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "appliedenergistics2:item.ItemAdvancedStorageCell.4096k",
+          "tag:10": {}
+        },
+        "1:10": {
+          "Count:3": 3,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ExtraUtilities:block_bedrockium"
+        },
+        "2:10": {
+          "Count:3": 3,
+          "Damage:2": 4,
+          "OreDict:8": "",
+          "id:8": "ThermalExpansion:Cell",
+          "tag:10": {
+            "Energy:3": 0,
+            "Facing:1": 3,
+            "RSControl:1": 1,
+            "Recv:3": 32000,
+            "Send:3": 32000,
+            "SideCache:7": [
+              1,
+              2,
+              2,
+              2,
+              2,
+              2
+            ]
+          }
+        },
+        "3:10": {
+          "Count:3": 3,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ThermalExpansion:Tesseract",
+          "tag:10": {
+            "Frequency:3": -1,
+            "ModeEnergy:1": 1,
+            "ModeFluid:1": 1,
+            "ModeItems:1": 1,
+            "RSControl:1": 1
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 64,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:gold_block"
+        },
+        "1:10": {
+          "Count:3": 64,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:iron_block"
+        },
+        "2:10": {
+          "Count:3": 64,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ThermalFoundation:Storage"
+        },
+        "3:10": {
+          "Count:3": 64,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "ThermalFoundation:Storage"
+        },
+        "4:10": {
+          "Count:3": 64,
+          "Damage:2": 2,
+          "OreDict:8": "",
+          "id:8": "ThermalFoundation:Storage"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

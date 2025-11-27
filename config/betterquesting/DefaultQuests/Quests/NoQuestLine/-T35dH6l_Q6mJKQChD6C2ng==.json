@@ -1,0 +1,93 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -2758830324080816734,
+      "questIDLow:4": -6345376421862529644
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "使用左轮手枪英勇杀敌曾经是你儿时梦想，而身在这种困境中，为何不尝试使用它呢？",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "ImmersiveEngineering:revolver",
+        "tag:10": {
+          "Inv:11": []
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "让你们高兴高兴！~",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 5728118166630908841,
+  "questIDLow:4": -8563312524716362082,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 16,
+          "Damage:2": 5,
+          "OreDict:8": "",
+          "id:8": "ImmersiveEngineering:bullet"
+        },
+        "1:10": {
+          "Count:3": 16,
+          "Damage:2": 3,
+          "OreDict:8": "",
+          "id:8": "ImmersiveEngineering:bullet"
+        },
+        "2:10": {
+          "Count:3": 16,
+          "Damage:2": 2,
+          "OreDict:8": "",
+          "id:8": "ImmersiveEngineering:bullet"
+        },
+        "3:10": {
+          "Count:3": 16,
+          "Damage:2": 9,
+          "OreDict:8": "",
+          "id:8": "ImmersiveEngineering:bullet"
+        }
+      },
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ImmersiveEngineering:revolver",
+          "tag:10": {
+            "Inv:11": []
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 7200696429555369839,
+      "questIDLow:4": -9019573661804532760
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "你想到要作为一个大亨，就要全方位发展，你开始着手你的宏图大计！",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "OreDict:8": "",
+        "id:8": "BiblioCraft:item.BiblioGlasses"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "牧！ 场！ 大！ 亨！",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 9175904330107865416,
+  "questIDLow:4": -6889860903745536679,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ExtraUtilities:ethericsword"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "OreDict:8": "",
+          "id:8": "ExtraUtilities:watering_can"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ExtraUtilities:divisionSigil",
+          "tag:10": {
+            "damage:3": 256
+          }
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "ExtraUtilities:drum"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 256,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:fish"
+        },
+        "1:10": {
+          "Count:3": 256,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:apple"
+        },
+        "2:10": {
+          "Count:3": 256,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:beef"
+        },
+        "3:10": {
+          "Count:3": 256,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:wool"
+        },
+        "4:10": {
+          "Count:3": 256,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:porkchop"
+        },
+        "5:10": {
+          "Count:3": 128,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:dye"
+        },
+        "6:10": {
+          "Count:3": 256,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:reeds"
+        },
+        "7:10": {
+          "Count:3": 256,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:wheat"
+        },
+        "8:10": {
+          "Count:3": 256,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:potato"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

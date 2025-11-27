@@ -1,0 +1,77 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -8894199764637891624,
+      "questIDLow:4": -4950604306128495014
+    },
+    "1:10": {
+      "questIDHigh:4": -7710967302518520456,
+      "questIDLow:4": -8583937794756770671
+    },
+    "2:10": {
+      "questIDHigh:4": -661786619821012134,
+      "questIDLow:4": -4935919886043804435
+    },
+    "3:10": {
+      "questIDHigh:4": -1499470255186164183,
+      "questIDLow:4": -7934871339523307093
+    },
+    "4:10": {
+      "questIDHigh:4": -8020606660436605688,
+      "questIDLow:4": -4997046987345321996
+    },
+    "5:10": {
+      "questIDHigh:4": 3510285849898795884,
+      "questIDLow:4": -4903550931430161131
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "你成功的抵挡住了一波又一波的怪物(可怜的狗狗)，相信你现在已经能自信的生存下去了！",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "DraconicEvolution:draconicSword",
+        "tag:10": {
+          "Energy:3": 10000000
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "怪物粉碎者",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 3967994585831853467,
+  "questIDLow:4": -6857329849299089799,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "DraconicEvolution:draconicSword",
+          "tag:10": {
+            "Energy:3": 10000000
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {}
+}

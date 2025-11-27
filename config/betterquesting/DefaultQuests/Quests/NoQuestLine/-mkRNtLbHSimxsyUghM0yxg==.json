@@ -1,0 +1,112 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -7164189417194305201,
+      "questIDLow:4": -6385921710990796693
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "充满野心的你准备再次进一步扩充你的刷怪塔。",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "ExtraUtilities:spike_base_diamond"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "旋转吧！ 刷怪塔！",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -7330648854896358871,
+  "questIDLow:4": -5642125086567877946,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 6,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ExtraUtilities:spike_base_diamond"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "HardcoreQuesting:hqmInvalidItem",
+            "orig_meta:3": 0
+          }
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 100,
+          "OreDict:8": "",
+          "id:8": "Mekanism:EnergyCube",
+          "tag:10": {
+            "tier:8": "Advanced"
+          }
+        },
+        "3:10": {
+          "Count:3": 26,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "OpenBlocks:fan"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 512,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:rotten_flesh"
+        },
+        "1:10": {
+          "Count:3": 512,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:bone"
+        },
+        "2:10": {
+          "Count:3": 512,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:gunpowder"
+        },
+        "3:10": {
+          "Count:3": 512,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:spider_eye"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

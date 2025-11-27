@@ -1,0 +1,50 @@
+{
+  "preRequisites:9": {},
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "游玩前先检查自己的输入法是否已经切换为英文，打开此任务的快捷键为`，位置在键盘左上角，esc下。方tab上方，1的左边，形状是一个波浪。\n\n首先需要对飞船有一个大概的了解：\n\n飞船两翼有供飞船飞行的燃料，在那里可以获得§c熔岩§r。船长读书室的门口两个白块是电梯，使用方法为跳跃键上升，蹲下键下降，如果你没有修改mc的默认移动方式，则是空格键上升，Shift下降。\n\n飞船下方有灯和传送门中的§b炮塔§r，船长读书室内有各个模组的使用教程。你可以把他们全部放到阿卡什宝典中。\n\n飞船中央有一把§5狙击枪§r，一个§9扳手§r和两本备用任务书，保险箱里有一些初始的武器和防具。电梯旁边有两个传送枪，你会发现右边那个上面有土豆§mGLaDOS§r的，可能拿不下来，这时需要左键打几下。\n\n飞船上方有装在炮台和子弹的保险箱，以及第一个任务物品。仔细观察飞船可以拆下一些可以使用的AE物品。§m明明任务剧情里说是外星科技，结果自己飞船上都一直在用。§r",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:writable_book"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "新手入门",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -2383151388240622834,
+  "questIDLow:4": -6570048720698783853,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ThermalExpansion:wrench"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

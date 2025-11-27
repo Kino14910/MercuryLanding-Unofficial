@@ -1,0 +1,89 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -6327033186423977379,
+      "questIDLow:4": -6771080992012416803
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "在研究末影人和末影珍珠后，你忽然想到一种传输物体能量液体的方案，在三维空间构筑一个四维空间的入口，并用高强度材料加固，于是你有了跨世界传输的方案了！",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "ThermalExpansion:Tesseract",
+        "tag:10": {
+          "Frequency:3": -1,
+          "ModeEnergy:1": 1,
+          "ModeFluid:1": 1,
+          "ModeItems:1": 1,
+          "RSControl:1": 1
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "跨维传输",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 5856826976272140188,
+  "questIDLow:4": -9132496082150391435,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 6,
+          "Damage:2": 76,
+          "OreDict:8": "",
+          "id:8": "ThermalFoundation:material"
+        },
+        "1:10": {
+          "Count:3": 2,
+          "Damage:2": 2,
+          "OreDict:8": "",
+          "id:8": "EnderIO:itemBasicCapacitor"
+        }
+      },
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ThermalExpansion:Tesseract",
+          "tag:10": {
+            "Frequency:3": -1,
+            "ModeEnergy:1": 1,
+            "ModeFluid:1": 1,
+            "ModeItems:1": 1,
+            "RSControl:1": 1
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

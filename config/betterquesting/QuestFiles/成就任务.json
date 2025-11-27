@@ -1,0 +1,967 @@
+{
+  "name": "成就任务",
+  "description": "衣食无忧之后再考虑这个~！",
+  "quests": [
+    {
+      "name": "压缩圆石！",
+      "description": "制作一枚压缩圆石",
+      "x": 31,
+      "y": 11,
+      "icon": {
+        "id": "ExtraUtilities:cobblestone_compressed"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": ".",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:cobblestone_compressed"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "TConstruct:creativeModifier",
+          "nbt": "{TargetLock:\"Shovel\"}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "二重压缩圆石",
+      "description": "制作一枚二重压缩圆石",
+      "x": 32,
+      "y": 40,
+      "icon": {
+        "id": "ExtraUtilities:cobblestone_compressed",
+        "damage": 1
+      },
+      "prerequisites": [
+        "压缩圆石！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": ".",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:cobblestone_compressed",
+                "damage": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "TConstruct:creativeModifier",
+          "nbt": "{TargetLock:\"Hatchet\"}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "三重压缩圆石",
+      "description": "制作一枚三重压缩圆石",
+      "x": 33,
+      "y": 69,
+      "icon": {
+        "id": "ExtraUtilities:cobblestone_compressed",
+        "damage": 2
+      },
+      "prerequisites": [
+        "二重压缩圆石"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": ".",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:cobblestone_compressed",
+                "damage": 2
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "TConstruct:creativeModifier",
+          "amount": 2,
+          "nbt": "{TargetLock:\"LumberAxe\"}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "四重压缩圆石",
+      "description": "制作一枚四重压缩圆石",
+      "x": 34,
+      "y": 98,
+      "icon": {
+        "id": "ExtraUtilities:cobblestone_compressed",
+        "damage": 3
+      },
+      "prerequisites": [
+        "三重压缩圆石"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": ".",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:cobblestone_compressed",
+                "damage": 3
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "TConstruct:creativeModifier",
+          "amount": 3,
+          "nbt": "{TargetLock:\"LumberAxe\"}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "五重压缩圆石",
+      "description": "制作一枚五重压缩圆石",
+      "x": 35,
+      "y": 128,
+      "icon": {
+        "id": "ExtraUtilities:cobblestone_compressed",
+        "damage": 4
+      },
+      "prerequisites": [
+        "四重压缩圆石"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": ".",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:cobblestone_compressed",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "TConstruct:creativeModifier",
+          "amount": 4,
+          "nbt": "{TargetLock:\"Longsword\"}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "六重压缩圆石",
+      "description": "制作一枚六重压缩圆石",
+      "x": 35,
+      "y": 157,
+      "icon": {
+        "id": "ExtraUtilities:cobblestone_compressed",
+        "damage": 5
+      },
+      "prerequisites": [
+        "五重压缩圆石"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": ".",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:cobblestone_compressed",
+                "damage": 5
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "TConstruct:creativeModifier",
+          "amount": 5
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "手捏基岩",
+      "description": "经历了重重困难，你已经造出了基岩。",
+      "x": 35,
+      "y": 187,
+      "icon": {
+        "id": "ExtraUtilities:block_bedrockium"
+      },
+      "prerequisites": [
+        "六重压缩圆石"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "现在你已经站在了科技树的顶端，看看你充满科技感的家，很美..对吗？",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:block_bedrockium"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:written_book",
+          "nbt": "{pages:[0:\"最好的东西，不是你现在脚下踩着的这片土地么，狼狈的从飞船内爬出，直到你现在的成就，你的每一份努力，每一份汗水造就了你现在舒适温馨的家，这就是整个水星迫降里面，最好的东西~❉\"],author:\"Meon\",title:\"最好的东西\"}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "轻易的狗die",
+      "description": "杀死30只狗",
+      "x": 169,
+      "y": 87,
+      "icon": {
+        "id": "minecraft:bone"
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "description": "Killing task",
+          "longDescription": "杀掉30只狗狗后完成",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "minecraft:bone"
+              },
+              "mob": "Wolf",
+              "kills": 30,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "OpenBlocks:trophy",
+          "nbt": "{RepairCost:2,display:{Name:\"狗-奖杯\"},entity:\"Wolf\"}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "我们吃掉了僵尸的脑子�",
+      "description": "杀死200只僵尸",
+      "x": 219,
+      "y": 86,
+      "icon": {
+        "id": "minecraft:skull",
+        "damage": 2
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "description": "Killing task",
+          "longDescription": "杀死200只僵尸",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "minecraft:skull",
+                "damage": 2
+              },
+              "mob": "Zombie",
+              "kills": 200,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "OpenBlocks:trophy",
+          "nbt": "{RepairCost:2,display:{Name:\"战利品-僵尸\"},entity:\"Zombie\"}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "NMZL",
+      "description": "杀死200只苦力怕",
+      "x": 244,
+      "y": 86,
+      "icon": {
+        "id": "minecraft:skull",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "description": "Killing task",
+          "longDescription": ".",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "minecraft:skull",
+                "damage": 4
+              },
+              "mob": "Creeper",
+              "kills": 200,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "OpenBlocks:trophy",
+          "nbt": "{entity:\"Creeper\"}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "粉碎老骨头计划！",
+      "description": "杀掉200只骷髅",
+      "x": 269,
+      "y": 86,
+      "icon": {
+        "id": "minecraft:skull"
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "description": "Killing task",
+          "longDescription": "顺带可以喂狗 w",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "minecraft:skull"
+              },
+              "mob": "Skeleton",
+              "kills": 200,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "OpenBlocks:trophy",
+          "nbt": "{RepairCost:2,display:{Name:\"战利品-骷髅\"},entity:\"Skeleton\"}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "咦！~",
+      "description": "杀死200只蜘蛛",
+      "x": 294,
+      "y": 86,
+      "icon": {
+        "id": "minecraft:spider_eye"
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "description": "Killing task",
+          "longDescription": ".",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "minecraft:spider_eye"
+              },
+              "mob": "Spider",
+              "kills": 200,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "OpenBlocks:trophy",
+          "nbt": "{RepairCost:2,display:{Name:\"战利品-蜘蛛\"},entity:\"Spider\"}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "替小黑洗澡",
+      "description": "\u003dW\u003d 杀死100只小黑。",
+      "x": 194,
+      "y": 87,
+      "icon": {
+        "id": "IguanaTweaksTConstruct:skullItem"
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "description": "Killing task",
+          "longDescription": ".",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "IguanaTweaksTConstruct:skullItem"
+              },
+              "mob": "Enderman",
+              "kills": 100,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "OpenBlocks:trophy",
+          "nbt": "{RepairCost:2,display:{Name:\"战利品-末影人\"},entity:\"Enderman\"}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "怪物粉碎者",
+      "description": "你成功的抵挡住了一波又一波的怪物(可怜的狗狗)，相信你现在已经能自信的生存下去了！",
+      "x": 232,
+      "y": 122,
+      "icon": {
+        "id": "DraconicEvolution:draconicSword",
+        "nbt": "{Energy:10000000}"
+      },
+      "prerequisites": [
+        "轻易的狗die",
+        "替小黑洗澡",
+        "我们吃掉了僵尸的脑子�",
+        "NMZL",
+        "粉碎老骨头计划！",
+        "咦！~"
+      ],
+      "reward": [
+        {
+          "id": "DraconicEvolution:draconicSword",
+          "nbt": "{Energy:10000000}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "猪的克星！",
+      "description": "我与你什么仇什么怨！",
+      "x": 232,
+      "y": 162,
+      "icon": {
+        "id": "TConstruct:frypan",
+        "nbt": "{InfiTool:{BaseDurability:21474836,ExtraAttack:107602820,BaseAttack:5,ToolEXP:0L,Built:1b,Effect1:7,ExtraSmite:26235642,HarvestLevel:3,RenderHead:2,ModDurability:0.0f,Shoddy:0.0f,RenderHandle:16,MiningSpeed:21474836,Special:1b,Unbreaking:2,Damage:0,BonusDurability:0,TotalDurability:21474836,Necrotic:21474836,Head:2,Attack:21474836,Handle:16,Broken:0b,Blaze:[21474836,0,0,],ToolLevel:1,Modifiers:0},display:{Name:\"§f猪的克星\"}}"
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "description": "Killing task",
+          "longDescription": "杀死65535只猪。",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "TConstruct:frypan",
+                "nbt": "{InfiTool:{BaseDurability:21474836,Head:2,BaseAttack:5,ToolEXP:0L,Built:1b,Effect1:7,HarvestLevel:3,Attack:21474836,RenderHead:2,ModDurability:0.0f,Handle:16,Broken:0b,Shoddy:0.0f,RenderHandle:16,MiningSpeed:21474836,Blaze:[21474836,0,0,],ToolLevel:1,Special:1b,Unbreaking:2,Damage:0,BonusDurability:0,TotalDurability:21474836,Modifiers:0,Necrotic:21474836},display:{Name:\"§f猪的克星\"}}"
+              },
+              "mob": "Pig",
+              "kills": 65535,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "TConstruct:frypan",
+          "nbt": "{InfiTool:{BaseDurability:21474836,ExtraAttack:107602820,BaseAttack:5,ToolEXP:0L,Built:1b,Effect1:7,ExtraSmite:26235642,HarvestLevel:3,RenderHead:2,ModDurability:0.0f,Shoddy:0.0f,RenderHandle:16,MiningSpeed:21474836,Special:1b,Unbreaking:2,Damage:0,BonusDurability:0,TotalDurability:21474836,Necrotic:21474836,Head:2,Attack:21474836,Handle:16,Broken:0b,Blaze:[21474836,0,0,],ToolLevel:1,Modifiers:0},display:{Name:\"§f猪的克星\"}}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "幸运方块任务",
+      "description": "这条任务链奖励都是幸运方块，注意一定要在空旷区域使用，以免造成不必要的损失。",
+      "x": 113,
+      "y": 13,
+      "icon": {
+        "id": "lucky:lucky_block"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "获得一个橡木木板",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:planks"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "lucky:lucky_block"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "生存者发电机LV:1",
+      "description": "制作一台生存者发电机",
+      "x": 85,
+      "y": 44,
+      "icon": {
+        "id": "ExtraUtilities:generator"
+      },
+      "prerequisites": [
+        "幸运方块任务"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "背包内拥有1台生存者发电机",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "lucky:lucky_block",
+          "amount": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "太阳能发电机Lv:1",
+      "description": "制作一台太阳能发电机",
+      "x": 113,
+      "y": 45,
+      "icon": {
+        "id": "ExtraUtilities:generator",
+        "damage": 7
+      },
+      "prerequisites": [
+        "幸运方块任务"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "背包内拥有一台太阳能发电机",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator",
+                "damage": 7
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "lucky:lucky_block",
+          "amount": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "岩浆发电机Lv:1",
+      "description": "制作一台岩浆发电机",
+      "x": 141,
+      "y": 45,
+      "icon": {
+        "id": "ExtraUtilities:generator",
+        "damage": 2
+      },
+      "prerequisites": [
+        "幸运方块任务"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "背包内拥有一台岩浆发电机",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator",
+                "damage": 2
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "lucky:lucky_block",
+          "amount": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "生存者发电机Lv:2",
+      "description": "制作一台8x生存者发电机",
+      "x": 85,
+      "y": 74,
+      "icon": {
+        "id": "ExtraUtilities:generator.8"
+      },
+      "prerequisites": [
+        "生存者发电机LV:1"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "背包内拥有一台8x生存者发电机",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator.8"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "lucky:lucky_block",
+          "amount": 16
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "太阳能发电机Lv:2",
+      "description": "制作一台8x太阳能发电机",
+      "x": 113,
+      "y": 74,
+      "icon": {
+        "id": "ExtraUtilities:generator.8",
+        "damage": 7
+      },
+      "prerequisites": [
+        "太阳能发电机Lv:1"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "背包内拥有一台8x太阳能发电机",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator.8",
+                "damage": 7
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "lucky:lucky_block",
+          "amount": 16
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "岩浆发电机Lv:2",
+      "description": "制作一台8x岩浆发电机",
+      "x": 140,
+      "y": 75,
+      "icon": {
+        "id": "ExtraUtilities:generator.8",
+        "damage": 2
+      },
+      "prerequisites": [
+        "岩浆发电机Lv:1"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "背包内拥有一台8x岩浆发电机",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator.8",
+                "damage": 2
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "lucky:lucky_block",
+          "amount": 16
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "生存者发电机Lv:3",
+      "description": "制作一台64x生存者发电机",
+      "x": 84,
+      "y": 104,
+      "icon": {
+        "id": "ExtraUtilities:generator.64"
+      },
+      "prerequisites": [
+        "生存者发电机Lv:2"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "背包内拥有一台64x生存者发电机",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator.64"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "lucky:lucky_block",
+          "amount": 32
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "太阳能发电机Lv:3",
+      "description": "制作一台64x太阳能发电机",
+      "x": 113,
+      "y": 105,
+      "icon": {
+        "id": "ExtraUtilities:generator.64",
+        "damage": 7
+      },
+      "prerequisites": [
+        "太阳能发电机Lv:2"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "背包内拥有一台64x太阳能发电机",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator.64",
+                "damage": 7
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "lucky:lucky_block",
+          "amount": 32
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "岩浆发电机Lv:3",
+      "description": "制作一台64x岩浆发电机",
+      "x": 140,
+      "y": 105,
+      "icon": {
+        "id": "ExtraUtilities:generator.64",
+        "damage": 2
+      },
+      "prerequisites": [
+        "岩浆发电机Lv:2"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "背包内拥有一台64x岩浆发电机",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator.64",
+                "damage": 2
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "lucky:lucky_block",
+          "amount": 16
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "前置任务 [自动筛子]",
+      "description": "在筛石头的时候，你发现有几率能够筛出精华莓，这奇怪的植物尝起来有种苦力怕的味道(吃过苦力怕？)",
+      "x": 282,
+      "y": 10,
+      "bigicon": true,
+      "icon": {
+        "id": "TConstruct:oreBerries",
+        "damage": 5
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "收集128个精华莓",
+          "items": [
+            {
+              "item": {
+                "id": "TConstruct:oreBerries",
+                "damage": 5
+              },
+              "required": 128
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ThermalExpansion:Device",
+          "damage": 2,
+          "amount": 8,
+          "nbt": "{RSControl:0b,Facing:3b,Energy:0,SideCache:[0:\"6 bytes\"],Augments:[0:{Slot:1,id:4374s,Count:1b,Damage:32s},1:{Slot:2,id:4374s,Count:1b,Damage:16s}]}"
+        },
+        {
+          "id": "DraconicEvolution:draconiumDust",
+          "amount": 32
+        },
+        {
+          "id": "ThermalDynamics:ThermalDynamics_0",
+          "damage": 6,
+          "amount": 8
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "讨伐！ 末影之龙",
+      "description": "在奇特的终结之地，你发现一种强大的生物，它不间断的汲取着黑曜石的能量而强大自身，如果不及时清理的话，可能会被混沌所吞噬，所丧失心智，后果不堪设想，我必须赶紧清除它。",
+      "x": 201,
+      "y": 10,
+      "bigicon": true,
+      "icon": {
+        "id": "minecraft:dragon_egg"
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "minecraft:dragon_egg"
+              },
+              "mob": "EnderDragon",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ThermalExpansion:Tesseract",
+          "nbt": "{RSControl:1b,ModeEnergy:1b,ModeItems:1b,Frequency:-1,ModeFluid:1b}"
+        },
+        {
+          "id": "minecraft:nether_star"
+        },
+        {
+          "id": "TConstruct:heartCanister",
+          "damage": 2,
+          "amount": 4
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "蛋糕是个谎言！！！",
+      "description": "Cake is a lie!!! 使用传送枪对准地球射出其中一个传送门之后再进入另一个传送门就可以到GLaDOS的实验室。THAT WAS A JOKE. HAHA, FAT CHANCE. Anyway, this cake is great.It\u0027s so delicious and moist.",
+      "x": 243,
+      "y": 10,
+      "bigicon": true,
+      "icon": {
+        "id": "minecraft:cake"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": ".",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:cake"
+              }
+            }
+          ]
+        }
+      ],
+      "commandrewards": [
+        "/summon lmreengaged:littlemaid ~ ~1 ~"
+      ]
+    }
+  ],
+  "reputationBar": []
+}

@@ -14,11 +14,11 @@
   "throw_all_same": [
     56
   ],
-  "throw_all": [
-    57
-  ],
   "move_single_empty": [
     -99,
     29
+  ],
+  "throw_all": [
+    57
   ]
 }

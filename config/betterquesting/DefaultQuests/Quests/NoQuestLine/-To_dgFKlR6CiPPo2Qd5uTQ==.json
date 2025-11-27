@@ -1,0 +1,94 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -7139128278271375110,
+      "questIDLow:4": -7000717114710781097
+    },
+    "1:10": {
+      "questIDHigh:4": 7172631210814816867,
+      "questIDLow:4": -5420925524276290882
+    },
+    "2:10": {
+      "questIDHigh:4": 1525918590099670730,
+      "questIDLow:4": -4883635033771496693
+    },
+    "3:10": {
+      "questIDHigh:4": 7844290882613821751,
+      "questIDLow:4": -7616020366133674225
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "使用匠魂冶金炉是很效率，但是你感觉过于麻烦，于是你打算用机器来处理这些事情。",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "EnderIO:blockSagMill"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "增产",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 5660986799840118688,
+  "questIDLow:4": -6756250230022312371,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 6,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:iron_ore"
+        },
+        "1:10": {
+          "Count:3": 6,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "ThermalFoundation:Ore"
+        },
+        "2:10": {
+          "Count:3": 6,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "ThermalFoundation:Ore"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "allowAnvil:1": 0,
+      "allowCraft:1": 1,
+      "allowCraftedFromStatistics:1": 0,
+      "allowSmelt:1": 1,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "EnderIO:blockSagMill"
+        }
+      },
+      "taskID:8": "bq_standard:crafting"
+    }
+  }
+}

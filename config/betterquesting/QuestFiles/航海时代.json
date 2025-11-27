@@ -1,0 +1,128 @@
+{
+  "name": "航海时代",
+  "description": "我得造些坚固的船只以支撑我的水星探险。",
+  "quests": [
+    {
+      "name": "改良船只",
+      "description": "我已受够了脆弱而难以操作的小船了，我现在需要一个更坚固，更灵活的帆船，嗯，还得放个箱子存放我的战利品。",
+      "x": 31,
+      "y": 22,
+      "icon": {
+        "id": "punt:item.punt"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "制作一艘平底船。",
+          "items": [
+            {
+              "item": {
+                "id": "punt:item.punt"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "PortalGun:RecordStillAlive"
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:wool",
+          "amount": 6
+        },
+        {
+          "id": "harvestcraft:tomatoItem",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "name": "白鸟号！",
+      "description": "你意识到自己的制船天赋，在材料富余的情况下发挥自己的想象力，制作一艘你想象中的白鸟号吧~！",
+      "x": 16,
+      "y": 88,
+      "icon": {
+        "id": "whitehall:item.whitehall"
+      },
+      "prerequisites": [
+        "改良船只"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "制作一艘白鸟号",
+          "items": [
+            {
+              "item": {
+                "id": "whitehall:item.whitehall"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "PortalGun:RecordRadioLoop"
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:wool",
+          "amount": 12
+        },
+        {
+          "id": "minecraft:jukebox"
+        },
+        {
+          "id": "ExtraUtilities:filing"
+        }
+      ]
+    },
+    {
+      "name": "霍伊号",
+      "description": "望着无边无际的水星，你开始感觉白鸟号也不能满足于你了，是时候开始建造一艘巨大的帆船了~！ ",
+      "x": 48,
+      "y": 141,
+      "icon": {
+        "id": "hoy:item.hoy"
+      },
+      "prerequisites": [
+        "白鸟号！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "制作一艘霍伊号",
+          "items": [
+            {
+              "item": {
+                "id": "hoy:item.hoy"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "PortalGun:RecordWantYouGone"
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "ExtraUtilities:magnumTorch"
+        },
+        {
+          "id": "ExtraUtilities:filing",
+          "damage": 1
+        }
+      ]
+    }
+  ],
+  "reputationBar": []
+}

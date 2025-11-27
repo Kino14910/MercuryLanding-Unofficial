@@ -1,0 +1,126 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 8014047607009790802,
+      "questIDLow:4": -5823135550547583617
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "是时候做一把趁手的武器了",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "TConstruct:broadsword",
+        "tag:10": {
+          "InfiTool:10": {
+            "Accessory:3": 5,
+            "Attack:3": 5,
+            "BaseDurability:3": 240,
+            "BonusDurability:3": 0,
+            "Broken:1": 0,
+            "Built:1": 1,
+            "Damage:3": 0,
+            "Handle:3": 5,
+            "HarvestLevel:3": 1,
+            "Head:3": 5,
+            "MiningSpeed:3": 400,
+            "ModDurability:5": 0.0,
+            "Modifiers:3": 3,
+            "RenderAccessory:3": 5,
+            "RenderHandle:3": 5,
+            "RenderHead:3": 5,
+            "Shoddy:5": 0.0,
+            "TotalDurability:3": 240,
+            "Unbreaking:3": 0
+          },
+          "display:10": {
+            "Name:8": "§f骨头 大剑"
+          }
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "我想我现在可以反击了！",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 6899961826842920827,
+  "questIDLow:4": -5651578990000702472,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 3,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "lucky:lucky_block"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "punt:item.punt"
+        }
+      }
+    },
+    "1:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 6,
+          "OreDict:8": "",
+          "id:8": "TConstruct:handGuard"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 1000,
+          "OreDict:8": "",
+          "id:8": "TConstruct:handGuard"
+        }
+      },
+      "ignoreDisabled:1": 0,
+      "index:3": 1,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:stick"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "OreDict:8": "",
+          "id:8": "TConstruct:swordBlade"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

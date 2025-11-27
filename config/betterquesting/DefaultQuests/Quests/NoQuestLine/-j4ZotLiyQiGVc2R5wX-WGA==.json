@@ -1,0 +1,193 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 390052793389305680,
+      "questIDLow:4": -7557246736949115162
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "我需要给即将变成腹中物的鱼准备一个家，以彰显人道主义精神√",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "OreDict:8": "",
+        "id:8": "Mariculture:tanks"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "小鱼的家",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -8104675354004536799,
+  "questIDLow:4": -7677682465636379112,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "Mariculture:tanks"
+        }
+      }
+    },
+    "1:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 16,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Mariculture:fishy",
+          "tag:10": {
+            "AreaOfEffectDOWN:3": 0,
+            "AreaOfEffectEAST:3": 0,
+            "AreaOfEffectNORTH:3": 0,
+            "AreaOfEffectSOUTH:3": 0,
+            "AreaOfEffectUP:3": 0,
+            "AreaOfEffectWEST:3": 0,
+            "CurrentLife:3": 12000,
+            "Fertility:3": 3,
+            "FoodUsage:3": 3,
+            "Gender:3": 0,
+            "Lifespan:3": 12000,
+            "SalinityTolerance:3": 1,
+            "SpeciesID:3": 3,
+            "TemperatureTolerance:3": 16,
+            "WaterRequired:3": 115,
+            "WorkEthic:3": 1,
+            "lowerAreaOfEffectDOWN:3": 0,
+            "lowerAreaOfEffectEAST:3": 0,
+            "lowerAreaOfEffectNORTH:3": 0,
+            "lowerAreaOfEffectSOUTH:3": 0,
+            "lowerAreaOfEffectUP:3": 0,
+            "lowerAreaOfEffectWEST:3": 0,
+            "lowerFertility:3": 3,
+            "lowerFoodUsage:3": 3,
+            "lowerGender:3": 0,
+            "lowerLifespan:3": 12000,
+            "lowerSalinityTolerance:3": 1,
+            "lowerSpeciesID:3": 3,
+            "lowerTemperatureTolerance:3": 16,
+            "lowerWaterRequired:3": 115,
+            "lowerWorkEthic:3": 1
+          }
+        },
+        "1:10": {
+          "Count:3": 16,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Mariculture:fishy",
+          "tag:10": {
+            "AreaOfEffectDOWN:3": 0,
+            "AreaOfEffectEAST:3": 0,
+            "AreaOfEffectNORTH:3": 0,
+            "AreaOfEffectSOUTH:3": 0,
+            "AreaOfEffectUP:3": 0,
+            "AreaOfEffectWEST:3": 0,
+            "CurrentLife:3": 24000,
+            "Fertility:3": 450,
+            "FoodUsage:3": 3,
+            "Gender:3": 1,
+            "Lifespan:3": 24000,
+            "SalinityTolerance:3": 0,
+            "SpeciesID:3": 4,
+            "TemperatureTolerance:3": 33,
+            "WaterRequired:3": 120,
+            "WorkEthic:3": 1,
+            "lowerAreaOfEffectDOWN:3": 0,
+            "lowerAreaOfEffectEAST:3": 0,
+            "lowerAreaOfEffectNORTH:3": 0,
+            "lowerAreaOfEffectSOUTH:3": 0,
+            "lowerAreaOfEffectUP:3": 0,
+            "lowerAreaOfEffectWEST:3": 0,
+            "lowerFertility:3": 450,
+            "lowerFoodUsage:3": 3,
+            "lowerGender:3": 0,
+            "lowerLifespan:3": 24000,
+            "lowerSalinityTolerance:3": 0,
+            "lowerSpeciesID:3": 4,
+            "lowerTemperatureTolerance:3": 33,
+            "lowerWaterRequired:3": 120,
+            "lowerWorkEthic:3": 1
+          }
+        },
+        "2:10": {
+          "Count:3": 16,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Mariculture:fishy",
+          "tag:10": {
+            "AreaOfEffectDOWN:3": 0,
+            "AreaOfEffectEAST:3": 0,
+            "AreaOfEffectNORTH:3": 0,
+            "AreaOfEffectSOUTH:3": 0,
+            "AreaOfEffectUP:3": 0,
+            "AreaOfEffectWEST:3": 0,
+            "CurrentLife:3": 12000,
+            "Fertility:3": 2300,
+            "FoodUsage:3": 1,
+            "Gender:3": 0,
+            "Lifespan:3": 12000,
+            "SalinityTolerance:3": 0,
+            "SpeciesID:3": 10,
+            "TemperatureTolerance:3": 8,
+            "WaterRequired:3": 25,
+            "WorkEthic:3": 1,
+            "lowerAreaOfEffectDOWN:3": 0,
+            "lowerAreaOfEffectEAST:3": 0,
+            "lowerAreaOfEffectNORTH:3": 0,
+            "lowerAreaOfEffectSOUTH:3": 0,
+            "lowerAreaOfEffectUP:3": 0,
+            "lowerAreaOfEffectWEST:3": 0,
+            "lowerFertility:3": 2300,
+            "lowerFoodUsage:3": 1,
+            "lowerGender:3": 1,
+            "lowerLifespan:3": 12000,
+            "lowerSalinityTolerance:3": 0,
+            "lowerSpeciesID:3": 10,
+            "lowerTemperatureTolerance:3": 8,
+            "lowerWaterRequired:3": 25,
+            "lowerWorkEthic:3": 1
+          }
+        }
+      },
+      "ignoreDisabled:1": 0,
+      "index:3": 1,
+      "rewardID:8": "bq_standard:choice"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "Mariculture:tanks"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

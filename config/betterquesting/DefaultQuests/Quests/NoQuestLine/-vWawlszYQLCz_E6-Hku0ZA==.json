@@ -1,0 +1,41 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 889608604725693345,
+      "questIDLow:4": -5956936379341013315
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "你意识到家人的温暖比荣华富贵更为重要，你一定要想办法回家...     (任务条件“回家”）",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "Mariculture:necklace",
+        "tag:10": {
+          "binding:8": "gold",
+          "material:8": "pearlGold"
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "家人",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -4798954191188377424,
+  "questIDLow:4": -5477416468330335132,
+  "rewards:9": {},
+  "tasks:9": {}
+}

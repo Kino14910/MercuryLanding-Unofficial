@@ -1,0 +1,384 @@
+{
+  "name": "渔业养殖",
+  "description": "靠山吃山，靠海吃鱼！~",
+  "quests": [
+    {
+      "name": "趁手的钓杆",
+      "description": "鱼饵已经到手了，是时候做个趁手的钓杆了。",
+      "x": 62,
+      "y": 54,
+      "icon": {
+        "id": "Mariculture:rod_reed"
+      },
+      "prerequisites": [
+        "精选鱼饵"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "制作甘蔗钓杆",
+          "longDescription": "鱼饵需放置在钓杆物品栏左右侧，不同种类的钓杆支持的鱼饵也有不同，对钓杆按住Shift键查看支持类型。",
+          "items": [
+            {
+              "item": {
+                "id": "Mariculture:rod_reed"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Mariculture:bait",
+          "damage": 3,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "高温锅炉",
+      "description": "我需要一个温度够高的锅炉来炼制鱼油，与一些金属。",
+      "x": 63,
+      "y": 134,
+      "icon": {
+        "id": "Mariculture:machines_multi"
+      },
+      "prerequisites": [
+        "特殊的锅"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "制作坩埚炉",
+          "longDescription": "(多方块结构1x2)",
+          "items": [
+            {
+              "item": {
+                "id": "Mariculture:machines_multi"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Mariculture:machines_multi"
+        },
+        {
+          "id": "OpenBlocks:tank"
+        }
+      ]
+    },
+    {
+      "name": "特殊的锅",
+      "description": "我需要一个大锅来制作一些特殊的物品，而不是炒菜 ~",
+      "x": 62,
+      "y": 95,
+      "icon": {
+        "id": "Mariculture:machines_multi_rendered",
+        "damage": 3
+      },
+      "prerequisites": [
+        "趁手的钓杆"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "制作大锅",
+          "longDescription": "可单独使用，可2x2多方块。",
+          "items": [
+            {
+              "item": {
+                "id": "Mariculture:machines_multi_rendered",
+                "damage": 3
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:fish",
+          "damage": 6,
+          "amount": 3
+        },
+        {
+          "id": "minecraft:fish",
+          "damage": 19,
+          "amount": 3
+        },
+        {
+          "id": "minecraft:fish",
+          "damage": 22,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "精选鱼饵",
+      "description": "海水之下拥有巨量鱼类资源，与其流入海底，还不如流入我肚子里。",
+      "x": 62,
+      "y": 13,
+      "icon": {
+        "id": "Mariculture:machines_multi_rendered",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "制作筛子",
+          "longDescription": "我需要筛子来筛出鱼饵。     (多方块结构 2x1)",
+          "items": [
+            {
+              "item": {
+                "id": "Mariculture:machines_multi_rendered",
+                "damage": 4
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Mariculture:bait",
+          "damage": 1,
+          "amount": 16
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:dirt",
+          "amount": 8
+        },
+        {
+          "id": "minecraft:sand",
+          "amount": 12
+        }
+      ]
+    },
+    {
+      "name": "更好的钓杆",
+      "description": "使用甘蔗钓杆钓鱼时老是思考是否吃一口甘蔗，从而影响了注意力，使得减低钓鱼效率，我需要一根不能吃的钓杆。",
+      "x": 97,
+      "y": 54,
+      "icon": {
+        "id": "Mariculture:rod_wood"
+      },
+      "prerequisites": [
+        "趁手的钓杆"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "抛光木棍需要放入大锅浸泡鱼油。",
+          "items": [
+            {
+              "item": {
+                "id": "Mariculture:rod_wood"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Mariculture:crafting",
+          "damage": 2,
+          "amount": 12
+        }
+      ]
+    },
+    {
+      "name": "钛合金鱼竿",
+      "description": "木质鱼竿逐渐的不顺手了，我需要更坚固的钛钓杆。",
+      "x": 134,
+      "y": 54,
+      "icon": {
+        "id": "Mariculture:rod_titanium"
+      },
+      "prerequisites": [
+        "更好的钓杆"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "制作钛钓杆",
+          "longDescription": "制作一根钛钓杆。",
+          "items": [
+            {
+              "item": {
+                "id": "Mariculture:rod_titanium"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Mariculture:bait",
+          "damage": 4,
+          "amount": 16
+        }
+      ]
+    },
+    {
+      "name": "夺目的珍珠",
+      "description": "人总是喜欢美丽的事物，即使在绝境也并不例外。",
+      "x": 25,
+      "y": 95,
+      "icon": {
+        "id": "Mariculture:pearls"
+      },
+      "prerequisites": [
+        "特殊的锅"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "养殖贝类",
+          "longDescription": "将珍珠贝养殖在水底，喂给他一枚沙子，一段时间后会吐出一枚珍珠。",
+          "items": [
+            {
+              "item": {
+                "id": "Mariculture:pearls",
+                "damage": 7
+              }
+            },
+            {
+              "item": {
+                "id": "Mariculture:pearls",
+                "damage": 8
+              }
+            },
+            {
+              "item": {
+                "id": "Mariculture:pearls",
+                "damage": 9
+              }
+            },
+            {
+              "item": {
+                "id": "Mariculture:pearls",
+                "damage": 10
+              }
+            },
+            {
+              "item": {
+                "id": "Mariculture:pearls",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "Mariculture:pearls",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "Mariculture:pearls"
+              }
+            },
+            {
+              "item": {
+                "id": "Mariculture:pearls",
+                "damage": 11
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Mariculture:battery_titanium",
+          "nbt": "{Energy:100000}"
+        }
+      ]
+    },
+    {
+      "name": "简易救生衣",
+      "description": "我需要制作一个简易的救生衣，使用原木和一些线简单的制作下，以备不时之需。",
+      "x": 25,
+      "y": 55,
+      "icon": {
+        "id": "Mariculture:lifejacket"
+      },
+      "prerequisites": [
+        "趁手的钓杆"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "制作一件浮力背心",
+          "items": [
+            {
+              "item": {
+                "id": "Mariculture:lifejacket"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Mariculture:diving_pants"
+        }
+      ]
+    },
+    {
+      "name": "小鱼的家",
+      "description": "我需要给即将变成腹中物的鱼准备一个家，以彰显人道主义精神√",
+      "x": 97,
+      "y": 95,
+      "icon": {
+        "id": "Mariculture:tanks",
+        "damage": 1
+      },
+      "prerequisites": [
+        "特殊的锅"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "合成鱼缸",
+          "longDescription": "制作一个鱼缸。",
+          "items": [
+            {
+              "item": {
+                "id": "Mariculture:tanks",
+                "damage": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Mariculture:tanks",
+          "damage": 1
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "Mariculture:fishy",
+          "amount": 16,
+          "nbt": "{WorkEthic:1,lowerAreaOfEffectWEST:0,lowerSpeciesID:3,SalinityTolerance:1,lowerWorkEthic:1,SpeciesID:3,lowerAreaOfEffectDOWN:0,lowerGender:0,CurrentLife:12000,Gender:0,lowerLifespan:12000,lowerSalinityTolerance:1,AreaOfEffectDOWN:0,Fertility:3,lowerAreaOfEffectSOUTH:0,lowerAreaOfEffectUP:0,WaterRequired:115,AreaOfEffectSOUTH:0,AreaOfEffectNORTH:0,AreaOfEffectWEST:0,lowerFertility:3,TemperatureTolerance:16,lowerAreaOfEffectEAST:0,lowerAreaOfEffectNORTH:0,lowerTemperatureTolerance:16,FoodUsage:3,AreaOfEffectEAST:0,lowerFoodUsage:3,Lifespan:12000,lowerWaterRequired:115,AreaOfEffectUP:0}"
+        },
+        {
+          "id": "Mariculture:fishy",
+          "amount": 16,
+          "nbt": "{WorkEthic:1,lowerAreaOfEffectWEST:0,lowerSpeciesID:4,SalinityTolerance:0,lowerWorkEthic:1,SpeciesID:4,lowerAreaOfEffectDOWN:0,lowerGender:0,CurrentLife:24000,Gender:1,lowerLifespan:24000,lowerSalinityTolerance:0,AreaOfEffectDOWN:0,Fertility:450,lowerAreaOfEffectSOUTH:0,lowerAreaOfEffectUP:0,WaterRequired:120,AreaOfEffectSOUTH:0,AreaOfEffectNORTH:0,AreaOfEffectWEST:0,lowerFertility:450,TemperatureTolerance:33,lowerAreaOfEffectEAST:0,lowerAreaOfEffectNORTH:0,lowerTemperatureTolerance:33,FoodUsage:3,AreaOfEffectEAST:0,lowerFoodUsage:3,Lifespan:24000,lowerWaterRequired:120,AreaOfEffectUP:0}"
+        },
+        {
+          "id": "Mariculture:fishy",
+          "amount": 16,
+          "nbt": "{WorkEthic:1,lowerAreaOfEffectWEST:0,lowerSpeciesID:10,SalinityTolerance:0,lowerWorkEthic:1,SpeciesID:10,lowerAreaOfEffectDOWN:0,lowerGender:1,CurrentLife:12000,Gender:0,lowerLifespan:12000,lowerSalinityTolerance:0,AreaOfEffectDOWN:0,Fertility:2300,lowerAreaOfEffectSOUTH:0,lowerAreaOfEffectUP:0,WaterRequired:25,AreaOfEffectSOUTH:0,AreaOfEffectNORTH:0,AreaOfEffectWEST:0,lowerFertility:2300,TemperatureTolerance:8,lowerAreaOfEffectEAST:0,lowerAreaOfEffectNORTH:0,lowerTemperatureTolerance:8,FoodUsage:1,AreaOfEffectEAST:0,lowerFoodUsage:1,Lifespan:12000,lowerWaterRequired:25,AreaOfEffectUP:0}"
+        }
+      ]
+    }
+  ],
+  "reputationBar": []
+}

@@ -1,0 +1,8001 @@
+{
+	"questProgress:9": {
+		"0:10": {
+			"questIDHigh:4": -5071074533617874440,
+			"completed:9": {},
+			"questIDLow:4": -6417108196928214081,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"1:10": {
+			"questIDHigh:4": -6744793658969403478,
+			"completed:9": {},
+			"questIDLow:4": -6481598638670428516,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"2:10": {
+			"questIDHigh:4": -350858159936549031,
+			"completed:9": {},
+			"questIDLow:4": -5453114181513306515,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"3:10": {
+			"questIDHigh:4": -3403234070565140959,
+			"completed:9": {},
+			"questIDLow:4": -5411353516780740593,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"4:10": {
+			"questIDHigh:4": 5169967640193551290,
+			"completed:9": {},
+			"questIDLow:4": -6609078415941399331,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"5:10": {
+			"questIDHigh:4": -8020606660436605688,
+			"completed:9": {},
+			"questIDLow:4": -4997046987345321996,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"6:10": {
+			"questIDHigh:4": -7730462069641032711,
+			"completed:9": {},
+			"questIDLow:4": -6377526324772890291,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"7:10": {
+			"questIDHigh:4": 7373597096816362318,
+			"completed:9": {},
+			"questIDLow:4": -7173557056886231914,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"8:10": {
+			"questIDHigh:4": 2990945752785702805,
+			"completed:9": {},
+			"questIDLow:4": -6338123005104691030,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"9:10": {
+			"questIDHigh:4": -938625868712622083,
+			"completed:9": {},
+			"questIDLow:4": -4839768171221565133,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"10:10": {
+			"questIDHigh:4": -4798954191188377424,
+			"completed:9": {},
+			"questIDLow:4": -5477416468330335132,
+			"tasks:9": {}
+		},
+		"11:10": {
+			"questIDHigh:4": -1976190227740997241,
+			"completed:9": {},
+			"questIDLow:4": -7532421718773988135,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"12:10": {
+			"questIDHigh:4": 3704173533179954431,
+			"completed:9": {},
+			"questIDLow:4": -6599684580166140037,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"13:10": {
+			"questIDHigh:4": -7164189417194305201,
+			"completed:9": {},
+			"questIDLow:4": -6385921710990796693,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"14:10": {
+			"questIDHigh:4": 3990005045143421659,
+			"completed:9": {},
+			"questIDLow:4": -6833529303034948193,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"15:10": {
+			"questIDHigh:4": -7450360805675547586,
+			"completed:9": {},
+			"questIDLow:4": -8987068658980694604,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"16:10": {
+			"questIDHigh:4": 1859297358155825921,
+			"completed:9": {},
+			"questIDLow:4": -9008485170223319383,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"17:10": {
+			"questIDHigh:4": 1525918590099670730,
+			"completed:9": {},
+			"questIDLow:4": -4883635033771496693,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"18:10": {
+			"questIDHigh:4": 2358649102796865784,
+			"completed:9": {},
+			"questIDLow:4": -6704994953592530075,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"19:10": {
+			"questIDHigh:4": 7904060846884470999,
+			"completed:9": {},
+			"questIDLow:4": -4625265471824572675,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"20:10": {
+			"questIDHigh:4": 7578298921804316770,
+			"completed:9": {},
+			"questIDLow:4": -4834834171223833111,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"21:10": {
+			"questIDHigh:4": -4001235960503448901,
+			"completed:9": {},
+			"questIDLow:4": -6570289600072030467,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"22:10": {
+			"questIDHigh:4": 8642077440946030031,
+			"completed:9": {},
+			"questIDLow:4": -7883535850715987756,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"23:10": {
+			"questIDHigh:4": 7186093747291570721,
+			"completed:9": {},
+			"questIDLow:4": -4953434351703356579,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"24:10": {
+			"questIDHigh:4": -616346090138415874,
+			"completed:9": {},
+			"questIDLow:4": -5876071603933006299,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"25:10": {
+			"questIDHigh:4": -4878548071491679079,
+			"completed:9": {},
+			"questIDLow:4": -5713425433226768815,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"26:10": {
+			"questIDHigh:4": 6804082550442708559,
+			"completed:9": {},
+			"questIDLow:4": -7684845491489496729,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"27:10": {
+			"questIDHigh:4": -9089935880437216506,
+			"completed:9": {},
+			"questIDLow:4": -7506097594106461370,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"28:10": {
+			"questIDHigh:4": 2451789306976421006,
+			"completed:9": {},
+			"questIDLow:4": -7056668712001374119,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"29:10": {
+			"questIDHigh:4": 179199249904979489,
+			"completed:9": {},
+			"questIDLow:4": -8300389627388605889,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"30:10": {
+			"questIDHigh:4": 6230772485945968002,
+			"completed:9": {},
+			"questIDLow:4": -5903089695500247005,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"31:10": {
+			"questIDHigh:4": -1698771316817048079,
+			"completed:9": {},
+			"questIDLow:4": -4661662345726617136,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"32:10": {
+			"questIDHigh:4": 2200096933645337243,
+			"completed:9": {},
+			"questIDLow:4": -7326427756178455115,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"33:10": {
+			"questIDHigh:4": -2171422721794685253,
+			"completed:9": {},
+			"questIDLow:4": -5805135312019461281,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"34:10": {
+			"questIDHigh:4": 8383366970343637408,
+			"completed:9": {},
+			"questIDLow:4": -6627503937515593057,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"35:10": {
+			"questIDHigh:4": 5568210045337291622,
+			"completed:9": {},
+			"questIDLow:4": -4905598637232636374,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"36:10": {
+			"questIDHigh:4": 7684769938489297718,
+			"completed:9": {},
+			"questIDLow:4": -5864241944382782206,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"37:10": {
+			"questIDHigh:4": 7396833897620260471,
+			"completed:9": {},
+			"questIDLow:4": -7739538781631687851,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"38:10": {
+			"questIDHigh:4": -5762640593259446043,
+			"completed:9": {},
+			"questIDLow:4": -6902525788523119225,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"39:10": {
+			"questIDHigh:4": 4674792696674534922,
+			"completed:9": {},
+			"questIDLow:4": -8035354742570676524,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"40:10": {
+			"questIDHigh:4": -9003705039051076473,
+			"completed:9": {},
+			"questIDLow:4": -4775609809225877336,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"41:10": {
+			"questIDHigh:4": 7781526648343249503,
+			"completed:9": {},
+			"questIDLow:4": -5994068470417127203,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"42:10": {
+			"questIDHigh:4": -4779175409844727909,
+			"completed:9": {},
+			"questIDLow:4": -5621930660051846103,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"43:10": {
+			"questIDHigh:4": -5119605742441772306,
+			"completed:9": {},
+			"questIDLow:4": -5149307377662512164,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"44:10": {
+			"questIDHigh:4": 4709936793840143531,
+			"completed:9": {},
+			"questIDLow:4": -7874848063353350023,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"45:10": {
+			"questIDHigh:4": 5701297510242993762,
+			"completed:9": {},
+			"questIDLow:4": -5118518273610739067,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"46:10": {
+			"questIDHigh:4": -3055389257503324266,
+			"completed:9": {},
+			"questIDLow:4": -5213058772665691777,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"47:10": {
+			"questIDHigh:4": -7772714852575657516,
+			"completed:9": {},
+			"questIDLow:4": -8911105297086822348,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"48:10": {
+			"questIDHigh:4": -2507635427463839422,
+			"completed:9": {},
+			"questIDLow:4": -6082177642075272997,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"49:10": {
+			"questIDHigh:4": 2351557150099787181,
+			"completed:9": {},
+			"questIDLow:4": -6412331662674132252,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"50:10": {
+			"questIDHigh:4": 5466297834508536898,
+			"completed:9": {},
+			"questIDLow:4": -9206380974079406818,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"51:10": {
+			"questIDHigh:4": -6143331785253764748,
+			"completed:9": {},
+			"questIDLow:4": -8913442051425755061,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"52:10": {
+			"questIDHigh:4": -181213169926126999,
+			"completed:9": {},
+			"questIDLow:4": -7148775393561154427,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				},
+				"1:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 1,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"53:10": {
+			"questIDHigh:4": 4275611495302776095,
+			"completed:9": {},
+			"questIDLow:4": -6463066023739931102,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"54:10": {
+			"questIDHigh:4": -8328368133112968955,
+			"completed:9": {},
+			"questIDLow:4": -7099921849062142162,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"55:10": {
+			"questIDHigh:4": -3597554629569593337,
+			"completed:9": {},
+			"questIDLow:4": -8996729333111563423,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"56:10": {
+			"questIDHigh:4": -6505580663239717785,
+			"completed:9": {},
+			"questIDLow:4": -8928221915714809978,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"57:10": {
+			"questIDHigh:4": -3596323108266096642,
+			"completed:9": {},
+			"questIDLow:4": -4743595780196431646,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"58:10": {
+			"questIDHigh:4": -3366879716803853001,
+			"completed:9": {},
+			"questIDLow:4": -4762934943053273516,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"59:10": {
+			"questIDHigh:4": -4356806667689374917,
+			"completed:9": {},
+			"questIDLow:4": -8780083437848334082,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"60:10": {
+			"questIDHigh:4": 4740996299005642991,
+			"completed:9": {},
+			"questIDLow:4": -5451717299784789923,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"61:10": {
+			"questIDHigh:4": 8142409871148925372,
+			"completed:9": {},
+			"questIDLow:4": -6582993536918297378,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"62:10": {
+			"questIDHigh:4": 6047279933287056645,
+			"completed:9": {},
+			"questIDLow:4": -4692239615924274137,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"63:10": {
+			"questIDHigh:4": -4589605227921193858,
+			"completed:9": {},
+			"questIDLow:4": -5981349849042193042,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"64:10": {
+			"questIDHigh:4": 834168430453410842,
+			"completed:9": {},
+			"questIDLow:4": -5457320372516597248,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"65:10": {
+			"questIDHigh:4": 7557423422749622712,
+			"completed:9": {},
+			"questIDLow:4": -6600854129498102093,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"66:10": {
+			"questIDHigh:4": 715316031936414047,
+			"completed:9": {},
+			"questIDLow:4": -7919560024225355831,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"67:10": {
+			"questIDHigh:4": -4345983718992557801,
+			"completed:9": {},
+			"questIDLow:4": -7121086528280849815,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"68:10": {
+			"questIDHigh:4": -5559077397332277855,
+			"completed:9": {},
+			"questIDLow:4": -6884906038383758302,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"69:10": {
+			"questIDHigh:4": -7961902168734351163,
+			"completed:9": {},
+			"questIDLow:4": -6126316276075861506,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"70:10": {
+			"questIDHigh:4": 4039420412767585098,
+			"completed:9": {},
+			"questIDLow:4": -8073974627840890621,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"71:10": {
+			"questIDHigh:4": -3556592790607213944,
+			"completed:9": {},
+			"questIDLow:4": -7006015674376344564,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"72:10": {
+			"questIDHigh:4": 8535486395186233863,
+			"completed:9": {},
+			"questIDLow:4": -8222036565003224120,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"73:10": {
+			"questIDHigh:4": 5288731717202428532,
+			"completed:9": {},
+			"questIDLow:4": -7633337489189620408,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"74:10": {
+			"questIDHigh:4": -5829897080871825990,
+			"completed:9": {},
+			"questIDLow:4": -7088970048780317296,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"75:10": {
+			"questIDHigh:4": 8875993721485674960,
+			"completed:9": {},
+			"questIDLow:4": -5145707992515486503,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"76:10": {
+			"questIDHigh:4": 6691219188802734397,
+			"completed:9": {},
+			"questIDLow:4": -5909578571960091657,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"77:10": {
+			"questIDHigh:4": 2409855944639398226,
+			"completed:9": {},
+			"questIDLow:4": -7888613849829123620,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"78:10": {
+			"questIDHigh:4": 7362525156080109343,
+			"completed:9": {},
+			"questIDLow:4": -7815359477847306261,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"79:10": {
+			"questIDHigh:4": -7585910881580531114,
+			"completed:9": {},
+			"questIDLow:4": -5685591512537152959,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				},
+				"1:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 1,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"80:10": {
+			"questIDHigh:4": 8129899098681198370,
+			"completed:9": {},
+			"questIDLow:4": -8366828240754960697,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"81:10": {
+			"questIDHigh:4": -5323672924869277378,
+			"completed:9": {},
+			"questIDLow:4": -6018058415108194963,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"82:10": {
+			"questIDHigh:4": 3510285849898795884,
+			"completed:9": {},
+			"questIDLow:4": -4903550931430161131,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"83:10": {
+			"questIDHigh:4": -1212493844675213335,
+			"completed:9": {},
+			"questIDLow:4": -9110936883353910783,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"84:10": {
+			"questIDHigh:4": -7846257676262358331,
+			"completed:9": {},
+			"questIDLow:4": -5126908598642919929,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"85:10": {
+			"questIDHigh:4": -3078755012898240954,
+			"completed:9": {},
+			"questIDLow:4": -7741734443789419673,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"86:10": {
+			"questIDHigh:4": -1759365040664326968,
+			"completed:9": {},
+			"questIDLow:4": -5997889135394891854,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"87:10": {
+			"questIDHigh:4": -422681135168270779,
+			"completed:9": {},
+			"questIDLow:4": -5180707087723116000,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"88:10": {
+			"questIDHigh:4": -8451741241339592302,
+			"completed:9": {},
+			"questIDLow:4": -6070044650773799017,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"89:10": {
+			"questIDHigh:4": -8925436913769428723,
+			"completed:9": {},
+			"questIDLow:4": -4671790702039642872,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"90:10": {
+			"questIDHigh:4": -129963253969040879,
+			"completed:9": {},
+			"questIDLow:4": -8228295332683893875,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				},
+				"1:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 1,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"91:10": {
+			"questIDHigh:4": -3604087163213100064,
+			"completed:9": {},
+			"questIDLow:4": -5617754639589378537,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				},
+				"1:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 1,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"92:10": {
+			"questIDHigh:4": -7245499377665752782,
+			"completed:9": {},
+			"questIDLow:4": -6835365937880060213,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"93:10": {
+			"questIDHigh:4": -7590513887601212031,
+			"completed:9": {},
+			"questIDLow:4": -8718202083969410907,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"94:10": {
+			"questIDHigh:4": -2647139165582178188,
+			"completed:9": {},
+			"questIDLow:4": -8091368761845403870,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"95:10": {
+			"questIDHigh:4": 5960944220617723087,
+			"completed:9": {},
+			"questIDLow:4": -6551434888964520616,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"96:10": {
+			"questIDHigh:4": 2259943746715273607,
+			"completed:9": {},
+			"questIDLow:4": -8589293316918233999,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"97:10": {
+			"questIDHigh:4": -6179303456901938615,
+			"completed:9": {},
+			"questIDLow:4": -6457763904121696990,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"98:10": {
+			"questIDHigh:4": -2087847180769276093,
+			"completed:9": {},
+			"questIDLow:4": -7267746438472954724,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"99:10": {
+			"questIDHigh:4": 2155333229761284836,
+			"completed:9": {},
+			"questIDLow:4": -4838354512911517148,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"100:10": {
+			"questIDHigh:4": 7184459746724367519,
+			"completed:9": {},
+			"questIDLow:4": -8998076436151470879,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"101:10": {
+			"questIDHigh:4": 7621459606968092596,
+			"completed:9": {},
+			"questIDLow:4": -7919305512447326305,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"102:10": {
+			"questIDHigh:4": 8901325596787625796,
+			"completed:9": {},
+			"questIDLow:4": -6186031781163221080,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"103:10": {
+			"questIDHigh:4": -6327033186423977379,
+			"completed:9": {},
+			"questIDLow:4": -6771080992012416803,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"104:10": {
+			"questIDHigh:4": 7027965405365489269,
+			"completed:9": {},
+			"questIDLow:4": -5633193616401149550,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"105:10": {
+			"questIDHigh:4": 7024008541127393938,
+			"completed:9": {},
+			"questIDLow:4": -8111315437046519060,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"106:10": {
+			"questIDHigh:4": 193544299128111483,
+			"completed:9": {},
+			"questIDLow:4": -6201331807782927213,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"107:10": {
+			"questIDHigh:4": -7204810361261833156,
+			"completed:9": {},
+			"questIDLow:4": -4681451077974544819,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"108:10": {
+			"questIDHigh:4": -8205786057805051485,
+			"completed:9": {},
+			"questIDLow:4": -4651832711893495993,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"109:10": {
+			"questIDHigh:4": 3491991418803536345,
+			"completed:9": {},
+			"questIDLow:4": -7738712461091827806,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"110:10": {
+			"questIDHigh:4": 1843420761247469117,
+			"completed:9": {},
+			"questIDLow:4": -8831078985416621819,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"111:10": {
+			"questIDHigh:4": -5029964243654719755,
+			"completed:9": {},
+			"questIDLow:4": -5784879142336708958,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"112:10": {
+			"questIDHigh:4": -3935424789982655045,
+			"completed:9": {},
+			"questIDLow:4": -7809833804897233634,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"113:10": {
+			"questIDHigh:4": -8206108344809271977,
+			"completed:9": {},
+			"questIDLow:4": -7521704494439505972,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"114:10": {
+			"questIDHigh:4": -7793232010123066701,
+			"completed:9": {},
+			"questIDLow:4": -9184694157777550328,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"115:10": {
+			"questIDHigh:4": -2426487520620490933,
+			"completed:9": {},
+			"questIDLow:4": -8858525995853286726,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"116:10": {
+			"questIDHigh:4": 8691623097894062936,
+			"completed:9": {},
+			"questIDLow:4": -5075963671750449648,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"117:10": {
+			"questIDHigh:4": 6818004796516746378,
+			"completed:9": {},
+			"questIDLow:4": -4766440036654742908,
+			"tasks:9": {}
+		},
+		"118:10": {
+			"questIDHigh:4": -654973773244970783,
+			"completed:9": {},
+			"questIDLow:4": -6015575361097252565,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"119:10": {
+			"questIDHigh:4": 7666217156857973841,
+			"completed:9": {},
+			"questIDLow:4": -5803858554500993786,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"120:10": {
+			"questIDHigh:4": -4710831786866687383,
+			"completed:9": {},
+			"questIDLow:4": -8692033159827638199,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"121:10": {
+			"questIDHigh:4": -8104675354004536799,
+			"completed:9": {},
+			"questIDLow:4": -7677682465636379112,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"122:10": {
+			"questIDHigh:4": -4301493847589762533,
+			"completed:9": {},
+			"questIDLow:4": -8156524336848220440,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"123:10": {
+			"questIDHigh:4": -5369419311134650994,
+			"completed:9": {},
+			"questIDLow:4": -7180666685293835543,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"124:10": {
+			"questIDHigh:4": 7166202183181815125,
+			"completed:9": {},
+			"questIDLow:4": -8231310880636956283,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"125:10": {
+			"questIDHigh:4": -3435761834831691216,
+			"completed:9": {},
+			"questIDLow:4": -8776153970429833920,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"126:10": {
+			"questIDHigh:4": 5256740418885602989,
+			"completed:9": {},
+			"questIDLow:4": -8903972989597348192,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"127:10": {
+			"questIDHigh:4": 61719858256626271,
+			"completed:9": {},
+			"questIDLow:4": -8946659007247208550,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"128:10": {
+			"questIDHigh:4": -5974523061804186479,
+			"completed:9": {},
+			"questIDLow:4": -5076797229183787605,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"129:10": {
+			"questIDHigh:4": -9112266463035046719,
+			"completed:9": {},
+			"questIDLow:4": -8283601884493701921,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"130:10": {
+			"questIDHigh:4": 7295216023375464119,
+			"completed:9": {},
+			"questIDLow:4": -8477562988631547864,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"131:10": {
+			"questIDHigh:4": 4580051179044948641,
+			"completed:9": {},
+			"questIDLow:4": -5303955096719078492,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"132:10": {
+			"questIDHigh:4": -2163183417254066443,
+			"completed:9": {},
+			"questIDLow:4": -6324274261156019367,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"133:10": {
+			"questIDHigh:4": -2394579785744298564,
+			"completed:9": {},
+			"questIDLow:4": -7526187076298357597,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"134:10": {
+			"questIDHigh:4": 6891263469613894900,
+			"completed:9": {},
+			"questIDLow:4": -6636554173891798939,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"135:10": {
+			"questIDHigh:4": -1499470255186164183,
+			"completed:9": {},
+			"questIDLow:4": -7934871339523307093,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"136:10": {
+			"questIDHigh:4": 200970843807695524,
+			"completed:9": {},
+			"questIDLow:4": -7305780956669473174,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"137:10": {
+			"questIDHigh:4": 7328359352823008919,
+			"completed:9": {},
+			"questIDLow:4": -9148957167919217405,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"138:10": {
+			"questIDHigh:4": 2328308721029761381,
+			"completed:9": {},
+			"questIDLow:4": -8594847133659112454,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"139:10": {
+			"questIDHigh:4": -3067085157857145048,
+			"completed:9": {},
+			"questIDLow:4": -6293233199835399217,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"140:10": {
+			"questIDHigh:4": 6488693260574477595,
+			"completed:9": {},
+			"questIDLow:4": -4710293336446760536,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"141:10": {
+			"questIDHigh:4": 2716030204677079981,
+			"completed:9": {},
+			"questIDLow:4": -4671928405424602918,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"142:10": {
+			"questIDHigh:4": 1536540622541637252,
+			"completed:9": {},
+			"questIDLow:4": -5348434394028494853,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"143:10": {
+			"questIDHigh:4": -8081789431710724291,
+			"completed:9": {},
+			"questIDLow:4": -7914445228720496650,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"144:10": {
+			"questIDHigh:4": 7712051642931102584,
+			"completed:9": {},
+			"questIDLow:4": -7437883095904723307,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"145:10": {
+			"questIDHigh:4": 3024547383952099030,
+			"completed:9": {},
+			"questIDLow:4": -7298832314044969424,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"146:10": {
+			"questIDHigh:4": -6080561310172033777,
+			"completed:9": {},
+			"questIDLow:4": -7004017250222095219,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"147:10": {
+			"questIDHigh:4": 562867364017228808,
+			"completed:9": {},
+			"questIDLow:4": -6001169111515167884,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"148:10": {
+			"questIDHigh:4": 5728118166630908841,
+			"completed:9": {},
+			"questIDLow:4": -8563312524716362082,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"149:10": {
+			"questIDHigh:4": 4421871953207838788,
+			"completed:9": {},
+			"questIDLow:4": -7071677871904949675,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"150:10": {
+			"questIDHigh:4": -6383807566207497821,
+			"completed:9": {},
+			"questIDLow:4": -7486683177842066423,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"151:10": {
+			"questIDHigh:4": 461101530164969912,
+			"completed:9": {},
+			"questIDLow:4": -8087181318469664902,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"152:10": {
+			"questIDHigh:4": -7684687410526927895,
+			"completed:9": {},
+			"questIDLow:4": -7227734320015543000,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"153:10": {
+			"questIDHigh:4": 696870460283109569,
+			"completed:9": {},
+			"questIDLow:4": -6009425123405113705,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"154:10": {
+			"questIDHigh:4": 625634146571011091,
+			"completed:9": {},
+			"questIDLow:4": -5302982202446462142,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"155:10": {
+			"questIDHigh:4": 6899961826842920827,
+			"completed:9": {},
+			"questIDLow:4": -5651578990000702472,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"156:10": {
+			"questIDHigh:4": 1936041215327225817,
+			"completed:9": {},
+			"questIDLow:4": -5339618229034101737,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"157:10": {
+			"questIDHigh:4": -7303958003688258498,
+			"completed:9": {},
+			"questIDLow:4": -7423721188773122085,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"158:10": {
+			"questIDHigh:4": 6123195818852241123,
+			"completed:9": {},
+			"questIDLow:4": -7238611836270715946,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"159:10": {
+			"questIDHigh:4": -2534088728022859710,
+			"completed:9": {},
+			"questIDLow:4": -8771432438242694722,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"160:10": {
+			"questIDHigh:4": -6804585699218144214,
+			"completed:9": {},
+			"questIDLow:4": -4732540468398790229,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"161:10": {
+			"questIDHigh:4": 889608604725693345,
+			"completed:9": {},
+			"questIDLow:4": -5956936379341013315,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"162:10": {
+			"questIDHigh:4": 4787675231404968620,
+			"completed:9": {},
+			"questIDLow:4": -5974560855280186106,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"163:10": {
+			"questIDHigh:4": 5697582400750895821,
+			"completed:9": {},
+			"questIDLow:4": -8518746369689790925,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"164:10": {
+			"questIDHigh:4": 3072260476460813320,
+			"completed:9": {},
+			"questIDLow:4": -7311203965035988616,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"165:10": {
+			"questIDHigh:4": 7689051904264651501,
+			"completed:9": {},
+			"questIDLow:4": -8513788024700457117,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"166:10": {
+			"questIDHigh:4": 819416908036064709,
+			"completed:9": {},
+			"questIDLow:4": -4914126963472455150,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"167:10": {
+			"questIDHigh:4": -2825623101084644787,
+			"completed:9": {},
+			"questIDLow:4": -5985313221811622583,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"168:10": {
+			"questIDHigh:4": 7483866250997483081,
+			"completed:9": {},
+			"questIDLow:4": -9006265443405945575,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"169:10": {
+			"questIDHigh:4": 6439824124898395633,
+			"completed:9": {},
+			"questIDLow:4": -7730202428961201932,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"170:10": {
+			"questIDHigh:4": 5030960030020157572,
+			"completed:9": {},
+			"questIDLow:4": -7575966463346839542,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"171:10": {
+			"questIDHigh:4": -6342160328091939261,
+			"completed:9": {},
+			"questIDLow:4": -7870454383911717921,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"172:10": {
+			"questIDHigh:4": -1154827658525455284,
+			"completed:9": {},
+			"questIDLow:4": -8147947640789771642,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"173:10": {
+			"questIDHigh:4": 4161403838556163084,
+			"completed:9": {},
+			"questIDLow:4": -6089993739475476485,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"174:10": {
+			"questIDHigh:4": 590898002822187202,
+			"completed:9": {},
+			"questIDLow:4": -7809842127036905806,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"175:10": {
+			"questIDHigh:4": 1413836010243901949,
+			"completed:9": {},
+			"questIDLow:4": -7593624073077425228,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"176:10": {
+			"questIDHigh:4": 4299760373421261212,
+			"completed:9": {},
+			"questIDLow:4": -7318643327778851864,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"177:10": {
+			"questIDHigh:4": 7194188462808255606,
+			"completed:9": {},
+			"questIDLow:4": -7382664857811493139,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"178:10": {
+			"questIDHigh:4": -3339225615151378540,
+			"completed:9": {},
+			"questIDLow:4": -8290329134970579521,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"179:10": {
+			"questIDHigh:4": 6310597690893946359,
+			"completed:9": {},
+			"questIDLow:4": -6671640540729670678,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"180:10": {
+			"questIDHigh:4": 1146952226204763189,
+			"completed:9": {},
+			"questIDLow:4": -7651976969892510988,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"181:10": {
+			"questIDHigh:4": 3340118480655434201,
+			"completed:9": {},
+			"questIDLow:4": -6820076778457460813,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"182:10": {
+			"questIDHigh:4": 926562617948917714,
+			"completed:9": {},
+			"questIDLow:4": -5177377818090765661,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"183:10": {
+			"questIDHigh:4": 5293336444944206083,
+			"completed:9": {},
+			"questIDLow:4": -6762790138263030985,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"184:10": {
+			"questIDHigh:4": -1935520413762368064,
+			"completed:9": {},
+			"questIDLow:4": -5835961705451419488,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"185:10": {
+			"questIDHigh:4": 8250338200027549598,
+			"completed:9": {},
+			"questIDLow:4": -8663358290166590404,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"186:10": {
+			"questIDHigh:4": -4275140038711818040,
+			"completed:9": {},
+			"questIDLow:4": -7785789687933470088,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"187:10": {
+			"questIDHigh:4": -1922003278918300262,
+			"completed:9": {},
+			"questIDLow:4": -8570521966352287875,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"188:10": {
+			"questIDHigh:4": 7401391868545155629,
+			"completed:9": {},
+			"questIDLow:4": -7091623126883850186,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"189:10": {
+			"questIDHigh:4": -3882100488493973384,
+			"completed:9": {},
+			"questIDLow:4": -6081224003307384337,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"190:10": {
+			"questIDHigh:4": -7535221966118500252,
+			"completed:9": {},
+			"questIDLow:4": -6160815609262451834,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"191:10": {
+			"questIDHigh:4": -8048008558193982712,
+			"completed:9": {},
+			"questIDLow:4": -7740477237521383402,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"192:10": {
+			"questIDHigh:4": -8666220025627063690,
+			"completed:9": {},
+			"questIDLow:4": -5912317110972272947,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"193:10": {
+			"questIDHigh:4": -5467252235065340478,
+			"completed:9": {},
+			"questIDLow:4": -9122625270507341310,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"194:10": {
+			"questIDHigh:4": -7791198746096939517,
+			"completed:9": {},
+			"questIDLow:4": -7456019973107262683,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"195:10": {
+			"questIDHigh:4": -8103694081757917851,
+			"completed:9": {},
+			"questIDLow:4": -8675966589438650069,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"196:10": {
+			"questIDHigh:4": 4052962708478837124,
+			"completed:9": {},
+			"questIDLow:4": -5017640531178038919,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"197:10": {
+			"questIDHigh:4": 473469783115450853,
+			"completed:9": {},
+			"questIDLow:4": -8003534245602588620,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"198:10": {
+			"questIDHigh:4": 7408239215213693090,
+			"completed:9": {},
+			"questIDLow:4": -8138146258435155086,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"199:10": {
+			"questIDHigh:4": -2844566895610802927,
+			"completed:9": {},
+			"questIDLow:4": -8255561209398736984,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"200:10": {
+			"questIDHigh:4": 4251107673194317179,
+			"completed:9": {},
+			"questIDLow:4": -5063664865815634914,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"201:10": {
+			"questIDHigh:4": -2622778646222584158,
+			"completed:9": {},
+			"questIDLow:4": -5351826686779318077,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"202:10": {
+			"questIDHigh:4": -1590212682326782876,
+			"completed:9": {},
+			"questIDLow:4": -9064893670697457342,
+			"tasks:9": {}
+		},
+		"203:10": {
+			"questIDHigh:4": 2050604374761488880,
+			"completed:9": {},
+			"questIDLow:4": -6529781413453254896,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"204:10": {
+			"questIDHigh:4": -1752709921978956898,
+			"completed:9": {},
+			"questIDLow:4": -5268834958425359207,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"205:10": {
+			"questIDHigh:4": -3219691309921775820,
+			"completed:9": {},
+			"questIDLow:4": -6897116355405472203,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"206:10": {
+			"questIDHigh:4": -5537031744854998281,
+			"completed:9": {},
+			"questIDLow:4": -8271832945385681088,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"207:10": {
+			"questIDHigh:4": -3199794465293056283,
+			"completed:9": {},
+			"questIDLow:4": -4940924646066396540,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"208:10": {
+			"questIDHigh:4": 8189958772344506504,
+			"completed:9": {},
+			"questIDLow:4": -8402548301148703446,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"209:10": {
+			"questIDHigh:4": 7242835163270630241,
+			"completed:9": {},
+			"questIDLow:4": -5517152897654805005,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"210:10": {
+			"questIDHigh:4": 2888565549467389847,
+			"completed:9": {},
+			"questIDLow:4": -4792684355196294482,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"211:10": {
+			"questIDHigh:4": -7107119336790015398,
+			"completed:9": {},
+			"questIDLow:4": -9010232179516951191,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"212:10": {
+			"questIDHigh:4": 5595223777965722526,
+			"completed:9": {},
+			"questIDLow:4": -6882483336303387495,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"213:10": {
+			"questIDHigh:4": -6930650319952984831,
+			"completed:9": {},
+			"questIDLow:4": -9173190463722523729,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"214:10": {
+			"questIDHigh:4": 7495808007664584474,
+			"completed:9": {},
+			"questIDLow:4": -8303650431744427306,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"215:10": {
+			"questIDHigh:4": -1100990243901979012,
+			"completed:9": {},
+			"questIDLow:4": -6168417232553967963,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"216:10": {
+			"questIDHigh:4": 7326766111630835918,
+			"completed:9": {},
+			"questIDLow:4": -4928655486295120827,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"217:10": {
+			"questIDHigh:4": 3700427609769068893,
+			"completed:9": {},
+			"questIDLow:4": -8549463068964803123,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"218:10": {
+			"questIDHigh:4": 7396909146520306446,
+			"completed:9": {},
+			"questIDLow:4": -9122996300167335345,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"219:10": {
+			"questIDHigh:4": 3412770367782864218,
+			"completed:9": {},
+			"questIDLow:4": -5713589551055693137,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"220:10": {
+			"questIDHigh:4": -7649664419224925095,
+			"completed:9": {},
+			"questIDLow:4": -6211058381925563218,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"221:10": {
+			"questIDHigh:4": -3963636209904695616,
+			"completed:9": {},
+			"questIDLow:4": -7808815946579060752,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"222:10": {
+			"questIDHigh:4": 8766882316478791812,
+			"completed:9": {},
+			"questIDLow:4": -6192045358709180009,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				},
+				"1:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 1,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"223:10": {
+			"questIDHigh:4": 4386052457893744577,
+			"completed:9": {},
+			"questIDLow:4": -6342013895680405719,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"224:10": {
+			"questIDHigh:4": 3140946377278180933,
+			"completed:9": {},
+			"questIDLow:4": -7999157350077677345,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"225:10": {
+			"questIDHigh:4": -3013462311383842481,
+			"completed:9": {},
+			"questIDLow:4": -6330999893624959818,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"226:10": {
+			"questIDHigh:4": -1649492146998786701,
+			"completed:9": {},
+			"questIDLow:4": -8608178453746526865,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"227:10": {
+			"questIDHigh:4": -5263902220300170369,
+			"completed:9": {},
+			"questIDLow:4": -5195249365914643618,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"228:10": {
+			"questIDHigh:4": -1193391797073785087,
+			"completed:9": {},
+			"questIDLow:4": -5677417890907307655,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"229:10": {
+			"questIDHigh:4": 4190735333812683546,
+			"completed:9": {},
+			"questIDLow:4": -7450552797704377864,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"230:10": {
+			"questIDHigh:4": -4434374666140104468,
+			"completed:9": {},
+			"questIDLow:4": -4764006489470768058,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"231:10": {
+			"questIDHigh:4": 7339552167860193173,
+			"completed:9": {},
+			"questIDLow:4": -6153304384908706691,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"232:10": {
+			"questIDHigh:4": -4609676711176221144,
+			"completed:9": {},
+			"questIDLow:4": -9191618292373623252,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"233:10": {
+			"questIDHigh:4": 3170968304128508856,
+			"completed:9": {},
+			"questIDLow:4": -9054903268136934919,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"234:10": {
+			"questIDHigh:4": 390052793389305680,
+			"completed:9": {},
+			"questIDLow:4": -7557246736949115162,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"235:10": {
+			"questIDHigh:4": -3250781604722556902,
+			"completed:9": {},
+			"questIDLow:4": -8567229979654542218,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"236:10": {
+			"questIDHigh:4": 6101331076286925410,
+			"completed:9": {},
+			"questIDLow:4": -5465689262387747786,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"237:10": {
+			"questIDHigh:4": 4874289840161836251,
+			"completed:9": {},
+			"questIDLow:4": -6125785433436726809,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"238:10": {
+			"questIDHigh:4": 616355044230253566,
+			"completed:9": {},
+			"questIDLow:4": -6944380746756980165,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"239:10": {
+			"questIDHigh:4": -7764316902007682966,
+			"completed:9": {},
+			"questIDLow:4": -6478766115070427383,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"240:10": {
+			"questIDHigh:4": 9013634393135337300,
+			"completed:9": {},
+			"questIDLow:4": -7847327998834437059,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"241:10": {
+			"questIDHigh:4": 5778223253410303848,
+			"completed:9": {},
+			"questIDLow:4": -5584061388663357038,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"242:10": {
+			"questIDHigh:4": -1372884172587119371,
+			"completed:9": {},
+			"questIDLow:4": -6169333418219852914,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"243:10": {
+			"questIDHigh:4": -4511352948053161317,
+			"completed:9": {},
+			"questIDLow:4": -8669371118304264440,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"244:10": {
+			"questIDHigh:4": 3757018506481061658,
+			"completed:9": {},
+			"questIDLow:4": -6553211011274395715,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"245:10": {
+			"questIDHigh:4": -2572484977944345943,
+			"completed:9": {},
+			"questIDLow:4": -5519487777933449990,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"246:10": {
+			"questIDHigh:4": 4875742139930004832,
+			"completed:9": {},
+			"questIDLow:4": -5078853752703347928,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"247:10": {
+			"questIDHigh:4": 516501782184217822,
+			"completed:9": {},
+			"questIDLow:4": -7667210640945613012,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"248:10": {
+			"questIDHigh:4": -2566379510740596845,
+			"completed:9": {},
+			"questIDLow:4": -7624010954265991105,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"249:10": {
+			"questIDHigh:4": 1472129997330203102,
+			"completed:9": {},
+			"questIDLow:4": -5122595996497712881,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"250:10": {
+			"questIDHigh:4": 4674896486297716948,
+			"completed:9": {},
+			"questIDLow:4": -4914577999283689955,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"251:10": {
+			"questIDHigh:4": -7710967302518520456,
+			"completed:9": {},
+			"questIDLow:4": -8583937794756770671,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"252:10": {
+			"questIDHigh:4": -6992050241200044558,
+			"completed:9": {},
+			"questIDLow:4": -7462454564056231396,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"253:10": {
+			"questIDHigh:4": 5169363966652139067,
+			"completed:9": {},
+			"questIDLow:4": -5699585125611518891,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"254:10": {
+			"questIDHigh:4": -7610994645251702212,
+			"completed:9": {},
+			"questIDLow:4": -7146841061542814713,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"255:10": {
+			"questIDHigh:4": -2392592661118171375,
+			"completed:9": {},
+			"questIDLow:4": -6876063153209333214,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"256:10": {
+			"questIDHigh:4": 6690846790811403670,
+			"completed:9": {},
+			"questIDLow:4": -7871664155638703937,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"257:10": {
+			"questIDHigh:4": -5300740199626226240,
+			"completed:9": {},
+			"questIDLow:4": -7410257218850734354,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"258:10": {
+			"questIDHigh:4": 837004602159220425,
+			"completed:9": {},
+			"questIDLow:4": -9175552705902878038,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"259:10": {
+			"questIDHigh:4": 429325384660894861,
+			"completed:9": {},
+			"questIDLow:4": -7030818393361168421,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"260:10": {
+			"questIDHigh:4": 2254253329314302179,
+			"completed:9": {},
+			"questIDLow:4": -7915891879960024861,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"261:10": {
+			"questIDHigh:4": -5901722126921086844,
+			"completed:9": {},
+			"questIDLow:4": -7777425937654366926,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"262:10": {
+			"questIDHigh:4": -2165601505786051309,
+			"completed:9": {},
+			"questIDLow:4": -6016764749948645990,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"263:10": {
+			"questIDHigh:4": 2096036571217282680,
+			"completed:9": {},
+			"questIDLow:4": -7560859909224205549,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"264:10": {
+			"questIDHigh:4": -8500986046206295471,
+			"completed:9": {},
+			"questIDLow:4": -7665809992254766653,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"265:10": {
+			"questIDHigh:4": 2346263626647685843,
+			"completed:9": {},
+			"questIDLow:4": -6178971881584630778,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"266:10": {
+			"questIDHigh:4": 5856826976272140188,
+			"completed:9": {},
+			"questIDLow:4": -9132496082150391435,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"267:10": {
+			"questIDHigh:4": 3356744425408578870,
+			"completed:9": {},
+			"questIDLow:4": -5400160403347859391,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"268:10": {
+			"questIDHigh:4": -2936579537123521178,
+			"completed:9": {},
+			"questIDLow:4": -9025191261994389054,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"269:10": {
+			"questIDHigh:4": -7889882891836898910,
+			"completed:9": {},
+			"questIDLow:4": -4741955752261153927,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"270:10": {
+			"questIDHigh:4": -7990103019512905177,
+			"completed:9": {},
+			"questIDLow:4": -4979186761370450948,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"271:10": {
+			"questIDHigh:4": 2030220813305924265,
+			"completed:9": {},
+			"questIDLow:4": -8534061823131020298,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"272:10": {
+			"questIDHigh:4": -2084390937585892602,
+			"completed:9": {},
+			"questIDLow:4": -7366258650154964158,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"273:10": {
+			"questIDHigh:4": 6758765625937971593,
+			"completed:9": {},
+			"questIDLow:4": -6434941668364802571,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"274:10": {
+			"questIDHigh:4": 4150671316775881412,
+			"completed:9": {},
+			"questIDLow:4": -6927575336962777657,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"275:10": {
+			"questIDHigh:4": 7920914331836434377,
+			"completed:9": {},
+			"questIDLow:4": -7493979705350278393,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"276:10": {
+			"questIDHigh:4": -4720533937491132233,
+			"completed:9": {},
+			"questIDLow:4": -5627894208066901050,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"277:10": {
+			"questIDHigh:4": 7381530675732237939,
+			"completed:9": {},
+			"questIDLow:4": -8552904922229916942,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"278:10": {
+			"questIDHigh:4": -1822737953401976427,
+			"completed:9": {},
+			"questIDLow:4": -5479596567932455416,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"279:10": {
+			"questIDHigh:4": -5605680933603095732,
+			"completed:9": {},
+			"questIDLow:4": -6862814790549677249,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"280:10": {
+			"questIDHigh:4": -7303899481529956948,
+			"completed:9": {},
+			"questIDLow:4": -5192327700580098474,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"281:10": {
+			"questIDHigh:4": -3110708570580955685,
+			"completed:9": {},
+			"questIDLow:4": -7396923419749970144,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"282:10": {
+			"questIDHigh:4": 9067523284958201285,
+			"completed:9": {},
+			"questIDLow:4": -4687755928868641332,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"283:10": {
+			"questIDHigh:4": 6354243755044457494,
+			"completed:9": {},
+			"questIDLow:4": -7256905406142545886,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"284:10": {
+			"questIDHigh:4": -3067749607574582228,
+			"completed:9": {},
+			"questIDLow:4": -7104697669261046835,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"285:10": {
+			"questIDHigh:4": -3659860984108924660,
+			"completed:9": {},
+			"questIDLow:4": -8192230405234459938,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"286:10": {
+			"questIDHigh:4": -5768103807284721612,
+			"completed:9": {},
+			"questIDLow:4": -5602334373219422595,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"287:10": {
+			"questIDHigh:4": 2588302202844497743,
+			"completed:9": {},
+			"questIDLow:4": -8796399295997026022,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"288:10": {
+			"questIDHigh:4": -6796897078673453378,
+			"completed:9": {},
+			"questIDLow:4": -4887065416949897662,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"289:10": {
+			"questIDHigh:4": 7844290882613821751,
+			"completed:9": {},
+			"questIDLow:4": -7616020366133674225,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"290:10": {
+			"questIDHigh:4": -1037214290781124601,
+			"completed:9": {},
+			"questIDLow:4": -5502424376671694611,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"291:10": {
+			"questIDHigh:4": -3860272211729822452,
+			"completed:9": {},
+			"questIDLow:4": -6670274526983735746,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"292:10": {
+			"questIDHigh:4": 1606205952784941688,
+			"completed:9": {},
+			"questIDLow:4": -4835398979752633211,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"293:10": {
+			"questIDHigh:4": -9068794219472664560,
+			"completed:9": {},
+			"questIDLow:4": -8953936656671527906,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"294:10": {
+			"questIDHigh:4": 6633047852564628405,
+			"completed:9": {},
+			"questIDLow:4": -5678757474138312908,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"295:10": {
+			"questIDHigh:4": -1063283230052170903,
+			"completed:9": {},
+			"questIDLow:4": -9005524168017798157,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"296:10": {
+			"questIDHigh:4": -4502228416780743183,
+			"completed:9": {},
+			"questIDLow:4": -5476586837889594378,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"297:10": {
+			"questIDHigh:4": 4147739338056090622,
+			"completed:9": {},
+			"questIDLow:4": -8800675082732253075,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"298:10": {
+			"questIDHigh:4": -8201755812182406334,
+			"completed:9": {},
+			"questIDLow:4": -8997329878325563222,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"299:10": {
+			"questIDHigh:4": 4271961699674639749,
+			"completed:9": {},
+			"questIDLow:4": -8213784294496525181,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"300:10": {
+			"questIDHigh:4": 7663713254394118326,
+			"completed:9": {},
+			"questIDLow:4": -4874029869002358792,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"301:10": {
+			"questIDHigh:4": 8890242038551364113,
+			"completed:9": {},
+			"questIDLow:4": -6861133125322455829,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"302:10": {
+			"questIDHigh:4": -15528920169101279,
+			"completed:9": {},
+			"questIDLow:4": -6249138705268234786,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"303:10": {
+			"questIDHigh:4": 7172631210814816867,
+			"completed:9": {},
+			"questIDLow:4": -5420925524276290882,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"304:10": {
+			"questIDHigh:4": -1513965025947529638,
+			"completed:9": {},
+			"questIDLow:4": -6229675795998342019,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"305:10": {
+			"questIDHigh:4": -2428903440736042002,
+			"completed:9": {},
+			"questIDLow:4": -6503895264414081796,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"306:10": {
+			"questIDHigh:4": -7233707640590283622,
+			"completed:9": {},
+			"questIDLow:4": -7574903672865945529,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"307:10": {
+			"questIDHigh:4": 6501155954374885652,
+			"completed:9": {},
+			"questIDLow:4": -8859189882651103388,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"308:10": {
+			"questIDHigh:4": 523334092193415715,
+			"completed:9": {},
+			"questIDLow:4": -4799156611437796489,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"309:10": {
+			"questIDHigh:4": -6904408414154373210,
+			"completed:9": {},
+			"questIDLow:4": -8542649802995002812,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"310:10": {
+			"questIDHigh:4": -8844308959309968620,
+			"completed:9": {},
+			"questIDLow:4": -6641998477832071402,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"311:10": {
+			"questIDHigh:4": 9176968010673767754,
+			"completed:9": {},
+			"questIDLow:4": -7935236449294576826,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"312:10": {
+			"questIDHigh:4": -355960044602702531,
+			"completed:9": {},
+			"questIDLow:4": -8081740120231180749,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"313:10": {
+			"questIDHigh:4": 2291658975746476165,
+			"completed:9": {},
+			"questIDLow:4": -4798580601770621727,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"314:10": {
+			"questIDHigh:4": -3415268699969863540,
+			"completed:9": {},
+			"questIDLow:4": -6901836799442347072,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"315:10": {
+			"questIDHigh:4": -1163913261738668975,
+			"completed:9": {},
+			"questIDLow:4": -8444475322960813100,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"316:10": {
+			"questIDHigh:4": 8530180864135811010,
+			"completed:9": {},
+			"questIDLow:4": -5490705269565865709,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"317:10": {
+			"questIDHigh:4": 6848246825353498102,
+			"completed:9": {},
+			"questIDLow:4": -8452651979428736715,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"318:10": {
+			"questIDHigh:4": 7944627827529433484,
+			"completed:9": {},
+			"questIDLow:4": -8917032203275848600,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"319:10": {
+			"questIDHigh:4": -4159324461008336064,
+			"completed:9": {},
+			"questIDLow:4": -7018277371472672734,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"320:10": {
+			"questIDHigh:4": 2974232819798787374,
+			"completed:9": {},
+			"questIDLow:4": -6914006778951702502,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				},
+				"1:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 1,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"321:10": {
+			"questIDHigh:4": -2139290992403919930,
+			"completed:9": {},
+			"questIDLow:4": -4725062225867553342,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"322:10": {
+			"questIDHigh:4": 7430190187369679782,
+			"completed:9": {},
+			"questIDLow:4": -5072162026660137819,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"323:10": {
+			"questIDHigh:4": 3514932551629884603,
+			"completed:9": {},
+			"questIDLow:4": -5342222918124736915,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"324:10": {
+			"questIDHigh:4": -1801279904921206423,
+			"completed:9": {},
+			"questIDLow:4": -7039894880753012095,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"325:10": {
+			"questIDHigh:4": 3064828569999920448,
+			"completed:9": {},
+			"questIDLow:4": -7096882938968947904,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"326:10": {
+			"questIDHigh:4": -4949921769289661144,
+			"completed:9": {},
+			"questIDLow:4": -7912302295252780424,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"327:10": {
+			"questIDHigh:4": 1130705791041554571,
+			"completed:9": {},
+			"questIDLow:4": -7496624043496261696,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"328:10": {
+			"questIDHigh:4": 1709072080698952475,
+			"completed:9": {},
+			"questIDLow:4": -6626510711443288200,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"329:10": {
+			"questIDHigh:4": 3566798071482108552,
+			"completed:9": {},
+			"questIDLow:4": -6873284674458190533,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"330:10": {
+			"questIDHigh:4": 4806268205706396571,
+			"completed:9": {},
+			"questIDLow:4": -4852484722292824150,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				},
+				"1:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 1,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"331:10": {
+			"questIDHigh:4": 5282981036900437219,
+			"completed:9": {},
+			"questIDLow:4": -9069556870345011831,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"332:10": {
+			"questIDHigh:4": 2410824271375515759,
+			"completed:9": {},
+			"questIDLow:4": -9130751001641808986,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"333:10": {
+			"questIDHigh:4": -2656239221682779644,
+			"completed:9": {},
+			"questIDLow:4": -5159859880071294335,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"334:10": {
+			"questIDHigh:4": 160919343666708614,
+			"completed:9": {},
+			"questIDLow:4": -7445097713108400810,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"335:10": {
+			"questIDHigh:4": -3909975753410917542,
+			"completed:9": {},
+			"questIDLow:4": -5098054649906247645,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"336:10": {
+			"questIDHigh:4": -4055169189043421096,
+			"completed:9": {},
+			"questIDLow:4": -5397047462877542292,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"337:10": {
+			"questIDHigh:4": -938998297822934366,
+			"completed:9": {},
+			"questIDLow:4": -7035507452892154350,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"338:10": {
+			"questIDHigh:4": -8671361725542742710,
+			"completed:9": {},
+			"questIDLow:4": -5932698188286490412,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"339:10": {
+			"questIDHigh:4": -1258978038251240949,
+			"completed:9": {},
+			"questIDLow:4": -9197106743782508286,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"340:10": {
+			"questIDHigh:4": -1369162919382399896,
+			"completed:9": {},
+			"questIDLow:4": -5749843503732507463,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"341:10": {
+			"questIDHigh:4": 368852876056544021,
+			"completed:9": {},
+			"questIDLow:4": -8026216375081372787,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"342:10": {
+			"questIDHigh:4": -6223571074499129897,
+			"completed:9": {},
+			"questIDLow:4": -5353360646952173753,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"343:10": {
+			"questIDHigh:4": -905073240040389605,
+			"completed:9": {},
+			"questIDLow:4": -8488247826981880042,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				},
+				"1:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 1,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"344:10": {
+			"questIDHigh:4": -5531987336585131922,
+			"completed:9": {},
+			"questIDLow:4": -4986629227753608210,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"345:10": {
+			"questIDHigh:4": -9213596923932619366,
+			"completed:9": {},
+			"questIDLow:4": -8279330113957571130,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"346:10": {
+			"questIDHigh:4": -7627639515032696795,
+			"completed:9": {},
+			"questIDLow:4": -6239906358522099998,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"347:10": {
+			"questIDHigh:4": 3908031849345009205,
+			"completed:9": {},
+			"questIDLow:4": -5303368317812334583,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"348:10": {
+			"questIDHigh:4": 2671840128918965918,
+			"completed:9": {},
+			"questIDLow:4": -8775111031598497551,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"349:10": {
+			"questIDHigh:4": -6093078709061530907,
+			"completed:9": {},
+			"questIDLow:4": -6767874733336533217,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"350:10": {
+			"questIDHigh:4": -8469093697410676282,
+			"completed:9": {},
+			"questIDLow:4": -8650424772592086770,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"351:10": {
+			"questIDHigh:4": -7543483698802440822,
+			"completed:9": {},
+			"questIDLow:4": -7414776630772720509,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"352:10": {
+			"questIDHigh:4": 210705159581878691,
+			"completed:9": {},
+			"questIDLow:4": -6231035476267075517,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"353:10": {
+			"questIDHigh:4": 3281097449872180693,
+			"completed:9": {},
+			"questIDLow:4": -4837267197091388329,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"354:10": {
+			"questIDHigh:4": -8978101770619567588,
+			"completed:9": {},
+			"questIDLow:4": -8681847766503007679,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"355:10": {
+			"questIDHigh:4": 1232801832887206453,
+			"completed:9": {},
+			"questIDLow:4": -6883229164908097315,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"356:10": {
+			"questIDHigh:4": 1810980667785692602,
+			"completed:9": {},
+			"questIDLow:4": -8005259824184277537,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"357:10": {
+			"questIDHigh:4": -6290787146174870142,
+			"completed:9": {},
+			"questIDLow:4": -6392122826660732124,
+			"tasks:9": {}
+		},
+		"358:10": {
+			"questIDHigh:4": -5587148386160721652,
+			"completed:9": {},
+			"questIDLow:4": -5989652572416134079,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"359:10": {
+			"questIDHigh:4": -2235665689529465221,
+			"completed:9": {},
+			"questIDLow:4": -9193082280260980452,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"360:10": {
+			"questIDHigh:4": -2889834681750764814,
+			"completed:9": {},
+			"questIDLow:4": -6869911301342609124,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"361:10": {
+			"questIDHigh:4": -5058173200376183025,
+			"completed:9": {},
+			"questIDLow:4": -7108064931989180266,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"362:10": {
+			"questIDHigh:4": -2749220244420082881,
+			"completed:9": {},
+			"questIDLow:4": -7812824491234712675,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"363:10": {
+			"questIDHigh:4": -4738643749029787564,
+			"completed:9": {},
+			"questIDLow:4": -5706736324243536235,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"364:10": {
+			"questIDHigh:4": -7330648854896358871,
+			"completed:9": {},
+			"questIDLow:4": -5642125086567877946,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"365:10": {
+			"questIDHigh:4": 7364720056174595327,
+			"completed:9": {},
+			"questIDLow:4": -5616021212981806199,
+			"tasks:9": {}
+		},
+		"366:10": {
+			"questIDHigh:4": 4644581796167437584,
+			"completed:9": {},
+			"questIDLow:4": -6680246839555939924,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"367:10": {
+			"questIDHigh:4": 8049444976136768599,
+			"completed:9": {},
+			"questIDLow:4": -5916880343610394186,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"368:10": {
+			"questIDHigh:4": -8512313322587664745,
+			"completed:9": {},
+			"questIDLow:4": -6920200763306563373,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"369:10": {
+			"questIDHigh:4": 7365168802323710202,
+			"completed:9": {},
+			"questIDLow:4": -6371018720232407200,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"370:10": {
+			"questIDHigh:4": 2213702004055425595,
+			"completed:9": {},
+			"questIDLow:4": -6881357605596995872,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"371:10": {
+			"questIDHigh:4": 1903953651191400084,
+			"completed:9": {},
+			"questIDLow:4": -5339385219096450109,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"372:10": {
+			"questIDHigh:4": -5857018287373267602,
+			"completed:9": {},
+			"questIDLow:4": -8735665929769718854,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"373:10": {
+			"questIDHigh:4": 8365005995943544373,
+			"completed:9": {},
+			"questIDLow:4": -9073360472986592574,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"374:10": {
+			"questIDHigh:4": -214277949162303632,
+			"completed:9": {},
+			"questIDLow:4": -5037682717005520278,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"375:10": {
+			"questIDHigh:4": -7668828402744671647,
+			"completed:9": {},
+			"questIDLow:4": -6463100582956700119,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"376:10": {
+			"questIDHigh:4": 5660986799840118688,
+			"completed:9": {},
+			"questIDLow:4": -6756250230022312371,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"377:10": {
+			"questIDHigh:4": 4892864870114936854,
+			"completed:9": {},
+			"questIDLow:4": -7811199658821168899,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"378:10": {
+			"questIDHigh:4": -7172266920194062555,
+			"completed:9": {},
+			"questIDLow:4": -9197504115954539105,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"379:10": {
+			"questIDHigh:4": 4340789627742143307,
+			"completed:9": {},
+			"questIDLow:4": -6615589098142230907,
+			"tasks:9": {}
+		},
+		"380:10": {
+			"questIDHigh:4": 5508399323129200704,
+			"completed:9": {},
+			"questIDLow:4": -5877827069669802865,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"381:10": {
+			"questIDHigh:4": 8129336804746415170,
+			"completed:9": {},
+			"questIDLow:4": -7097252121233152499,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"382:10": {
+			"questIDHigh:4": 1056031025546216315,
+			"completed:9": {},
+			"questIDLow:4": -7359050707130038409,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"383:10": {
+			"questIDHigh:4": 3967994585831853467,
+			"completed:9": {},
+			"questIDLow:4": -6857329849299089799,
+			"tasks:9": {}
+		},
+		"384:10": {
+			"questIDHigh:4": 4455423652659413299,
+			"completed:9": {},
+			"questIDLow:4": -7498218729174906497,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"385:10": {
+			"questIDHigh:4": 394027425038026191,
+			"completed:9": {},
+			"questIDLow:4": -6098952440110393002,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"386:10": {
+			"questIDHigh:4": -5206576109735687160,
+			"completed:9": {},
+			"questIDLow:4": -7558010861587216328,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"387:10": {
+			"questIDHigh:4": 8711808913247520397,
+			"completed:9": {},
+			"questIDLow:4": -8295248804742191655,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"388:10": {
+			"questIDHigh:4": 1970742922780361939,
+			"completed:9": {},
+			"questIDLow:4": -7777333804940126056,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"389:10": {
+			"questIDHigh:4": -6733689074410894311,
+			"completed:9": {},
+			"questIDLow:4": -8392725833698090043,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"390:10": {
+			"questIDHigh:4": 4584524793515364042,
+			"completed:9": {},
+			"questIDLow:4": -6039679470750002251,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"391:10": {
+			"questIDHigh:4": -3655832766596038106,
+			"completed:9": {},
+			"questIDLow:4": -8740126353126204381,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"392:10": {
+			"questIDHigh:4": 4310647982189201310,
+			"completed:9": {},
+			"questIDLow:4": -9044224964966325900,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"393:10": {
+			"questIDHigh:4": 2675380618400777003,
+			"completed:9": {},
+			"questIDLow:4": -7356162570183548581,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"394:10": {
+			"questIDHigh:4": -8049142819396893763,
+			"completed:9": {},
+			"questIDLow:4": -5640322354955263038,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"395:10": {
+			"questIDHigh:4": -3699512526516171576,
+			"completed:9": {},
+			"questIDLow:4": -7501541291371076318,
+			"tasks:9": {}
+		},
+		"396:10": {
+			"questIDHigh:4": -4428605549869250568,
+			"completed:9": {},
+			"questIDLow:4": -7951658161127748676,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"397:10": {
+			"questIDHigh:4": -3723662774819140828,
+			"completed:9": {},
+			"questIDLow:4": -7733263317721586794,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"398:10": {
+			"questIDHigh:4": 1664910365716073133,
+			"completed:9": {},
+			"questIDLow:4": -5149558316626961235,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"399:10": {
+			"questIDHigh:4": -1951717528143183263,
+			"completed:9": {},
+			"questIDLow:4": -9004306980989996152,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"400:10": {
+			"questIDHigh:4": -3526549483515395139,
+			"completed:9": {},
+			"questIDLow:4": -5520398828775407912,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"401:10": {
+			"questIDHigh:4": -3483360997638060806,
+			"completed:9": {},
+			"questIDLow:4": -8034732687044059768,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"402:10": {
+			"questIDHigh:4": 840572594787929518,
+			"completed:9": {},
+			"questIDLow:4": -5840188929162856584,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"403:10": {
+			"questIDHigh:4": 1332696685118179360,
+			"completed:9": {},
+			"questIDLow:4": -5122879729510569443,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"404:10": {
+			"questIDHigh:4": -6205401942609870075,
+			"completed:9": {},
+			"questIDLow:4": -7257222123019615693,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"405:10": {
+			"questIDHigh:4": -5876426187076253783,
+			"completed:9": {},
+			"questIDLow:4": -5483686024201471225,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"406:10": {
+			"questIDHigh:4": 2334108959627297807,
+			"completed:9": {},
+			"questIDLow:4": -6967903960939036998,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"407:10": {
+			"questIDHigh:4": 2781116030607641233,
+			"completed:9": {},
+			"questIDLow:4": -5172354700887919438,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"408:10": {
+			"questIDHigh:4": 5787169307489944610,
+			"completed:9": {},
+			"questIDLow:4": -7727464071181059104,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"409:10": {
+			"questIDHigh:4": 6047130904854940559,
+			"completed:9": {},
+			"questIDLow:4": -7970419770328048250,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"410:10": {
+			"questIDHigh:4": -4413300665363642766,
+			"completed:9": {},
+			"questIDLow:4": -5907063416314985972,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"411:10": {
+			"questIDHigh:4": 1951537849710430498,
+			"completed:9": {},
+			"questIDLow:4": -7357795248356581658,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"412:10": {
+			"questIDHigh:4": -1001376980282881787,
+			"completed:9": {},
+			"questIDLow:4": -5940450445902810318,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"413:10": {
+			"questIDHigh:4": -9194009493234039913,
+			"completed:9": {},
+			"questIDLow:4": -6319502078997661282,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"414:10": {
+			"questIDHigh:4": -4338319959402264416,
+			"completed:9": {},
+			"questIDLow:4": -6342387336372132783,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"415:10": {
+			"questIDHigh:4": 1349567960790942823,
+			"completed:9": {},
+			"questIDLow:4": -8789409157570457159,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"416:10": {
+			"questIDHigh:4": -8058993198675311009,
+			"completed:9": {},
+			"questIDLow:4": -9103132466181309679,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"417:10": {
+			"questIDHigh:4": -662507505507874202,
+			"completed:9": {},
+			"questIDLow:4": -8139629591349965090,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"418:10": {
+			"questIDHigh:4": -796108768503905804,
+			"completed:9": {},
+			"questIDLow:4": -6342561679848473178,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"419:10": {
+			"questIDHigh:4": -260588712432941701,
+			"completed:9": {},
+			"questIDLow:4": -5641697896731638606,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"420:10": {
+			"questIDHigh:4": -8349782223013067151,
+			"completed:9": {},
+			"questIDLow:4": -6965123640735711697,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"421:10": {
+			"questIDHigh:4": 1541032994695955897,
+			"completed:9": {},
+			"questIDLow:4": -6303707739608629558,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"422:10": {
+			"questIDHigh:4": -661786619821012134,
+			"completed:9": {},
+			"questIDLow:4": -4935919886043804435,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"423:10": {
+			"questIDHigh:4": -598139419975332046,
+			"completed:9": {},
+			"questIDLow:4": -6809824609314584052,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"424:10": {
+			"questIDHigh:4": -7440641621789489648,
+			"completed:9": {},
+			"questIDLow:4": -7584328625060975714,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"425:10": {
+			"questIDHigh:4": -3846737907105642638,
+			"completed:9": {},
+			"questIDLow:4": -5736107749055338321,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"426:10": {
+			"questIDHigh:4": -8383127919341122637,
+			"completed:9": {},
+			"questIDLow:4": -6034389468892648875,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"427:10": {
+			"questIDHigh:4": -7678194609800329224,
+			"completed:9": {},
+			"questIDLow:4": -5125088350995658696,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"428:10": {
+			"questIDHigh:4": 3228263595510811799,
+			"completed:9": {},
+			"questIDLow:4": -4620353469027102276,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"429:10": {
+			"questIDHigh:4": 4182271193466355934,
+			"completed:9": {},
+			"questIDLow:4": -6211309868750102678,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"430:10": {
+			"questIDHigh:4": 4460269705232925086,
+			"completed:9": {},
+			"questIDLow:4": -5159244326398924157,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"431:10": {
+			"questIDHigh:4": 2673910769364127155,
+			"completed:9": {},
+			"questIDLow:4": -8012703728722802259,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"432:10": {
+			"questIDHigh:4": 882195841490570942,
+			"completed:9": {},
+			"questIDLow:4": -5214343257169430563,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"433:10": {
+			"questIDHigh:4": -7171830025553097146,
+			"completed:9": {},
+			"questIDLow:4": -7515528112422670346,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"434:10": {
+			"questIDHigh:4": -6195631025273683136,
+			"completed:9": {},
+			"questIDLow:4": -8864175390063364859,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"435:10": {
+			"questIDHigh:4": -7397597231395353227,
+			"completed:9": {},
+			"questIDLow:4": -7485456247411744213,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"436:10": {
+			"questIDHigh:4": -6786747689275275667,
+			"completed:9": {},
+			"questIDLow:4": -5034950312477683953,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"437:10": {
+			"questIDHigh:4": 6487819969929235028,
+			"completed:9": {},
+			"questIDLow:4": -5281955815098115010,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"438:10": {
+			"questIDHigh:4": 2285350312962507709,
+			"completed:9": {},
+			"questIDLow:4": -8839161843382137892,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"439:10": {
+			"questIDHigh:4": 5173648777165292499,
+			"completed:9": {},
+			"questIDLow:4": -7075678770940153733,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"440:10": {
+			"questIDHigh:4": 2507867023969699978,
+			"completed:9": {},
+			"questIDLow:4": -5415145761016979209,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"441:10": {
+			"questIDHigh:4": 3908098691422440082,
+			"completed:9": {},
+			"questIDLow:4": -5955054697243344875,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"442:10": {
+			"questIDHigh:4": 1587449459813795920,
+			"completed:9": {},
+			"questIDLow:4": -6154412186092441422,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"443:10": {
+			"questIDHigh:4": -836689254833437882,
+			"completed:9": {},
+			"questIDLow:4": -8931102570390973517,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"444:10": {
+			"questIDHigh:4": -2396808011879594327,
+			"completed:9": {},
+			"questIDLow:4": -4641797287011205154,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"445:10": {
+			"questIDHigh:4": 5056813241084560950,
+			"completed:9": {},
+			"questIDLow:4": -5190415098550149184,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"446:10": {
+			"questIDHigh:4": 5315250639827652554,
+			"completed:9": {},
+			"questIDLow:4": -6639913292188713745,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"447:10": {
+			"questIDHigh:4": 3141867198928996089,
+			"completed:9": {},
+			"questIDLow:4": -7860663775124379456,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"448:10": {
+			"questIDHigh:4": 8014047607009790802,
+			"completed:9": {},
+			"questIDLow:4": -5823135550547583617,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"449:10": {
+			"questIDHigh:4": 5714576742919915457,
+			"completed:9": {},
+			"questIDLow:4": -5655480191839481342,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				},
+				"1:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 1,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"450:10": {
+			"questIDHigh:4": -3733055800329286663,
+			"completed:9": {},
+			"questIDLow:4": -7222037502736586118,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"451:10": {
+			"questIDHigh:4": 4606995678422974670,
+			"completed:9": {},
+			"questIDLow:4": -7317287309536206220,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"452:10": {
+			"questIDHigh:4": -6633746127516057521,
+			"completed:9": {},
+			"questIDLow:4": -8675113111770780095,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				},
+				"1:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 1,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"453:10": {
+			"questIDHigh:4": 5147222624465013951,
+			"completed:9": {},
+			"questIDLow:4": -6566534662512924326,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"454:10": {
+			"questIDHigh:4": 6636592115394695083,
+			"completed:9": {},
+			"questIDLow:4": -8155226916921384946,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"455:10": {
+			"questIDHigh:4": 8595830905584829448,
+			"completed:9": {},
+			"questIDLow:4": -6473205249130119044,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"456:10": {
+			"questIDHigh:4": -7651856388657428255,
+			"completed:9": {},
+			"questIDLow:4": -5064755395760053178,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"457:10": {
+			"questIDHigh:4": -3833967385462029033,
+			"completed:9": {},
+			"questIDLow:4": -6562047766959382139,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"458:10": {
+			"questIDHigh:4": -4964672481837822086,
+			"completed:9": {},
+			"questIDLow:4": -8791528966519303363,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"459:10": {
+			"questIDHigh:4": -7139128278271375110,
+			"completed:9": {},
+			"questIDLow:4": -7000717114710781097,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"460:10": {
+			"questIDHigh:4": -7061505793686746123,
+			"completed:9": {},
+			"questIDLow:4": -5460934483257338962,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"461:10": {
+			"questIDHigh:4": -4696927882128441002,
+			"completed:9": {},
+			"questIDLow:4": -8616918778888467503,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"462:10": {
+			"questIDHigh:4": 8401165519968030204,
+			"completed:9": {},
+			"questIDLow:4": -6631315556878681975,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"463:10": {
+			"questIDHigh:4": -5720655901720229236,
+			"completed:9": {},
+			"questIDLow:4": -6086363186967215818,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"464:10": {
+			"questIDHigh:4": -8484640069691357868,
+			"completed:9": {},
+			"questIDLow:4": -7235681872162725480,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"465:10": {
+			"questIDHigh:4": -6775349152269777245,
+			"completed:9": {},
+			"questIDLow:4": -4960838994872274645,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"466:10": {
+			"questIDHigh:4": -5644111477201746581,
+			"completed:9": {},
+			"questIDLow:4": -5473870225696215478,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"467:10": {
+			"questIDHigh:4": 958532753299621979,
+			"completed:9": {},
+			"questIDLow:4": -6329108435261101428,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"468:10": {
+			"questIDHigh:4": 6115487422326457096,
+			"completed:9": {},
+			"questIDLow:4": -9151174505455681230,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"469:10": {
+			"questIDHigh:4": -5795154424393612713,
+			"completed:9": {},
+			"questIDLow:4": -4852664495076587205,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"470:10": {
+			"questIDHigh:4": -8614308508069444624,
+			"completed:9": {},
+			"questIDLow:4": -5678140026357474535,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"471:10": {
+			"questIDHigh:4": 6348831232108153550,
+			"completed:9": {},
+			"questIDLow:4": -8590529806581464210,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"472:10": {
+			"questIDHigh:4": 4102505938511022252,
+			"completed:9": {},
+			"questIDLow:4": -7713326887471920346,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"473:10": {
+			"questIDHigh:4": 6313130676192691919,
+			"completed:9": {},
+			"questIDLow:4": -6963650727955730442,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"474:10": {
+			"questIDHigh:4": -8481907286345167990,
+			"completed:9": {},
+			"questIDLow:4": -7006059421478894512,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"475:10": {
+			"questIDHigh:4": 253410256434839600,
+			"completed:9": {},
+			"questIDLow:4": -8870087808300093189,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"476:10": {
+			"questIDHigh:4": -8715057523503708437,
+			"completed:9": {},
+			"questIDLow:4": -6694297962601222206,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"477:10": {
+			"questIDHigh:4": 3843517844656770286,
+			"completed:9": {},
+			"questIDLow:4": -4885710144334534485,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"478:10": {
+			"questIDHigh:4": 371421238755344488,
+			"completed:9": {},
+			"questIDLow:4": -4850017524501305582,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"479:10": {
+			"questIDHigh:4": -377160704645053686,
+			"completed:9": {},
+			"questIDLow:4": -9010224348474187696,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"480:10": {
+			"questIDHigh:4": -9062182794600035571,
+			"completed:9": {},
+			"questIDLow:4": -9009875708306534840,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"481:10": {
+			"questIDHigh:4": -8479437109471327353,
+			"completed:9": {},
+			"questIDLow:4": -6704985758646396831,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"482:10": {
+			"questIDHigh:4": 4946032717056395526,
+			"completed:9": {},
+			"questIDLow:4": -7678288845456618149,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"483:10": {
+			"questIDHigh:4": 4667541473124764681,
+			"completed:9": {},
+			"questIDLow:4": -6324811073955148178,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"484:10": {
+			"questIDHigh:4": 2326889652323370290,
+			"completed:9": {},
+			"questIDLow:4": -7756882540822709812,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"485:10": {
+			"questIDHigh:4": -1022932956216079395,
+			"completed:9": {},
+			"questIDLow:4": -7176481277291084822,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"486:10": {
+			"questIDHigh:4": -6523204670658163928,
+			"completed:9": {},
+			"questIDLow:4": -7034121605964660671,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"487:10": {
+			"questIDHigh:4": 7313092324975003449,
+			"completed:9": {},
+			"questIDLow:4": -5131516352407399221,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"488:10": {
+			"questIDHigh:4": -1150275630350055578,
+			"completed:9": {},
+			"questIDLow:4": -5524133064529058258,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"489:10": {
+			"questIDHigh:4": -2580626808266339525,
+			"completed:9": {},
+			"questIDLow:4": -8410581787255047721,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"490:10": {
+			"questIDHigh:4": 9175904330107865416,
+			"completed:9": {},
+			"questIDLow:4": -6889860903745536679,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"491:10": {
+			"questIDHigh:4": 538876044405458168,
+			"completed:9": {},
+			"questIDLow:4": -5469444360652212548,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"492:10": {
+			"questIDHigh:4": 8971768911972941833,
+			"completed:9": {},
+			"questIDLow:4": -6969092591660205257,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"493:10": {
+			"questIDHigh:4": 6234409329121902784,
+			"completed:9": {},
+			"questIDLow:4": -6018803472385633984,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"494:10": {
+			"questIDHigh:4": 4968413390394245602,
+			"completed:9": {},
+			"questIDLow:4": -9178324388185333922,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"495:10": {
+			"questIDHigh:4": -7578228903194967322,
+			"completed:9": {},
+			"questIDLow:4": -4901662348502105176,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"496:10": {
+			"questIDHigh:4": 7218173254530976809,
+			"completed:9": {},
+			"questIDLow:4": -4877422658383413976,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"497:10": {
+			"questIDHigh:4": -7204252079850501013,
+			"completed:9": {},
+			"questIDLow:4": -6685380437138626395,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"498:10": {
+			"questIDHigh:4": 1110621626957908051,
+			"completed:9": {},
+			"questIDLow:4": -9061811431029957316,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"499:10": {
+			"questIDHigh:4": -946996209478319452,
+			"completed:9": {},
+			"questIDLow:4": -4994660945911838188,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"500:10": {
+			"questIDHigh:4": 491033524705838420,
+			"completed:9": {},
+			"questIDLow:4": -5357163027649959388,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				},
+				"1:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 1,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"501:10": {
+			"questIDHigh:4": 2098381764083795254,
+			"completed:9": {},
+			"questIDLow:4": -8548274230523135190,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"502:10": {
+			"questIDHigh:4": 2170317882280267647,
+			"completed:9": {},
+			"questIDLow:4": -6531954863863403700,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"503:10": {
+			"questIDHigh:4": -6373747645955945194,
+			"completed:9": {},
+			"questIDLow:4": -7147860255372757624,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"504:10": {
+			"questIDHigh:4": 9100368160951911327,
+			"completed:9": {},
+			"questIDLow:4": -8134203712135199780,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"505:10": {
+			"questIDHigh:4": 4582545110048261391,
+			"completed:9": {},
+			"questIDLow:4": -5982126495170620474,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"506:10": {
+			"questIDHigh:4": -5623640969138189530,
+			"completed:9": {},
+			"questIDLow:4": -7572708062107613024,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"507:10": {
+			"questIDHigh:4": -2758666444544849334,
+			"completed:9": {},
+			"questIDLow:4": -8475559326051849914,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"508:10": {
+			"questIDHigh:4": 7498058838887845215,
+			"completed:9": {},
+			"questIDLow:4": -8575832043399311480,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"509:10": {
+			"questIDHigh:4": 273282075733344473,
+			"completed:9": {},
+			"questIDLow:4": -6554862292169057853,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"510:10": {
+			"questIDHigh:4": -3809360241016091057,
+			"completed:9": {},
+			"questIDLow:4": -7825531184363264666,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"511:10": {
+			"questIDHigh:4": 7008223802148929989,
+			"completed:9": {},
+			"questIDLow:4": -5530682365106056640,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"512:10": {
+			"questIDHigh:4": 3446830389759265076,
+			"completed:9": {},
+			"questIDLow:4": -5914385548247330091,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"513:10": {
+			"questIDHigh:4": 1511326166673805047,
+			"completed:9": {},
+			"questIDLow:4": -8551750873061685154,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"514:10": {
+			"questIDHigh:4": -330984435551288825,
+			"completed:9": {},
+			"questIDLow:4": -7705201396244757181,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"515:10": {
+			"questIDHigh:4": 7200696429555369839,
+			"completed:9": {},
+			"questIDLow:4": -9019573661804532760,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"516:10": {
+			"questIDHigh:4": -2295472487701724385,
+			"completed:9": {},
+			"questIDLow:4": -4623938917489137115,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"517:10": {
+			"questIDHigh:4": 4509800810698985316,
+			"completed:9": {},
+			"questIDLow:4": -4866940733851910983,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"518:10": {
+			"questIDHigh:4": 1729856748475073280,
+			"completed:9": {},
+			"questIDLow:4": -6492370633128847435,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"519:10": {
+			"questIDHigh:4": -7357277767196325744,
+			"completed:9": {},
+			"questIDLow:4": -5276489438681505640,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"520:10": {
+			"questIDHigh:4": -7412502676584510414,
+			"completed:9": {},
+			"questIDLow:4": -5870665427206671912,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"521:10": {
+			"questIDHigh:4": 8946462301989914332,
+			"completed:9": {},
+			"questIDLow:4": -8905036390045985545,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"522:10": {
+			"questIDHigh:4": 8407918700866781791,
+			"completed:9": {},
+			"questIDLow:4": -7651037904108992100,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"523:10": {
+			"questIDHigh:4": 1907168537971412301,
+			"completed:9": {},
+			"questIDLow:4": -5941515410196885837,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"524:10": {
+			"questIDHigh:4": 3611740737398197641,
+			"completed:9": {},
+			"questIDLow:4": -7724108496963524733,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"525:10": {
+			"questIDHigh:4": 3141998952762265167,
+			"completed:9": {},
+			"questIDLow:4": -8321760918272095173,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"526:10": {
+			"questIDHigh:4": -2641767902919767064,
+			"completed:9": {},
+			"questIDLow:4": -5577839604542417627,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"527:10": {
+			"questIDHigh:4": 2593345538282245509,
+			"completed:9": {},
+			"questIDLow:4": -4744495743692551210,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"528:10": {
+			"questIDHigh:4": -3530264932464573667,
+			"completed:9": {},
+			"questIDLow:4": -7554509662643370717,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"529:10": {
+			"questIDHigh:4": 8476612681570994102,
+			"completed:9": {},
+			"questIDLow:4": -6704417360578749473,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"530:10": {
+			"questIDHigh:4": 5257102322269306944,
+			"completed:9": {},
+			"questIDLow:4": -7205455273722977073,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"531:10": {
+			"questIDHigh:4": 7611127084558206081,
+			"completed:9": {},
+			"questIDLow:4": -7166572612405378082,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"532:10": {
+			"questIDHigh:4": 2677421067606311996,
+			"completed:9": {},
+			"questIDLow:4": -6808731850289616928,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"533:10": {
+			"questIDHigh:4": 4356916410301042273,
+			"completed:9": {},
+			"questIDLow:4": -7816043048127836869,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"534:10": {
+			"questIDHigh:4": -1890968144119839469,
+			"completed:9": {},
+			"questIDLow:4": -4961124246994840068,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"535:10": {
+			"questIDHigh:4": -5909694954189600559,
+			"completed:9": {},
+			"questIDLow:4": -9015805682304973055,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"536:10": {
+			"questIDHigh:4": -8617354126755737690,
+			"completed:9": {},
+			"questIDLow:4": -5252623915759782988,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"537:10": {
+			"questIDHigh:4": 2217454360207183618,
+			"completed:9": {},
+			"questIDLow:4": -5048467082434346939,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"538:10": {
+			"questIDHigh:4": -2212313154831890445,
+			"completed:9": {},
+			"questIDLow:4": -4621115395267352552,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"539:10": {
+			"questIDHigh:4": -3164811111194606375,
+			"completed:9": {},
+			"questIDLow:4": -8755166310544388435,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"540:10": {
+			"questIDHigh:4": -8894199764637891624,
+			"completed:9": {},
+			"questIDLow:4": -4950604306128495014,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"541:10": {
+			"questIDHigh:4": -6296948125584178378,
+			"completed:9": {},
+			"questIDLow:4": -6437135493929006664,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"542:10": {
+			"questIDHigh:4": 5919162688488359551,
+			"completed:9": {},
+			"questIDLow:4": -7487529470503698951,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"543:10": {
+			"questIDHigh:4": 1909868226625684581,
+			"completed:9": {},
+			"questIDLow:4": -7731134601379749555,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"544:10": {
+			"questIDHigh:4": -2902147926778689281,
+			"completed:9": {},
+			"questIDLow:4": -6300786248937729382,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"545:10": {
+			"questIDHigh:4": 2009603961030920690,
+			"completed:9": {},
+			"questIDLow:4": -6623687773042753668,
+			"tasks:9": {}
+		},
+		"546:10": {
+			"questIDHigh:4": 4107732048897265486,
+			"completed:9": {},
+			"questIDLow:4": -8661389290155361261,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"547:10": {
+			"questIDHigh:4": 4180013934204702718,
+			"completed:9": {},
+			"questIDLow:4": -4847568743659784830,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"548:10": {
+			"questIDHigh:4": 8124517359319076852,
+			"completed:9": {},
+			"questIDLow:4": -8192296579238302410,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"549:10": {
+			"questIDHigh:4": 5857960697183357027,
+			"completed:9": {},
+			"questIDLow:4": -8270506228544662356,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"550:10": {
+			"questIDHigh:4": 4154772439536191006,
+			"completed:9": {},
+			"questIDLow:4": -7167546431257956752,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"551:10": {
+			"questIDHigh:4": -2097988145382405333,
+			"completed:9": {},
+			"questIDLow:4": -6184557864711483234,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"552:10": {
+			"questIDHigh:4": 2716293497222808480,
+			"completed:9": {},
+			"questIDLow:4": -7882159632678522057,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"553:10": {
+			"questIDHigh:4": -6861535267512172255,
+			"completed:9": {},
+			"questIDLow:4": -8435594025915105036,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"554:10": {
+			"questIDHigh:4": 3904674027556455845,
+			"completed:9": {},
+			"questIDLow:4": -5766160052915398953,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"555:10": {
+			"questIDHigh:4": 4835282609846569240,
+			"completed:9": {},
+			"questIDLow:4": -8590298366028095230,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"556:10": {
+			"questIDHigh:4": -340821331661668178,
+			"completed:9": {},
+			"questIDLow:4": -5023529743681534856,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"557:10": {
+			"questIDHigh:4": 5767561108355042778,
+			"completed:9": {},
+			"questIDLow:4": -5511888372156823803,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"558:10": {
+			"questIDHigh:4": 2731071374711802521,
+			"completed:9": {},
+			"questIDLow:4": -4628405271117733922,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"559:10": {
+			"questIDHigh:4": -5385402441734664523,
+			"completed:9": {},
+			"questIDLow:4": -8433196943523498272,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"560:10": {
+			"questIDHigh:4": -4708563358600575040,
+			"completed:9": {},
+			"questIDLow:4": -7843694954478670360,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"561:10": {
+			"questIDHigh:4": -5239421543044461142,
+			"completed:9": {},
+			"questIDLow:4": -4613886487614895065,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"562:10": {
+			"questIDHigh:4": 2449248401898424477,
+			"completed:9": {},
+			"questIDLow:4": -5706750024321642298,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"563:10": {
+			"questIDHigh:4": 4200369181483814882,
+			"completed:9": {},
+			"questIDLow:4": -7117681069446628015,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"564:10": {
+			"questIDHigh:4": 1266478641841851821,
+			"completed:9": {},
+			"questIDLow:4": -8382367417752327450,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"565:10": {
+			"questIDHigh:4": -2851782656760133354,
+			"completed:9": {},
+			"questIDLow:4": -6195443786912749978,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				},
+				"1:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 1,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"566:10": {
+			"questIDHigh:4": 890092595384828922,
+			"completed:9": {},
+			"questIDLow:4": -5567271685693095440,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"567:10": {
+			"questIDHigh:4": -1753987314072924843,
+			"completed:9": {},
+			"questIDLow:4": -5672439303559060927,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"568:10": {
+			"questIDHigh:4": 637132650331783493,
+			"completed:9": {},
+			"questIDLow:4": -5011468593738072055,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"569:10": {
+			"questIDHigh:4": 7038896724167771446,
+			"completed:9": {},
+			"questIDLow:4": -7374534256126155404,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"570:10": {
+			"questIDHigh:4": 5249189046473474234,
+			"completed:9": {},
+			"questIDLow:4": -8594916787168342270,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"571:10": {
+			"questIDHigh:4": 7983633052344995736,
+			"completed:9": {},
+			"questIDLow:4": -5599770163969622408,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"572:10": {
+			"questIDHigh:4": -9143285389605715075,
+			"completed:9": {},
+			"questIDLow:4": -7056581636329672308,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"573:10": {
+			"questIDHigh:4": 2880610878230973717,
+			"completed:9": {},
+			"questIDLow:4": -5748443632692093747,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"574:10": {
+			"questIDHigh:4": -3975775797551019713,
+			"completed:9": {},
+			"questIDLow:4": -6301397372265596730,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"575:10": {
+			"questIDHigh:4": -2758830324080816734,
+			"completed:9": {},
+			"questIDLow:4": -6345376421862529644,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"576:10": {
+			"questIDHigh:4": 8697218063315849155,
+			"completed:9": {},
+			"questIDLow:4": -8807810801618012794,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"577:10": {
+			"questIDHigh:4": -1918905391378577232,
+			"completed:9": {},
+			"questIDLow:4": -5967051168756623718,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"578:10": {
+			"questIDHigh:4": -3204582446701786457,
+			"completed:9": {},
+			"questIDLow:4": -5315068414975089341,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"579:10": {
+			"questIDHigh:4": 6349003081426356628,
+			"completed:9": {},
+			"questIDLow:4": -4887778294146528678,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"580:10": {
+			"questIDHigh:4": -5403040345177044386,
+			"completed:9": {},
+			"questIDLow:4": -4963933233881338532,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"581:10": {
+			"questIDHigh:4": 2959308726109487459,
+			"completed:9": {},
+			"questIDLow:4": -5639117106712716363,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"582:10": {
+			"questIDHigh:4": 1377086777731007930,
+			"completed:9": {},
+			"questIDLow:4": -8804962166014045648,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"583:10": {
+			"questIDHigh:4": -3044982639342173065,
+			"completed:9": {},
+			"questIDLow:4": -7472356859568910787,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"584:10": {
+			"questIDHigh:4": -2075354289217253952,
+			"completed:9": {},
+			"questIDLow:4": -7738116599691000439,
+			"tasks:9": {}
+		},
+		"585:10": {
+			"questIDHigh:4": -5425988350390876465,
+			"completed:9": {},
+			"questIDLow:4": -6672833446745412444,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"586:10": {
+			"questIDHigh:4": 6733806809241372753,
+			"completed:9": {},
+			"questIDLow:4": -8811528899432160361,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"587:10": {
+			"questIDHigh:4": -22671935657325575,
+			"completed:9": {},
+			"questIDLow:4": -5619657969527208816,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"588:10": {
+			"questIDHigh:4": 8979428962723448753,
+			"completed:9": {},
+			"questIDLow:4": -8357457115330687664,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:hunt"
+				}
+			}
+		},
+		"589:10": {
+			"questIDHigh:4": -5604188395478627089,
+			"completed:9": {},
+			"questIDLow:4": -7673367001635369194,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"590:10": {
+			"questIDHigh:4": -5553474404547604950,
+			"completed:9": {},
+			"questIDLow:4": -9147650760985850773,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"591:10": {
+			"questIDHigh:4": -3999409107280901327,
+			"completed:9": {},
+			"questIDLow:4": -4739021001588161357,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"592:10": {
+			"questIDHigh:4": -195128502021370774,
+			"completed:9": {},
+			"questIDLow:4": -7192280862260231246,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"593:10": {
+			"questIDHigh:4": -5387384125192844770,
+			"completed:9": {},
+			"questIDLow:4": -4955572250515780267,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"594:10": {
+			"questIDHigh:4": 5903063764991559167,
+			"completed:9": {},
+			"questIDLow:4": -4962606815931488834,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"595:10": {
+			"questIDHigh:4": 4488729397868513561,
+			"completed:9": {},
+			"questIDLow:4": -8605459495339968929,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"596:10": {
+			"questIDHigh:4": 5978931570918247470,
+			"completed:9": {},
+			"questIDLow:4": -8924597008096843113,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"597:10": {
+			"questIDHigh:4": -1216081906106613343,
+			"completed:9": {},
+			"questIDLow:4": -7555069879958400827,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"598:10": {
+			"questIDHigh:4": -8716953040333551302,
+			"completed:9": {},
+			"questIDLow:4": -8557418058620121708,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"599:10": {
+			"questIDHigh:4": -2009721482207736046,
+			"completed:9": {},
+			"questIDLow:4": -6544974138470801374,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"600:10": {
+			"questIDHigh:4": -6670873518704277754,
+			"completed:9": {},
+			"questIDLow:4": -7637313670635839685,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"601:10": {
+			"questIDHigh:4": -6608413763258399660,
+			"completed:9": {},
+			"questIDLow:4": -8366714701690102551,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"602:10": {
+			"questIDHigh:4": -5577262393298042464,
+			"completed:9": {},
+			"questIDLow:4": -7631950141387230478,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"603:10": {
+			"questIDHigh:4": -7540320081664851520,
+			"completed:9": {},
+			"questIDLow:4": -7436127015502257994,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"604:10": {
+			"questIDHigh:4": 5141365005576195003,
+			"completed:9": {},
+			"questIDLow:4": -7135021797470379212,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"605:10": {
+			"questIDHigh:4": 7888351723808181376,
+			"completed:9": {},
+			"questIDLow:4": -9183883871301102344,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"606:10": {
+			"questIDHigh:4": -2722910663327530216,
+			"completed:9": {},
+			"questIDLow:4": -5153935192696345464,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"607:10": {
+			"questIDHigh:4": -544527829338994007,
+			"completed:9": {},
+			"questIDLow:4": -6432829857975955008,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"608:10": {
+			"questIDHigh:4": -3571086716829022193,
+			"completed:9": {},
+			"questIDLow:4": -7398094498102461209,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:crafting"
+				}
+			}
+		},
+		"609:10": {
+			"questIDHigh:4": 5632123505663035028,
+			"completed:9": {},
+			"questIDLow:4": -8208112088038258648,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"610:10": {
+			"questIDHigh:4": -4054421542003259571,
+			"completed:9": {},
+			"questIDLow:4": -7990597855961677952,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"611:10": {
+			"questIDHigh:4": 887187604383025111,
+			"completed:9": {},
+			"questIDLow:4": -7538977316335765000,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"612:10": {
+			"questIDHigh:4": -3029252713168353287,
+			"completed:9": {},
+			"questIDLow:4": -5953181667752069868,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"613:10": {
+			"questIDHigh:4": -6071038778405992953,
+			"completed:9": {},
+			"questIDLow:4": -6286339303468232782,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		},
+		"614:10": {
+			"questIDHigh:4": 1939233374399905981,
+			"completed:9": {},
+			"questIDLow:4": -4735039298011102183,
+			"tasks:9": {
+				"0:10": {
+					"completeUsers:9": {},
+					"userProgress:9": {},
+					"index:3": 0,
+					"taskID:8": "bq_standard:retrieval"
+				}
+			}
+		}
+	}
+}

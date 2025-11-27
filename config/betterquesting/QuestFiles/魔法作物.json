@@ -1,0 +1,494 @@
+{
+  "name": "魔法作物",
+  "description": "奇特的植物 (需解锁 “葬者之地”)",
+  "quests": [
+    {
+      "name": "涌动的魔力 (前置-藏者�",
+      "description": "踏入禁忌的地狱，你发现一种奇特的矿物，它似乎有种能够沟通植物的力量。",
+      "x": 12,
+      "y": 9,
+      "bigicon": true,
+      "icon": {
+        "id": "magicalcrops:1MinicioEssence"
+      },
+      "prerequisites": [
+        "{进阶挑战}[葬者之地]"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "收集32魔力精华，并制作精华种子",
+          "items": [
+            {
+              "item": {
+                "id": "magicalcrops:MinicioSeeds"
+              },
+              "required": 3
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:dirt",
+          "amount": 32
+        }
+      ]
+    },
+    {
+      "name": "魔力引导",
+      "description": "在研究这些奇特粉末的时候意外的发现似乎能够与绿宝石或是钻石产生奇妙的反应。",
+      "x": 14,
+      "y": 59,
+      "icon": {
+        "id": "magicalcrops:InfusionStoneWeak"
+      },
+      "prerequisites": [
+        "涌动的魔力 (前置-藏者�"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "longDescription": "制作一枚虚弱注入之石",
+          "items": [
+            {
+              "item": {
+                "id": "magicalcrops:InfusionStoneWeak"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "magicalcrops:MagicalFertilizer",
+          "amount": 5
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "TConstruct:ore.berries.two",
+          "damage": 9,
+          "amount": 16
+        },
+        {
+          "id": "magicalcrops:MinicioSeeds",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "基础之物",
+      "description": "在尝试使用这种奇特的植物之后，你发现这种植物可能是你在荒凉水星生存的关键，使用更高级的精华来升级你的入魔石！",
+      "x": 14,
+      "y": 100,
+      "icon": {
+        "id": "magicalcrops:InfusionStoneRegular"
+      },
+      "prerequisites": [
+        "魔力引导"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一枚正常注入之石",
+          "items": [
+            {
+              "item": {
+                "id": "magicalcrops:InfusionStoneRegular"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "magicalcrops:MagicalFertilizer",
+          "amount": 8
+        },
+        {
+          "id": "magicalcrops:CropBooster"
+        }
+      ]
+    },
+    {
+      "name": "奇特的植物1",
+      "description": "在辅助设备NEI的配合下，你发现了一种奇妙的种子配方，它是否能够让你走出燃料缺乏的窘境？",
+      "x": 48,
+      "y": 59,
+      "icon": {
+        "id": "magicalcrops:CoalSeeds"
+      },
+      "prerequisites": [
+        "魔力引导"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "获得一枚煤炭种子",
+          "items": [
+            {
+              "item": {
+                "id": "magicalcrops:CoalSeeds"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "magicalcrops:MagicalFertilizer",
+          "amount": 3
+        },
+        {
+          "id": "minecraft:dirt",
+          "amount": 16
+        }
+      ]
+    },
+    {
+      "name": "特制锄头",
+      "description": "经过多次的收割精华作物，你发现这种作物十分的脆弱，用其他方式收割都十分浪费，或是可以用其他工具来提升成品产量。",
+      "x": 90,
+      "y": 59,
+      "icon": {
+        "id": "magicalcropsarmour:AccioHoe"
+      },
+      "prerequisites": [
+        "奇特的植物1"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作初级精华锄",
+          "items": [
+            {
+              "item": {
+                "id": "magicalcropsarmour:AccioHoe"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "magicalcrops:AccioFurnace"
+        },
+        {
+          "id": "magicalcrops:1MinicioEssence",
+          "amount": 16
+        }
+      ]
+    },
+    {
+      "name": "备战！ 工业时代",
+      "description": "  你打算利用这种作物，来种植供工业所需的材料，制作铜种子和锡种子。",
+      "x": 48,
+      "y": 100,
+      "icon": {
+        "id": "magicalcrops:CopperSeeds"
+      },
+      "prerequisites": [
+        "基础之物"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "准备以下物品",
+          "items": [
+            {
+              "item": {
+                "id": "magicalcrops:CopperSeeds"
+              }
+            },
+            {
+              "item": {
+                "id": "magicalcrops:TinSeeds"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "magicalcrops:MagicalFertilizer",
+          "amount": 6
+        },
+        {
+          "id": "OpenBlocks:sprinkler"
+        },
+        {
+          "id": "ExtraUtilities:chandelier"
+        }
+      ]
+    },
+    {
+      "name": "更好的锄头",
+      "description": "在尝试特制的锄头之后，你觉得应该继续挖掘它的力量。",
+      "x": 90,
+      "y": 100,
+      "icon": {
+        "id": "magicalcropsarmour:CrucioHoe"
+      },
+      "prerequisites": [
+        "备战！ 工业时代"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作中级精华锄",
+          "items": [
+            {
+              "item": {
+                "id": "magicalcropsarmour:CrucioHoe"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "magicalcrops:1MinicioEssence",
+          "amount": 12
+        },
+        {
+          "id": "chisel:concrete",
+          "damage": 3,
+          "amount": 16
+        }
+      ]
+    },
+    {
+      "name": "魔力武装",
+      "description": "你被这惊人的植物魔力所折服，易塑性，坚韧，高耐久，做成贴身的护甲一定是明智的选择！",
+      "x": 130,
+      "y": 100,
+      "icon": {
+        "id": "magicalcropsarmour:CrucioArmourHelmet"
+      },
+      "prerequisites": [
+        "更好的锄头"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务(任务一)",
+          "longDescription": "制作以下物品 (双重任务)",
+          "items": [
+            {
+              "item": {
+                "id": "magicalcropsarmour:CrucioArmourHelmet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "magicalcropsarmour:CrucioArmourChestplate"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "magicalcropsarmour:CrucioArmourLeggings"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "magicalcropsarmour:CrucioArmourBoots"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "description": "检测任务(任务二)",
+          "longDescription": "制作以下物品",
+          "items": [
+            {
+              "item": {
+                "id": "magicalcropsarmour:CrucioAxe"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "magicalcropsarmour:CrucioSword"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "magicalcrops:CrucioFurnace"
+        },
+        {
+          "id": "ThermalExpansion:Tesseract",
+          "nbt": "{RSControl:1b,ModeEnergy:1b,ModeItems:1b,Frequency:-1,ModeFluid:1b}"
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "ImmersiveEngineering:material",
+          "damage": 6,
+          "amount": 32
+        },
+        {
+          "id": "ThermalFoundation:bucket",
+          "damage": 3,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "走向富裕",
+      "description": "  经过一段时间的种植，已经囤积了不少的材料了，是时候制作更高级入魔石了。",
+      "x": 14,
+      "y": 140,
+      "icon": {
+        "id": "magicalcrops:InfusionStoneStrong"
+      },
+      "prerequisites": [
+        "基础之物"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一枚正常注入之石",
+          "items": [
+            {
+              "item": {
+                "id": "magicalcrops:InfusionStoneStrong"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "magicalcrops:CropBooster",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "最需要的物资",
+      "description": "重工业的发展离不开铁，有了一些魔法作物之后，是时候开展铁作物的种植了。",
+      "x": 49,
+      "y": 140,
+      "icon": {
+        "id": "magicalcrops:IronSeeds"
+      },
+      "prerequisites": [
+        "走向富裕"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一枚铁种子",
+          "items": [
+            {
+              "item": {
+                "id": "magicalcrops:IronSeeds"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "ImmersiveEngineering:metalDevice",
+          "damage": 11,
+          "amount": 18
+        },
+        {
+          "id": "EnderIO:itemMachinePart",
+          "amount": 2
+        },
+        {
+          "id": "EnderIO:itemBasicCapacitor",
+          "damage": 1,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "种子集中营",
+      "description": "经过一段时间的经营，你已经有了大量的种子，利用魔法作物制作一枚种子袋，用来批量种植作物！",
+      "x": 91,
+      "y": 140,
+      "icon": {
+        "id": "magicalcrops:SeedBagCrucio"
+      },
+      "prerequisites": [
+        "最需要的物资"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作种子袋",
+          "items": [
+            {
+              "item": {
+                "id": "magicalcrops:SeedBagCrucio"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ExtraUtilities:decorativeBlock1",
+          "damage": 8,
+          "amount": 6
+        },
+        {
+          "id": "openmodularturrets:fenceTierThree",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "魔法作物大师",
+      "description": "经历了重重研究，改进，增强后，终于摸透了这种神奇的作物，现在的你，应该制作一枚极限注入之石了！",
+      "x": 14,
+      "y": 178,
+      "icon": {
+        "id": "magicalcrops:InfusionStoneExtreme"
+      },
+      "prerequisites": [
+        "走向富裕"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "magicalcrops:InfusionStoneMaster"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "EnderIO:blockFarmStation"
+        },
+        {
+          "id": "magicalcrops:CropBooster",
+          "amount": 2
+        }
+      ]
+    }
+  ],
+  "reputationBar": []
+}

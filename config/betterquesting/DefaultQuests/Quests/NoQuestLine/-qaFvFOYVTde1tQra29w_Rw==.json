@@ -1,0 +1,117 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -5876426187076253783,
+      "questIDLow:4": -5483686024201471225
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "击退了一群群怪物后发现我是时候使用科技的力量了！",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "stefinusguns:M1911",
+        "tag:10": {
+          "barrel:3": 0,
+          "cAmmo:3": 17,
+          "damage:3": 5,
+          "hasPlayedReloadSound:3": 0,
+          "hasplayedpump:3": 0,
+          "hit:3": 0,
+          "hittimer:3": 5,
+          "maxAmmo:3": 17,
+          "reloadMax:3": 38,
+          "reloadtimer:3": 38,
+          "slowdown:3": 1,
+          "zoom:3": 10,
+          "zoomed:3": 0
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "男人的浪漫",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -6223571074499129897,
+  "questIDLow:4": -5353360646952173753,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "stefinusguns:M1911",
+          "tag:10": {
+            "barrel:3": 0,
+            "cAmmo:3": 17,
+            "damage:3": 5,
+            "hasPlayedReloadSound:3": 0,
+            "hasplayedpump:3": 0,
+            "hit:3": 0,
+            "hittimer:3": 5,
+            "maxAmmo:3": 17,
+            "reloadMax:3": 38,
+            "reloadtimer:3": 38,
+            "slowdown:3": 1,
+            "zoom:3": 10,
+            "zoomed:3": 0
+          }
+        },
+        "1:10": {
+          "Count:3": 5,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "stefinusguns:M1911Ammo"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 16,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:bone"
+        },
+        "1:10": {
+          "Count:3": 16,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:rotten_flesh"
+        },
+        "2:10": {
+          "Count:3": 16,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:gunpowder"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

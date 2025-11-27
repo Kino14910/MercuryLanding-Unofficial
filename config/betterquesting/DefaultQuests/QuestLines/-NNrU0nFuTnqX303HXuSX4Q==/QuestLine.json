@@ -1,0 +1,19 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "你在进行日常的筛矿活动中，发现一种含有龙之力量的粉尘，你觉得它并不是粉尘这么简单。",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:book"
+      },
+      "name:8": "龙之进化",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questLineIDHigh:4": 3808590435206450810,
+  "questLineIDLow:4": -7503192935490086943
+}

@@ -1,4 +1,0 @@
-#Thu Oct 30 13:57:59 CST 2025
-SHADOW_ENTITY=1
-shadowDistance=384.0
-shadowMapResolution=4096

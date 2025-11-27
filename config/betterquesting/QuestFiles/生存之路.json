@@ -1,0 +1,2356 @@
+{
+  "name": "生存之路",
+  "description": "我静下心来，努力的让自己感到不是那么绝望，我应该做点什么...",
+  "quests": [
+    {
+      "name": "好消息\u0026坏消息",
+      "description": "被寄予厚望的无线访问节点终于发挥了作用，我成功的联系到了宇宙警察，然而我的到了一个坏消息，由于我所在的行星的特殊性，无法定位到我的所在地，是时候应该做些什么了..",
+      "x": 28,
+      "y": 98,
+      "icon": {
+        "id": "minecraft:sapling"
+      },
+      "prerequisites": [
+        "燃起的希望"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "种一些树。",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:log"
+              },
+              "required": 8
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:dye",
+          "damage": 15,
+          "amount": 16
+        },
+        {
+          "id": "exnihilo:crook_bone",
+          "nbt": "{ench:[0:{lvl:5s,id:35s},1:{lvl:3s,id:34s},2:{lvl:5s,id:32s}]}"
+        },
+        {
+          "id": "BiblioCraft:item.BiblioClipboard",
+          "nbt": "{page4:{title:\"\"\"\",taskStates:[0,0,0,0,0,0,0,0,0,],tasks:{task5:\"\"\"\",task6:\"\"\"\",task7:\"\"\"\",task8:\"\"\"\",task9:\"\"\"\",task1:\"\"\"\",task2:\"\"\"\",task3:\"\"\"\",task4:\"\"\"\"}},page3:{title:\"       后期的甜美生活\",taskStates:[0,0,0,0,0,0,0,0,0,],tasks:{task5:\"收集3k个羊毛\",task6:\"收集3k个皮革\",task7:\"收集5k个鸡蛋\",task8:\"(后方是星系的坑)\",task9:\"在本帖中秀出你的家吧！\",task1:\"制作6个六重压缩原石\",task2:\"自动化生产存储原件\",task3:\"制作出一个1024k存储原件\",task4:\"自动化种植+畜牧\"}},RepairCost:2,page2:{title:\"         待办事项\",taskStates:[0,0,0,0,0,0,0,0,0,],tasks:{task5:\"制作一个16k存储元件\",task6:\"拥有5个ME驱动器\",task7:\"发电量达到10000 RF/t\",task8:\"给我帖子评分 0W0\",task9:\"自动化树厂\",task1:\"筛矿-合成-粉碎-冶炼系统\",task2:\"收集一套AE模板\",task3:\"AE自动化所有电路板\",task4:\"蕴魔作物种出红石精华植物\"}},page1:{title:\"       点击方框可完成\",taskStates:[0,0,0,0,0,0,0,0,0,],tasks:{task5:\"建造草坪生成家畜\",task6:\"建造一个刷怪塔\",task7:\"建造一个9x9的农田，并种满。\",task8:\"设计出自动筛矿装置\",task9:\"将刷怪塔改为全自动\",task1:\"搜刮完飞船物品（）\",task2:\"将飞船全部点亮，防止怪物\",task3:\"造完全部匠魂工具桌\",task4:\"建造刷石场\"}},display:{Name:\"我的计划\"},totalPages:4,currentPage:1}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "我需要蚕~",
+      "description": "由于我迫切的需要得到线,然而在这种鬼地方，我只能寄托希望于蚕了...他应该躲在树叶里面.",
+      "x": 101,
+      "y": 67,
+      "icon": {
+        "id": "exnihilo:silkworm_cooked"
+      },
+      "prerequisites": [
+        "精打细算的生活"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "破坏树叶有几率获得蚕。",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilo:silkworm"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "exnihilo:silkworm_cooked"
+        },
+        {
+          "id": "TConstruct:toolRod",
+          "damage": 8
+        },
+        {
+          "id": "TConstruct:pickaxeHead",
+          "damage": 2
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:string",
+          "amount": 8
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "趁手的工作台~",
+      "description": "我迫切的需要一个合适的工作台来完成各种物品的加工..",
+      "x": 28,
+      "y": 65,
+      "icon": {
+        "id": "minecraft:crafting_table"
+      },
+      "prerequisites": [
+        "好消息\u0026坏消息"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作一个工作台",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:crafting_table"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "TConstruct:jerky",
+          "amount": 6
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "stefinusguns:M14Ammo",
+          "amount": 6
+        },
+        {
+          "id": "stefinusguns:M1911"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "珍贵的树苗",
+      "description": "我逐渐意识到，用手破坏树叶会把娇嫩的树苗给折断，大大降低了树苗的成活率，我需要做个钩子，这样就可以解决树苗的问题啦~",
+      "x": 65,
+      "y": 97,
+      "icon": {
+        "id": "exnihilo:crook"
+      },
+      "prerequisites": [
+        "好消息\u0026坏消息"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作一个钩子",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilo:crook"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:dirt"
+        },
+        {
+          "id": "stefinusguns:M14Ammo",
+          "amount": 2
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:sapling",
+          "damage": 2
+        },
+        {
+          "id": "minecraft:sapling",
+          "damage": 1
+        },
+        {
+          "id": "minecraft:sapling"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "快到桶里来！",
+      "description": "我需要一个大桶，来收集雨水~     我也可以利用他来做一些粘土~   嗯嗯，快点实施吧！",
+      "x": 28,
+      "y": 34,
+      "icon": {
+        "id": "exnihilo:barrel"
+      },
+      "prerequisites": [
+        "趁手的工作台~"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作一个木桶",
+          "items": [
+            {
+              "item": {
+                "id": "exastrisrebirth:blockBarrelTweak"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:sand",
+          "amount": 6
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "我们生产泥土，我们不是搬运工！",
+      "description": "看着你悉心打磨的一个木桶，突然脑海中闪过一个想法，把一些有机物放进去，是不是可以造出泥土呢？ 唔，放点树苗进去试试看？",
+      "x": 28,
+      "y": 2,
+      "icon": {
+        "id": "minecraft:dirt"
+      },
+      "prerequisites": [
+        "快到桶里来！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "获取3块泥土",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:dirt"
+              },
+              "required": 3
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:cobblestone",
+          "amount": 3
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:string",
+          "amount": 18
+        },
+        {
+          "id": "TConstruct:slime.sapling"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "筛掉没用的，留下有用的！",
+      "description": "我需要做个筛子，这样的话我就能分离出我需要的东西了！~",
+      "x": 66,
+      "y": 34,
+      "icon": {
+        "id": "exnihilo:sifting_table"
+      },
+      "prerequisites": [
+        "快到桶里来！"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作一台筛子",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilo:sifting_table"
+              }
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "TConstruct:jerky",
+          "amount": 8
+        },
+        {
+          "id": "TConstruct:knifeBlade",
+          "damage": 2
+        },
+        {
+          "id": "TConstruct:hatchetHead",
+          "damage": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "我要锤子，不是手机！",
+      "description": "有了锤子之后，我就可以把石头锤成砂砾，砂砾锤成沙子，沙子锤成尘土，多么方便的发明                          (这并不是广告）",
+      "x": 101,
+      "y": 97,
+      "icon": {
+        "id": "exnihilo:hammer_wood"
+      },
+      "prerequisites": [
+        "珍贵的树苗"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作一把锤子",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilo:hammer_wood"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:gravel",
+          "amount": 6
+        },
+        {
+          "id": "ExtraUtilities:golden_bag"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "热门话题？",
+      "description": "为了节约材料，我打算做一台半砖熔炉，然而效率是和普通熔炉差不多的，这下子我放心了！ (使用幸运方块请到开阔地)",
+      "x": 103,
+      "y": 2,
+      "icon": {
+        "id": "TConstruct:FurnaceSlab"
+      },
+      "prerequisites": [
+        "倔强的石粒"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "筛掉泥土获取石子，用石子制作圆石.",
+          "items": [
+            {
+              "item": {
+                "id": "TConstruct:FurnaceSlab"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "exnihilo:hammer_iron",
+          "nbt": "{ench:[0:{lvl:3s,id:35s},1:{lvl:3s,id:32s}]}"
+        },
+        {
+          "id": "lucky:lucky_block",
+          "amount": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "我生产的第一把工具！",
+      "description": "最近感觉泥土很稀有，这下子对我扩大种植规模的计划很不利，我需要做个剪刀，剪点叶子用来发酵成泥土！~",
+      "x": 138,
+      "y": 2,
+      "icon": {
+        "id": "minecraft:shears"
+      },
+      "prerequisites": [
+        "热门话题？"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作一把剪刀",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:shears"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:dirt",
+          "amount": 3
+        },
+        {
+          "id": "ThermalExpansion:Strongbox",
+          "damage": 2
+        },
+        {
+          "id": "lucky:lucky_block",
+          "amount": 3
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "我要烧出岩浆来！",
+      "description": "你忽然意识到，在这个贫瘠的星球里，岩浆对你来说很重要，你可以用它来生产石头，也可以用它来驱动机器，但是你得首先要有个坩埚！",
+      "x": 138,
+      "y": 97,
+      "icon": {
+        "id": "exnihilo:crucible"
+      },
+      "prerequisites": [
+        "我要锤子，不是手机！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "你可以用骨粉和粘土来制造瓷土，然后用瓷土做个坩埚的毛胚，接下来烧一下应该就能用了，嗯....",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilo:crucible"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "TConstruct:shovelHead",
+          "damage": 1024
+        },
+        {
+          "id": "harvestcraft:pampistachioSapling"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "我想我现在可以反击了！",
+      "description": "是时候做一把趁手的武器了",
+      "x": 170,
+      "y": 2,
+      "icon": {
+        "id": "TConstruct:broadsword",
+        "nbt": "{InfiTool:{BaseDurability:240,Head:5,Built:1b,HarvestLevel:1,Attack:5,RenderHead:5,ModDurability:0.0f,Handle:5,Broken:0b,Shoddy:0.0f,RenderHandle:5,Accessory:5,MiningSpeed:400,RenderAccessory:5,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:240,Modifiers:3},display:{Name:\"§f骨头 大剑\"}}"
+      },
+      "prerequisites": [
+        "我生产的第一把工具！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "制作以下物品",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:stick"
+              }
+            },
+            {
+              "item": {
+                "id": "TConstruct:swordBlade",
+                "damage": 2
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "lucky:lucky_block",
+          "amount": 3
+        },
+        {
+          "id": "punt:item.punt"
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "TConstruct:handGuard",
+          "damage": 6
+        },
+        {
+          "id": "TConstruct:handGuard",
+          "damage": 1000
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "我曾经是一枚工匠！",
+      "description": "陷入绝境时，你忽然想起小时候爸爸教你的一些木工知识，你欣喜若狂，感觉这些非常实用。",
+      "x": 28,
+      "y": 130,
+      "icon": {
+        "id": "TConstruct:ToolStationBlock",
+        "damage": 10
+      },
+      "prerequisites": [
+        "好消息\u0026坏消息"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作以下物品",
+          "items": [
+            {
+              "item": {
+                "id": "TConstruct:ToolStationBlock",
+                "damage": 10
+              }
+            },
+            {
+              "item": {
+                "id": "TConstruct:ToolStationBlock",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "TConstruct:ToolStationBlock"
+              }
+            },
+            {
+              "item": {
+                "id": "TConstruct:CraftingStation"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ExtraUtilities:watering_can"
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:wheat_seeds",
+          "amount": 3
+        },
+        {
+          "id": "minecraft:melon_seeds",
+          "amount": 3
+        },
+        {
+          "id": "minecraft:pumpkin_seeds",
+          "amount": 3
+        },
+        {
+          "id": "harvestcraft:raspberryseedItem"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "我的大烤炉",
+      "description": "飞船内能量寥寥无几，所以我只能寄托于熔岩的热量了，我想办法做一个大型的熔炉，用来帮我熔炼金属。",
+      "x": 28,
+      "y": 161,
+      "icon": {
+        "id": "TConstruct:materials",
+        "damage": 2
+      },
+      "prerequisites": [
+        "我曾经是一枚工匠！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "制作32个焦黑砖",
+          "items": [
+            {
+              "item": {
+                "id": "TConstruct:materials",
+                "damage": 2
+              },
+              "required": 32
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:sand",
+          "amount": 48
+        },
+        {
+          "id": "minecraft:clay",
+          "amount": 32
+        },
+        {
+          "id": "minecraft:coal",
+          "amount": 16
+        },
+        {
+          "id": "minecraft:dye",
+          "damage": 15,
+          "amount": 8
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "清理烦人的僵尸",
+      "description": "不怀好意的僵尸总是在你背后冒出来，简直不能忍，我一定要清理8只僵尸..",
+      "x": 202,
+      "y": 2,
+      "icon": {
+        "id": "minecraft:skull",
+        "damage": 2
+      },
+      "prerequisites": [
+        "我想我现在可以反击了！"
+      ],
+      "tasks": [
+        {
+          "type": "KILL",
+          "description": "Killing task",
+          "longDescription": "杀死8只僵尸",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "minecraft:skull",
+                "damage": 2
+              },
+              "mob": "Zombie",
+              "kills": 8,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "lucky:lucky_block",
+          "amount": 3
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "阴险的骷髅",
+      "description": "阴险的骷髅总是在各种角落阴我，我一定不会放过它！",
+      "x": 233,
+      "y": 2,
+      "icon": {
+        "id": "minecraft:skull"
+      },
+      "prerequisites": [
+        "清理烦人的僵尸"
+      ],
+      "tasks": [
+        {
+          "type": "KILL",
+          "description": "Killing task",
+          "longDescription": "杀死8只骷髅",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "minecraft:skull"
+              },
+              "mob": "Skeleton",
+              "kills": 8,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:arrow",
+          "amount": 16
+        },
+        {
+          "id": "lucky:lucky_block",
+          "amount": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "破坏者",
+      "description": "为什么要有这么烦人的怪物？ 我要在它炸完我的家前先解决掉他，不然...",
+      "x": 263,
+      "y": 2,
+      "icon": {
+        "id": "minecraft:skull",
+        "damage": 4
+      },
+      "prerequisites": [
+        "阴险的骷髅"
+      ],
+      "tasks": [
+        {
+          "type": "KILL",
+          "description": "Killing task",
+          "longDescription": "清理3只苦力怕",
+          "mobs": [
+            {
+              "name": "New",
+              "icon": {
+                "id": "minecraft:skull",
+                "damage": 4
+              },
+              "mob": "Creeper",
+              "kills": 3,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:arrow",
+          "amount": 32
+        },
+        {
+          "id": "ThermalExpansion:satchel",
+          "damage": 1,
+          "nbt": "{Accessible:1b}"
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "ExtraUtilities:plant/ender_lilly",
+          "amount": 3
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "冶炼炉的组装",
+      "description": "准备好了材料，接下来我们准备组装吧！",
+      "x": 28,
+      "y": 197,
+      "icon": {
+        "id": "TConstruct:Smeltery"
+      },
+      "prerequisites": [
+        "我的大烤炉"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "提示：部分金属制品可以熔炼回锭",
+          "longDescription": "制作以下物品，以用于冶炼炉搭建。",
+          "items": [
+            {
+              "item": {
+                "id": "TConstruct:Smeltery",
+                "damage": 2
+              },
+              "required": 17
+            },
+            {
+              "item": {
+                "id": "TConstruct:Smeltery",
+                "damage": 1
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "TConstruct:Smeltery"
+              }
+            },
+            {
+              "item": {
+                "id": "TConstruct:LavaTank"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "TConstruct:SearedBlock",
+          "damage": 2
+        },
+        {
+          "id": "TConstruct:SearedBlockNether"
+        },
+        {
+          "id": "minecraft:gold_block"
+        },
+        {
+          "id": "minecraft:iron_chestplate"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "男人的浪漫",
+      "description": "击退了一群群怪物后发现我是时候使用科技的力量了！",
+      "x": 293,
+      "y": 2,
+      "icon": {
+        "id": "stefinusguns:M1911",
+        "nbt": "{damage:5,barrel:0,cAmmo:17,zoom:10,reloadtimer:38,reloadMax:38,zoomed:0,slowdown:1,hasPlayedReloadSound:0,hasplayedpump:0,hit:0,maxAmmo:17,hittimer:5}"
+      },
+      "prerequisites": [
+        "破坏者"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "收集以下物品",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:bone"
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "minecraft:rotten_flesh"
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "minecraft:gunpowder"
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "stefinusguns:M1911",
+          "nbt": "{damage:5,barrel:0,cAmmo:17,zoom:10,reloadtimer:38,reloadMax:38,zoomed:0,slowdown:1,hasPlayedReloadSound:0,hasplayedpump:0,hit:0,maxAmmo:17,hittimer:5}"
+        },
+        {
+          "id": "stefinusguns:M1911Ammo",
+          "amount": 5
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "电能曙光",
+      "description": "凭借着你过硬的知识，你终于做出了一台发电机，天呐~虽然只是很原始的发电机，但是你感觉你已经在求生的路上跨了一大步！！！",
+      "x": 95,
+      "y": 127,
+      "icon": {
+        "id": "ExtraUtilities:generator"
+      },
+      "prerequisites": [
+        "方便的存储"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制造一台生存者发电机",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ThermalExpansion:capacitor",
+          "damage": 2,
+          "nbt": "{Energy:80000}"
+        },
+        {
+          "id": "minecraft:coal",
+          "amount": 16
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "热门发电话题",
+      "description": "你感觉你已经精通了熔炉，是时候用以前累计得熔炉知识将他应用在发电上面了~！",
+      "x": 109,
+      "y": 160,
+      "icon": {
+        "id": "ExtraUtilities:generator",
+        "damage": 1
+      },
+      "prerequisites": [
+        "电能曙光"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制造一台熔炉发电机",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator",
+                "damage": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:coal",
+          "amount": 32
+        },
+        {
+          "id": "EnderIO:blockElectricLight",
+          "damage": 1
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "Booooooom 发电就是爆炸",
+      "description": "艺术就是爆炸，但是光光只是用来欣赏的话，太不实际了，作为一个落难者，你要让手里每一份材料都散发出光芒~！ ",
+      "x": 80,
+      "y": 160,
+      "icon": {
+        "id": "ExtraUtilities:generator",
+        "damage": 8
+      },
+      "prerequisites": [
+        "电能曙光"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作一台TNT发电机 (不会破坏地形，爆炸会伤人）",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator",
+                "damage": 8
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:gunpowder",
+          "amount": 16
+        },
+        {
+          "id": "ThermalExpansion:Cell",
+          "damage": 1,
+          "nbt": "{Recv:200,RSControl:1b,Facing:3b,Energy:0,SideCache:[0:\"6 bytes\"],Send:200}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "经典款！",
+      "description": "你每日夜观天象，忽然发现水星也有一颗恒星，所以你掏出了家传的太阳能设计图....",
+      "x": 137,
+      "y": 145,
+      "icon": {
+        "id": "ExtraUtilities:generator",
+        "damage": 7
+      },
+      "prerequisites": [
+        "电能曙光"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作一台太阳能发电机",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator",
+                "damage": 7
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:glowstone_dust",
+          "amount": 32
+        },
+        {
+          "id": "minecraft:dye",
+          "damage": 15,
+          "amount": 32
+        },
+        {
+          "id": "BiblioCraft:BiblioLamp"
+        },
+        {
+          "id": "ThermalExpansion:Cell",
+          "damage": 1,
+          "nbt": "{Recv:200,RSControl:1b,Facing:3b,Energy:0,SideCache:[0:\"6 bytes\"],Send:200}"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "明智的选择",
+      "description": "你发现坩埚生产的熔岩给你的冶金炉用了之后还有剩余，联想到熔岩在熔炉里的卓越表现，你想出了个好主意，用熔岩发电！",
+      "x": 54,
+      "y": 146,
+      "icon": {
+        "id": "ExtraUtilities:generator",
+        "damage": 2
+      },
+      "prerequisites": [
+        "电能曙光"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "A task where the player has to craft specific items.",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:generator",
+                "damage": 2
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:bucket"
+        },
+        {
+          "id": "Mekanism:MachineBlock2",
+          "damage": 11
+        },
+        {
+          "id": "EnderIO:itemLiquidConduit",
+          "amount": 6
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "增产",
+      "description": "使用匠魂冶金炉是很效率，但是你感觉过于麻烦，于是你打算用机器来处理这些事情。",
+      "x": 93,
+      "y": 194,
+      "icon": {
+        "id": "EnderIO:blockSagMill"
+      },
+      "prerequisites": [
+        "经典款！",
+        "热门发电话题",
+        "Booooooom 发电就是爆炸",
+        "明智的选择"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作一台SAG磨粉机",
+          "items": [
+            {
+              "item": {
+                "id": "EnderIO:blockSagMill"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:iron_ore",
+          "amount": 6
+        },
+        {
+          "id": "ThermalFoundation:Ore",
+          "amount": 6
+        },
+        {
+          "id": "ThermalFoundation:Ore",
+          "damage": 1,
+          "amount": 6
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "热门话题x3",
+      "description": "你忽然发现你曾经也学习过魔法，现在你把三台熔炉使用魔法镶嵌在一个机械框架里面，这下子你可以一次烧3个物品了！！！！ 是时候丢弃其他三个熔炉了！！！！",
+      "x": 131,
+      "y": 194,
+      "icon": {
+        "id": "EnderIO:blockAlloySmelter"
+      },
+      "prerequisites": [
+        "增产"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作一台合金炉 ",
+          "items": [
+            {
+              "item": {
+                "id": "EnderIO:blockAlloySmelter"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:furnace"
+        },
+        {
+          "id": "minecraft:furnace"
+        },
+        {
+          "id": "minecraft:furnace"
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "ExtraUtilities:trashcan"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "神奇的水晶",
+      "description": "经过你多年来筛沙子的经验，你发现许多沙子内都藏有一种神奇的水晶，这种水晶仿佛有着生命，于是你脑洞大开....",
+      "x": 169,
+      "y": 194,
+      "icon": {
+        "id": "appliedenergistics2:item.ItemMultiMaterial",
+        "damage": 7
+      },
+      "prerequisites": [
+        "热门话题x3"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "制作12个福鲁伊克斯水晶",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:item.ItemMultiMaterial",
+                "damage": 7
+              },
+              "required": 12
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Mekanism:MachineBlock2",
+          "damage": 11
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "来自外星的科技",
+      "description": "水星上很多怪物都藏有礼袋。打开它们的时候竟然发现里面有很多神奇的芯片压印模板，你欣喜若狂，现在你的科技已经足够研究这些信息了！！",
+      "x": 200,
+      "y": 194,
+      "icon": {
+        "id": "appliedenergistics2:tile.BlockInscriber"
+      },
+      "prerequisites": [
+        "神奇的水晶"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作一台压印器",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:tile.BlockInscriber"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "appliedenergistics2:tile.BlockSkyStone",
+          "amount": 12
+        },
+        {
+          "id": "minecraft:slime_ball",
+          "amount": 8
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "迷人的科技",
+      "description": "你研究很长时间，终于造出了外星科技的控制中枢，多么神奇的科技！只要通电水晶就会散发出彩色光芒，你相信他不只是一个彩色灯泡这么简单。",
+      "x": 224,
+      "y": 196,
+      "icon": {
+        "id": "appliedenergistics2:tile.BlockController"
+      },
+      "prerequisites": [
+        "来自外星的科技"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "A task where the player has to craft specific items.",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:tile.BlockController"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "appliedenergistics2:item.ItemMultiPart",
+          "damage": 56,
+          "amount": 12
+        },
+        {
+          "id": "appliedenergistics2:item.ItemMultiMaterial",
+          "damage": 44,
+          "amount": 6
+        },
+        {
+          "id": "appliedenergistics2:item.ItemMultiMaterial",
+          "damage": 43,
+          "amount": 6
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "令人惊奇的物品存储",
+      "description": "外星科技越研究越玄乎，似乎和地球上的电脑很相似，然而它们存储的却是物品...",
+      "x": 253,
+      "y": 198,
+      "icon": {
+        "id": "appliedenergistics2:item.ItemBasicStorageCell.1k"
+      },
+      "prerequisites": [
+        "迷人的科技"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作1个1k存储元件。",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:item.ItemBasicStorageCell.1k"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "appliedenergistics2:item.ItemMultiMaterial",
+          "damage": 22,
+          "amount": 3
+        },
+        {
+          "id": "lucky:lucky_block",
+          "amount": 3
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "哈~ 我的服务器",
+      "description": "正在对外星科技感到一筹莫展时，你忽然想起了地球上的服务器，对啊~！ 外星科技就是把物品打碎成量子状态，然后存储进存储原件，拿出来的时候只要把他重新聚集成物品！",
+      "x": 283,
+      "y": 199,
+      "icon": {
+        "id": "appliedenergistics2:tile.BlockDrive"
+      },
+      "prerequisites": [
+        "令人惊奇的物品存储"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制造一台ME存储器",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:tile.BlockDrive"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "appliedenergistics2:item.ItemBasicStorageCell.4k"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "更先进的工作台",
+      "description": "你现在已经不满足于落难时期建造的简易工作台了~！",
+      "x": 311,
+      "y": 198,
+      "icon": {
+        "id": "appliedenergistics2:item.ItemMultiPart",
+        "damage": 360
+      },
+      "prerequisites": [
+        "哈~ 我的服务器"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制造一块ME合成终端",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:item.ItemMultiPart",
+                "damage": 360
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "appliedenergistics2:tile.BlockEnergyCell",
+          "amount": 4
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "自动生产石头！",
+      "description": "现在也有点家底了，是时候告别辛苦的采石任务了。",
+      "x": 183,
+      "y": 97,
+      "icon": {
+        "id": "ExtraUtilities:extractor_base"
+      },
+      "prerequisites": [
+        "我要烧出岩浆来！"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作以下物品，以用来自动采石。",
+          "items": [
+            {
+              "item": {
+                "id": "ExtraUtilities:extractor_base"
+              }
+            },
+            {
+              "item": {
+                "id": "ExtraUtilities:nodeUpgrade",
+                "damage": 2
+              }
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "BiblioCraft:BiblioCase",
+          "amount": 2
+        },
+        {
+          "id": "BiblioCraft:Armor Stand"
+        },
+        {
+          "id": "BiblioCraft:BiblioRack"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "倔强的石粒",
+      "description": "你迫切的需要一些石头.",
+      "x": 67,
+      "y": 2,
+      "icon": {
+        "id": "minecraft:cobblestone"
+      },
+      "prerequisites": [
+        "我们生产泥土，我们不是搬运工！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "筛泥土获得石子，将石子合成圆石",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilo:stone"
+              },
+              "required": 8
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:dirt",
+          "amount": 6
+        },
+        {
+          "id": "harvestcraft:market"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "信得过的伙伴",
+      "description": "你已经意识到，靠自己的肉体来和怪物战斗是十分不明智的，我需要建造自动炮台！",
+      "x": 170,
+      "y": 35,
+      "icon": {
+        "id": "openmodularturrets:disposeItemTurret"
+      },
+      "prerequisites": [
+        "我想我现在可以反击了！"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作以下物品",
+          "items": [
+            {
+              "item": {
+                "id": "openmodularturrets:disposeItemTurret"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "openmodularturrets:baseTierOneBlock"
+        },
+        {
+          "id": "exnihilo:stone",
+          "amount": 12
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "方便的存储",
+      "description": "你发明了一种桶，能把放入64组相同物品，似乎还可以升级，貌似挺不错哦~",
+      "x": 183,
+      "y": 129,
+      "icon": {
+        "id": "JABBA:barrel"
+      },
+      "prerequisites": [
+        "自动生产石头！"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作一个桶",
+          "items": [
+            {
+              "item": {
+                "id": "JABBA:barrel"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ExtraUtilities:pipes",
+          "amount": 6
+        },
+        {
+          "id": "JABBA:hammer"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "精打细算的生活",
+      "description": "你现在手头资源十分有限，必须得精打细算，让每一份资源都发挥作用。",
+      "x": 65,
+      "y": 67,
+      "icon": {
+        "id": "TConstruct:Armor.DryingRack"
+      },
+      "prerequisites": [
+        "好消息\u0026坏消息"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作1根晾干架(须合成)",
+          "items": [
+            {
+              "item": {
+                "id": "TConstruct:Armor.DryingRack"
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "将腐肉右键放置在晾干架上，静等风干至僵尸肉干。",
+          "items": [
+            {
+              "item": {
+                "id": "TConstruct:jerky",
+                "damage": 5
+              },
+              "required": 6
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "exnihilo:seed_spruce"
+        },
+        {
+          "id": "exnihilo:seed_acacia"
+        },
+        {
+          "id": "minecraft:planks",
+          "amount": 8
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "TConstruct:creativeModifier"
+        },
+        {
+          "id": "TConstruct:heartCanister",
+          "damage": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "度过艰难的夜晚",
+      "description": "你逐渐感觉到，夜晚怪物的嘶吼声能让你精神恍惚，心情低落，为了不影响你以后的生存安排，是时候制作一张床了.",
+      "x": 138,
+      "y": 66,
+      "icon": {
+        "id": "minecraft:bed"
+      },
+      "prerequisites": [
+        "我需要蚕~"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "合成任务",
+          "longDescription": "制作一张床。",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:bed"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ThermalExpansion:capacitor",
+          "damage": 2,
+          "nbt": "{Energy:80000}"
+        },
+        {
+          "id": "minecraft:flower_pot"
+        },
+        {
+          "id": "minecraft:double_plant",
+          "damage": 4
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "燃起的希望",
+      "description": "我忽然想起了以前在飞船顶部安装了无线访问点，可以在飞船中央区域取得扳手，得赶快拆下无线访问节点，或许能够联系到外界...但愿没有坏掉...",
+      "x": 2,
+      "y": 98,
+      "icon": {
+        "id": "appliedenergistics2:tile.BlockWireless"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "获取物品",
+          "longDescription": "在飞船大厅找到扳手，然后想办法爬到飞船顶部拆下无线访问点。",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:tile.BlockWireless"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:dirt"
+        },
+        {
+          "id": "Sync:Sync_BlockPlacer",
+          "damage": 1
+        },
+        {
+          "id": "ThermalExpansion:Cell",
+          "damage": 1,
+          "nbt": "{Recv:200,RSControl:1b,Facing:4b,Energy:50600,SideCache:[0:\"6 bytes\"],Send:200}"
+        },
+        {
+          "id": "Sync:Sync_BlockPlacer"
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:sapling"
+        },
+        {
+          "id": "minecraft:sapling",
+          "damage": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "量产金属",
+      "description": "现在已经有了充足的石头储备，是时候开始量产金属了~！",
+      "x": 215,
+      "y": 129,
+      "icon": {
+        "id": "minecraft:gravel"
+      },
+      "prerequisites": [
+        "方便的存储"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "合成任务",
+          "longDescription": "使用8个石头和1个尘土来制作砂砾。",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:gravel"
+              },
+              "required": 64
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "openmodularturrets:baseTierTwoBlock"
+        },
+        {
+          "id": "ImmersiveEngineering:storage",
+          "damage": 7
+        },
+        {
+          "id": "ImmersiveEngineering:seed",
+          "amount": 8
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "第一台粉碎机",
+      "description": "闲余之时，在船长书柜里发现一本工程师手册，里面记载着一种机器，能把矿物磨成粉来增产，试着做出来看看？",
+      "x": 280,
+      "y": 129,
+      "icon": {
+        "id": "ImmersiveEngineering:metalDecoration",
+        "damage": 7
+      },
+      "prerequisites": [
+        "更高的炉温"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "制作8个轻型工程块。                         (粉碎机组装方式请看工程师手册)",
+          "items": [
+            {
+              "item": {
+                "id": "ImmersiveEngineering:metalDecoration",
+                "damage": 7
+              },
+              "required": 8
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ImmersiveEngineering:metalDecoration",
+          "damage": 7,
+          "amount": 3
+        },
+        {
+          "id": "ImmersiveEngineering:metalDecoration",
+          "damage": 1,
+          "amount": 10
+        },
+        {
+          "id": "ImmersiveEngineering:metalDecoration",
+          "amount": 8
+        },
+        {
+          "id": "minecraft:hopper",
+          "amount": 9
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "更高的炉温",
+      "description": "冶炼炉也不能满足你的需求了，你需要更高的炉温来锻造钢铁。",
+      "x": 248,
+      "y": 129,
+      "icon": {
+        "id": "ImmersiveEngineering:stoneDecoration",
+        "damage": 2
+      },
+      "prerequisites": [
+        "量产金属"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "合成任务",
+          "longDescription": "制作27个高炉砖",
+          "items": [
+            {
+              "item": {
+                "id": "ImmersiveEngineering:stoneDecoration",
+                "damage": 2
+              },
+              "required": 27
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ImmersiveEngineering:material",
+          "damage": 11
+        },
+        {
+          "id": "ImmersiveEngineering:material",
+          "damage": 6,
+          "amount": 16
+        },
+        {
+          "id": "ImmersiveEngineering:tool"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "防潮！！",
+      "description": "常规的齿轮并不能保证在潮湿的水星运转，你需要制作一些防潮金属来替代了！。",
+      "x": 310,
+      "y": 129,
+      "icon": {
+        "id": "ThermalFoundation:material",
+        "damage": 134
+      },
+      "prerequisites": [
+        "第一台粉碎机"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "使用1铜粉和1铁粉和任意一种染料来合成防潮金属粉,然后将其制作为防潮金属齿轮",
+          "items": [
+            {
+              "item": {
+                "id": "ThermalFoundation:material",
+                "damage": 134
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ThermalFoundation:material",
+          "damage": 38,
+          "amount": 6
+        },
+        {
+          "id": "Mekanism:BasicBlock",
+          "damage": 8,
+          "amount": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "防腐化",
+      "description": "你发现在湿润的水星上，木材很容易就潮湿，发霉，最后烂掉，你急切需要做好防腐工作，以便于以后搭建电网。",
+      "x": 215,
+      "y": 98,
+      "icon": {
+        "id": "ImmersiveEngineering:stoneDecoration",
+        "damage": 1
+      },
+      "prerequisites": [
+        "量产金属"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "制作8个焦炉砖",
+          "items": [
+            {
+              "item": {
+                "id": "ImmersiveEngineering:stoneDecoration",
+                "damage": 1
+              },
+              "required": 8
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:hardened_clay",
+          "amount": 6
+        },
+        {
+          "id": "ImmersiveEngineering:material",
+          "damage": 5,
+          "amount": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "搭建电网",
+      "description": "日日夜夜不断劳作，终于告别了刀耕火种的生活，是时候来迎接电力时代了。",
+      "x": 215,
+      "y": 67,
+      "icon": {
+        "id": "ImmersiveEngineering:woodenDevice"
+      },
+      "prerequisites": [
+        "防腐化"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "制作以下物品",
+          "items": [
+            {
+              "item": {
+                "id": "ImmersiveEngineering:woodenDevice"
+              }
+            },
+            {
+              "item": {
+                "id": "ImmersiveEngineering:coil"
+              },
+              "required": 8
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ImmersiveEngineering:metalDecoration",
+          "damage": 2,
+          "amount": 4
+        },
+        {
+          "id": "ImmersiveEngineering:woodenDevice"
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "ImmersiveEngineering:woodenDevice",
+          "damage": 2
+        },
+        {
+          "id": "ImmersiveEngineering:woodenDevice",
+          "damage": 1
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "大麻工业",
+      "description": "你需要种植大麻来制作帆布。",
+      "x": 215,
+      "y": 36,
+      "icon": {
+        "id": "ImmersiveEngineering:hemp"
+      },
+      "prerequisites": [
+        "搭建电网"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "获得32个大麻纤维",
+          "items": [
+            {
+              "item": {
+                "id": "ImmersiveEngineering:material",
+                "damage": 3
+              },
+              "required": 32
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ImmersiveEngineering:skyhook"
+        },
+        {
+          "id": "ImmersiveEngineering:coil",
+          "damage": 4,
+          "amount": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "让你们高兴高兴！~",
+      "description": "使用左轮手枪英勇杀敌曾经是你儿时梦想，而身在这种困境中，为何不尝试使用它呢？",
+      "x": 245,
+      "y": 36,
+      "icon": {
+        "id": "ImmersiveEngineering:revolver",
+        "nbt": "{Inv:[]}"
+      },
+      "prerequisites": [
+        "大麻工业"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "检测任务",
+          "longDescription": "制作一把左轮手枪",
+          "items": [
+            {
+              "item": {
+                "id": "ImmersiveEngineering:revolver",
+                "nbt": "{Inv:[]}"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "ImmersiveEngineering:bullet",
+          "damage": 5,
+          "amount": 16
+        },
+        {
+          "id": "ImmersiveEngineering:bullet",
+          "damage": 3,
+          "amount": 16
+        },
+        {
+          "id": "ImmersiveEngineering:bullet",
+          "damage": 2,
+          "amount": 16
+        },
+        {
+          "id": "ImmersiveEngineering:bullet",
+          "damage": 9,
+          "amount": 16
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "电能加速",
+      "description": "在你把玩左轮手枪的时候，你忽然想起了你家乡曾经非常流行的手持轨道炮，尝试制作一把吧！",
+      "x": 275,
+      "y": 66,
+      "icon": {
+        "id": "ImmersiveEngineering:railgun"
+      },
+      "prerequisites": [
+        "充电站"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作轨道炮",
+          "items": [
+            {
+              "item": {
+                "id": "ImmersiveEngineering:railgun"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ImmersiveEngineering:material",
+          "damage": 15,
+          "amount": 64
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "FFF",
+      "description": "  在你家乡，有种叫做\"FFF\"团的正义组织，他们每人都手持火焰喷射器器进行绿色的世界净化活动，事实证明这种武器是简单而高效的，我应该也制作一把。",
+      "x": 304,
+      "y": 36,
+      "icon": {
+        "id": "ImmersiveEngineering:chemthrower"
+      },
+      "prerequisites": [
+        "充电站"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一把化学喷射器",
+          "items": [
+            {
+              "item": {
+                "id": "ImmersiveEngineering:chemthrower"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ImmersiveEngineering:jerrycan"
+        },
+        {
+          "id": "minecraft:torch"
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "改装-瞄准镜",
+      "description": "你想让轨道炮发挥狙击枪的实力，尝试加装一枚",
+      "x": 275,
+      "y": 98,
+      "icon": {
+        "id": "ImmersiveEngineering:toolupgrade",
+        "damage": 8
+      },
+      "prerequisites": [
+        "电能加速"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一枚瞄准镜，在工程师装配台内合成带瞄准镜的轨道炮",
+          "items": [
+            {
+              "item": {
+                "id": "ImmersiveEngineering:toolupgrade",
+                "damage": 8
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "充电站",
+      "description": "步入工业时代的你，需要一些机器来给你身上电器充能。",
+      "x": 274,
+      "y": 36,
+      "icon": {
+        "id": "ImmersiveEngineering:metalDevice2",
+        "damage": 10
+      },
+      "prerequisites": [
+        "让你们高兴高兴！~"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作一台充电站",
+          "items": [
+            {
+              "item": {
+                "id": "ImmersiveEngineering:metalDevice2",
+                "damage": 10
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ImmersiveEngineering:coil",
+          "damage": 1,
+          "amount": 6
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "自动化筛矿",
+      "description": "在研究筛子的时候，你发现这种结构非常容易改造成自动化。囤积够材料后，一定要制作出来！",
+      "x": 100,
+      "y": 34,
+      "icon": {
+        "id": "exastrisrebirth:blockSieveAutomatic"
+      },
+      "prerequisites": [
+        "筛掉没用的，留下有用的！"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作自动筛子",
+          "items": [
+            {
+              "item": {
+                "id": "exastrisrebirth:blockSieveAutomatic"
+              }
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "exastrisrebirth:itemSieveUpgrade",
+          "amount": 3
+        },
+        {
+          "id": "exastrisrebirth:itemSieveUpgrade",
+          "damage": 1,
+          "amount": 2
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "晶体催生",
+      "description": "在研究水晶的量子特性时，水晶之间奇特的共鸣现象启发了我，经过反复试验，我终于设计出了一种共振加速装置，这种装置通过精确控制量子共振频率，能极大促进福鲁伊克斯水晶的结晶过程，让生产效率大幅提升。",
+      "x": 163,
+      "y": 147,
+      "icon": {
+        "id": "appliedenergistics2:tile.BlockQuartzGrowthAccelerator"
+      },
+      "prerequisites": [
+        "神奇的水晶"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作晶体催生器。",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:tile.BlockQuartzGrowthAccelerator"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "appliedenergistics2:item.ItemMultiMaterial",
+          "damage": 7,
+          "amount": 16
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "晶体催生革命",
+      "description": "既然晶体催生需要催生器利用一个面接触，六个面接触固然可以效率最大化，但是无法放入晶体种子，那为什么不直接设计一个六面接触的催生仓？这样不仅效率最大化，还彻底摆脱了放不进去的难题！",
+      "x": 209,
+      "y": 163,
+      "icon": {
+        "id": "ae2stuff:Grower"
+      },
+      "prerequisites": [
+        "晶体催生"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作晶体催生仓。这个革命性的设计将彻底改变水晶生产方式-—无需水源、空间效率提升600%、生产速度再翻倍！",
+          "items": [
+            {
+              "item": {
+                "id": "ae2stuff:Grower"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "appliedenergistics2:item.ItemMultiMaterial",
+          "damage": 7,
+          "amount": 16
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "能量视觉",
+      "description": "惊人的发现！当我用照明面板照射高纯福鲁伊克斯水晶时，竞然看到了它们之间复杂的能量链接网络。这让我意识到外星科技的能量流动是可见的！",
+      "x": 248,
+      "y": 161,
+      "icon": {
+        "id": "ae2stuff:Visualiser"
+      },
+      "prerequisites": [
+        "晶体催生革命"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "制作网络可视化工具",
+          "items": [
+            {
+              "item": {
+                "id": "ae2stuff:Visualiser"
+              }
+            }
+          ]
+        }
+      ],
+      "commandrewards": []
+    },
+    {
+      "name": "遇事不决， 量子力学 ",
+      "x": 278,
+      "y": 163,
+      "icon": {
+        "id": "appliedenergistics2:item.ItemMultiMaterial",
+        "damage": 47
+      },
+      "prerequisites": [
+        "更先进的工作台"
+      ],
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:tile.BlockQuantumRing"
+              },
+              "required": 8
+            },
+            {
+              "item": {
+                "id": "appliedenergistics2:tile.BlockQuantumLinkChamber"
+              }
+            },
+            {
+              "item": {
+                "id": "appliedenergistics2:item.ItemMultiMaterial",
+                "damage": 48
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ae2fc:quantum_bridge_card"
+        }
+      ],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}
